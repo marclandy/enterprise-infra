@@ -17,11 +17,13 @@ Each capability addresses distinct but interconnected aspects of modern cloud se
 ---
 
 <details>
-<summary> <strong> 
+<summary> 
+  <strong> 
 
 ## ☁️ CLOUD SECURITY POSTURE MANAGEMENT (CSPM) 
 
-</strong></summary>
+ </strong>
+</summary>
 
 <br>
 
