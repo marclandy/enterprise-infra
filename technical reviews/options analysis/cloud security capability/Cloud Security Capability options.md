@@ -1,16 +1,16 @@
-# 🛡️ Cloud Security Capability Options: A Comprehensive Guide to CSPM, SSPM, and DSPM
+# Cloud Security Capability Options: A Comprehensive Guide to CSPM, SSPM, and DSPM
 
 > *Navigating the modern cloud security landscape requires strategic investment in the right capabilities. This comprehensive analysis explores three critical security domains that every enterprise should consider.*
 
 ---
 
-## 🎯 Executive Summary
+## Executive Summary
 
 As organizations accelerate their digital transformation and cloud adoption, traditional security perimeters dissolve, creating new vulnerabilities and compliance challenges. This document examines three fundamental cloud security capabilities that directly address these challenges:
 
-- **🔧 CSPM** → Cloud Configuration & Compliance Assurance
-- **📱 SSPM** → SaaS Application Security & Governance  
-- **🗃️ DSPM** → Cloud Data Security & Risk Visibility
+- **CSPM** → Cloud Configuration & Compliance Assurance
+- **SSPM** → SaaS Application Security & Governance  
+- **DSPM** → Cloud Data Security & Risk Visibility
 
 Each capability addresses distinct but interconnected aspects of modern cloud security, from infrastructure misconfigurations to SaaS application risks and data governance challenges.
 
@@ -19,7 +19,7 @@ Each capability addresses distinct but interconnected aspects of modern cloud se
 <details>
 <summary> 
   
-### 🖱️ ☁️ CLOUD SECURITY POSTURE MANAGEMENT (CSPM) 
+### 🖱️ | ☁️ CLOUD SECURITY POSTURE MANAGEMENT (CSPM) 
 
 </summary>
 
@@ -103,7 +103,7 @@ Financial sector analysis reveals **strong convergence toward integrated CNAPP s
 <details>
 <summary> 
   
-### 🖱️ 📱 SAAS SECURITY POSTURE MANAGEMENT (SSPM)
+### 🖱️ | 📱 SAAS SECURITY POSTURE MANAGEMENT (SSPM)
 
 </summary>
 
@@ -186,7 +186,7 @@ Financial services organizations with similar SaaS portfolios demonstrate **incr
 <details>
 <summary> 
 
-### 🖱️ 🗃️ DATA SECURITY POSTURE MANAGEMENT (DSPM)
+### 🖱️ | 🗃️ DATA SECURITY POSTURE MANAGEMENT (DSPM)
   
 </summary>
 
