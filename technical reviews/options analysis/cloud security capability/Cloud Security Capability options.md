@@ -1,193 +1,410 @@
-Cloud Security Capability options 
+---
+title: Cloud Security Capability options
+---
 
-This document outlines an options paper one per function (CSPM, SSPM, DSPM), covering core functions, stakeholders, rationale, implications, peer review, technical references, and a structured requirement fulfillment and evaluation model with ratings across compliance, business value, cost effectiveness, delivery, and operability.
+This document outlines an options paper one per function (CSPM, SSPM,
+DSPM), covering core functions, stakeholders, rationale, implications,
+peer review, technical references, and a structured requirement
+fulfillment and evaluation model with ratings across compliance,
+business value, cost effectiveness, delivery, and operability.
 
-CSPM, SSPM and DSPM directly map to strategic security capabilities, namely, 
+CSPM, SSPM and DSPM directly map to strategic security capabilities,
+namely,
 
-CSPM > Cloud Configuration & Compliance Assurance
+-   CSPM \> Cloud Configuration & Compliance Assurance
 
-SSPM > SaaS Application Security & Governance
+-   SSPM \> SaaS Application Security & Governance
 
-DSPM > Cloud Data Security & Risk Visibility
+-   DSPM \> Cloud Data Security & Risk Visibility
 
-CLOUD SECURITY POSTURE MANAGEMENT (CSPM)
+**CLOUD SECURITY POSTURE MANAGEMENT (CSPM)**
 
-Background
+## 
 
-’s cloud-first strategy and migration to Microsoft Azure introduces new risks associated with cloud infrastructure misconfigurations. To maintain compliance with regulatory requirements and reduce cloud security risk, CSPM is critical in providing visibility, continuous monitoring, and remediation across cloud environments.
+## Background
 
-Functions the Security Capability Must Perform
+\<Enterprise\>'s cloud-first strategy and migration to Microsoft Azure
+introduces new risks associated with cloud infrastructure
+misconfigurations. To maintain compliance with regulatory requirements
+and reduce cloud security risk, CSPM is critical in providing
+visibility, continuous monitoring, and remediation across cloud
+environments.
+
+## 
+
+## Functions the Security Capability Must Perform
 
 Based on Gartner and industry standards:
 
-Continuous assessment of cloud resource configurations
+-   Continuous assessment of cloud resource configurations
 
-Identification and remediation of misconfigurations
+-   Identification and remediation of misconfigurations
 
-Visibility across multi-cloud environments
+-   Visibility across multi-cloud environments
 
-Policy enforcement based on compliance frameworks (e.g., ISO 27001, APRA CPS 234)
+-   Policy enforcement based on compliance frameworks (e.g., ISO 27001,
+    APRA CPS 234)
 
-Automated remediation and alerting
+-   Automated remediation and alerting
 
-Integration with CI/CD pipelines
+-   Integration with CI/CD pipelines
 
-Risk scoring and prioritization
+-   Risk scoring and prioritization
 
-Stakeholders
+## 
 
-CISO and Security Operations Team
+## Stakeholders
 
-Cloud Platform Engineering Team
+-   CISO and Security Operations Team
 
-Compliance and Risk Management
+-   Cloud Platform Engineering Team
 
-Application Owners
+-   Compliance and Risk Management
 
-Rationale
+-   Application Owners
 
-Cloud misconfigurations are a leading cause of security breaches. CSPM tools reduce this risk and support a proactive security posture by providing automation, visibility, and real-time remediation.
+## Rationale
 
-Implications
+Cloud misconfigurations are a leading cause of security breaches. CSPM
+tools reduce this risk and support a proactive security posture by
+providing automation, visibility, and real-time remediation.
 
-Potential overlap with CNAPP and SIEM tools
+## 
 
-Need for skilled resources to tune policies and remediations
+## Implications
 
-Tool integration with Azure and third-party platforms
+-   Potential overlap with CNAPP and SIEM tools
 
-Peer Review
+-   Need for skilled resources to tune policies and remediations
 
-Insights from financial sector peers show strong adoption of integrated CNAPP tools for enterprise-wide cloud security management.
+-   Tool integration with Azure and third-party platforms
 
-Options Evaluation
+## 
 
-Technical Reference
+## Peer Review
 
-NIST SP 800-190
+Insights from financial sector peers show strong adoption of integrated
+CNAPP tools for enterprise-wide cloud security management.
 
-Gartner Market Guide for CSPM
+## Options Evaluation
 
-CSA Cloud Controls Matrix
+  ------------------------------------------------------------------------------
+  **Option**   **Description**   **Pros**          **Cons**       **Vendors**
+  ------------ ----------------- ----------------- -------------- --------------
+  1\. Native   Azure Security    Cost-effective,   Limited        Microsoft
+  Cloud Tools  Center            easy integration  multi-cloud    Defender for
+                                                   support        Cloud
 
-Requirement Fulfilment
+  2\.          Purpose-built     Best-of-breed,    Tool sprawl,   Wiz, Prisma
+  Standalone   tools             multi-cloud,      learning curve Cloud, Orca
+  CSPM                           agentless                        
 
-Rating Categories
+  3\. CNAPP    CSPM + CWPP +     Broadest          High           Prisma Cloud,
+               CIEM              coverage,         complexity     Wiz, Microsoft
+                                 scalable                         CNAPP
+  ------------------------------------------------------------------------------
 
-SAAS SECURITY POSTURE MANAGEMENT (SSPM)
+## 
 
-Background
+## Technical Reference
 
- uses a wide range of SaaS applications like Microsoft 365, Salesforce, and Workday. These platforms are outside traditional perimeter controls, making configuration drift and third-party app risk a major concern.
+-   NIST SP 800-190
 
-Functions the Security Capability Must Perform
+-   Gartner Market Guide for CSPM
 
-Centralized visibility across SaaS platforms
+-   CSA Cloud Controls Matrix
 
-Misconfiguration detection
+## 
 
-OAuth and third-party app access review
+## Requirement Fulfilment
 
-User permissions and anomaly detection
+  -----------------------------------------------------------------------
+  Requirement           Fulfilled     Notes
+                        (Y/N)         
+  --------------------- ------------- -----------------------------------
+  Monitoring and        Y             Real-time monitoring via APIs
+  Analysis                            
 
-Data exposure monitoring
+  Security Assessment   Y             Policy-based audits and misconfig
+                                      checks
 
-Compliance reporting
+  Security Controls     Y             Integrates with IAM, policies, tags
 
-Stakeholders
+  Risk Management       Y             Risk-based prioritization and
+                                      scoring
 
-Security Operations
+  Compliance            Y             Mappings to CIS, ISO, APRA CPS234
+  -----------------------------------------------------------------------
 
-IT Application Owners
+## 
 
-Compliance and Audit Teams
+## Rating Categories
 
-Identity and Access Management Team
+  ---------------------------------------------------------------------------------
+  Vendor         Compliance   Business     Cost            Delivery   Operability
+                              Value        Effectiveness              
+  -------------- ------------ ------------ --------------- ---------- -------------
+  Prisma Cloud   High         High         Medium          High       Medium
 
-Rationale
+  Wiz            High         High         Medium          High       High
 
-As SaaS adoption grows, centralized security control becomes critical. SSPM ensures that best practices and regulatory policies are enforced consistently.
+  Microsoft      Medium       Medium       High            High       High
+  Defender                                                            
+  ---------------------------------------------------------------------------------
 
-Implications
+**\
+**
 
-Requires integrations across many SaaS APIs
+**SAAS SECURITY POSTURE MANAGEMENT (SSPM)**
 
-May require new onboarding processes for SaaS apps
+## 
 
-Needs strong collaboration with IT teams
+## Background
 
-Peer Review
+\<Enterprise\> uses a wide range of SaaS applications like Microsoft
+365, Salesforce, and Workday. These platforms are outside traditional
+perimeter controls, making configuration drift and third-party app risk
+a major concern.
 
-Organizations with similar SaaS usage (e.g., financial services) are increasingly adopting dedicated SSPM tools to ensure least privilege and configuration hygiene.
+## 
 
-Options Evaluation
+## Functions the Security Capability Must Perform
 
-Technical Reference
+-   Centralized visibility across SaaS platforms
 
-Gartner Market Guide for SSPM
+-   Misconfiguration detection
 
-CSA SaaS Security Guidelines
+-   OAuth and third-party app access review
 
-Requirement Fulfilment
+-   User permissions and anomaly detection
 
-Rating Categories
+-   Data exposure monitoring
 
-DATA SECURITY POSTURE MANAGEMENT (DSPM)
+-   Compliance reporting
 
-Background
+## 
 
- handles sensitive financial, customer, and regulatory data across cloud and SaaS environments. DSPM provides visibility, governance, and protection for that data, addressing modern threats and regulatory pressure.
+## Stakeholders
 
-Functions the Security Capability Must Perform
+-   Security Operations
 
-Data discovery and classification (structured/unstructured)
+-   IT Application Owners
 
-Access permissions and entitlements review
+-   Compliance and Audit Teams
 
-Anomalous data access detection
+-   Identity and Access Management Team
 
-Shadow data detection
+## 
 
-Data lineage and context
+## Rationale
 
-Compliance mapping (e.g., ISO 27001, CPS 234)
+As SaaS adoption grows, centralized security control becomes critical.
+SSPM ensures that best practices and regulatory policies are enforced
+consistently.
 
-Stakeholders
+## 
 
-Data Governance Office
+## Implications
 
-Cybersecurity Team
+-   Requires integrations across many SaaS APIs
 
-Compliance and Risk Management
+-   May require new onboarding processes for SaaS apps
 
-Cloud Platform and SaaS Owners
+-   Needs strong collaboration with IT teams
 
-Rationale
+## Peer Review
 
-Without visibility into data stores,  cannot effectively protect or govern data. DSPM enables proactive data-centric risk management.
+Organizations with similar SaaS usage (e.g., financial services) are
+increasingly adopting dedicated SSPM tools to ensure least privilege and
+configuration hygiene.
 
-Implications
+## Options Evaluation
 
-High upfront integration effort
+  -------------------------------------------------------------------------------------
+  Option            Description   Pros            Cons                     Vendors
+  ----------------- ------------- --------------- ------------------------ ------------
+  1\. Manual        Manual        Low cost        High risk, not scalable  N/A
+  Auditing          reviews                                                
 
-May require data catalog consolidation
+  2\. SaaS-Native   Use built-in  Integrated, low Fragmented view          Microsoft,
+  Security          features      effort                                   Salesforce
 
-Must integrate with DLP, IAM, and SIEM solutions
+  3\. Dedicated     Specialized   Deep            Subscription/licensing   AppOmni,
+  SSPM              SaaS          integrations,                            Obsidian,
+                    visibility    alerts                                   DoControl
 
-Peer Review
+  4\.               SSPM via CASB Broader         Less deep config         Netskope,
+  CASB-integrated                 control,        visibility               Zscaler
+  SSPM                            analytics                                
+  -------------------------------------------------------------------------------------
 
-DSPM is gaining traction in financial services as a more granular extension to DLP and cloud security practices.
+## 
 
-Options Evaluation
+## Technical Reference
 
-Technical Reference
+-   Gartner Market Guide for SSPM
 
-Gartner Hype Cycle for Data Security
+-   CSA SaaS Security Guidelines
 
-CSA Data Security Lifecycle
+## 
 
-NIST SP 800-53 Rev 5
+## Requirement Fulfilment
 
-Requirement Fulfilment
+  ------------------------------------------------------------------------
+  Requirement             Fulfilled (Y/N) Notes
+  ----------------------- --------------- --------------------------------
+  Monitoring and Analysis Y               SaaS activity and user behavior
 
-Rating Categories
+  Security Assessment     Y               Configuration baselines
+
+  Security Controls       Y               Enforce via API integrations
+
+  Risk Management         Y               Detect privilege abuse, OAuth
+                                          risk
+
+  Compliance              Y               Maps to ISO, APRA policies
+  ------------------------------------------------------------------------
+
+## 
+
+## Rating Categories
+
+  --------------------------------------------------------------------------------
+  Vendor        Compliance   Business     Cost            Delivery   Operability
+                             Value        Effectiveness              
+  ------------- ------------ ------------ --------------- ---------- -------------
+  AppOmni       High         High         Medium          Medium     High
+
+  Obsidian      Medium       Medium       High            Medium     High
+
+  Netskope SSPM High         High         Medium          High       Medium
+  --------------------------------------------------------------------------------
+
+**\
+**
+
+**DATA SECURITY POSTURE MANAGEMENT (DSPM)**
+
+## 
+
+## Background
+
+\<Enterprise\> handles sensitive financial, customer, and regulatory
+data across cloud and SaaS environments. DSPM provides visibility,
+governance, and protection for that data, addressing modern threats and
+regulatory pressure.
+
+## 
+
+## Functions the Security Capability Must Perform
+
+-   Data discovery and classification (structured/unstructured)
+
+-   Access permissions and entitlements review
+
+-   Anomalous data access detection
+
+-   Shadow data detection
+
+-   Data lineage and context
+
+-   Compliance mapping (e.g., ISO 27001, CPS 234)
+
+## 
+
+## Stakeholders
+
+-   Data Governance Office
+
+-   Cybersecurity Team
+
+-   Compliance and Risk Management
+
+-   Cloud Platform and SaaS Owners
+
+## 
+
+## Rationale
+
+Without visibility into data stores, \<Enterprise\> cannot effectively
+protect or govern data. DSPM enables proactive data-centric risk
+management.
+
+## 
+
+## Implications
+
+-   High upfront integration effort
+
+-   May require data catalog consolidation
+
+-   Must integrate with DLP, IAM, and SIEM solutions
+
+## 
+
+## Peer Review
+
+DSPM is gaining traction in financial services as a more granular
+extension to DLP and cloud security practices.
+
+## Options Evaluation
+
+  -------------------------------------------------------------------------------
+  Option             Description    Pros              Cons           Vendors
+  ------------------ -------------- ----------------- -------------- ------------
+  1\. Legacy DLP     Extend DLP to  Familiar tools    Lacks          Symantec,
+                     cloud                            cloud-native   Forcepoint
+                                                      support        
+
+  2\.                Bundled into   Lower cost,       May lack deep  Wiz, Prisma
+  CNAPP-integrated   existing       easier adoption   data           
+  DSPM               platform                         visibility     
+
+  3\. Dedicated DSPM Standalone     Deep              Emerging       Cyera,
+                     data           classification,   category, tool Laminar,
+                     visibility     AI-powered        sprawl         Sentra
+  -------------------------------------------------------------------------------
+
+## 
+
+## Technical Reference
+
+-   Gartner Hype Cycle for Data Security
+
+-   CSA Data Security Lifecycle
+
+-   NIST SP 800-53 Rev 5
+
+## 
+
+## Requirement Fulfilment
+
+  ------------------------------------------------------------------------
+  Requirement              Fulfilled (Y/N) Notes
+  ------------------------ --------------- -------------------------------
+  Monitoring and Analysis  Y               Detect sensitive data
+                                           use/access
+
+  Security Assessment      Y               Discover data location and flow
+
+  Security Controls        Y               Role-based access, tagging
+
+  Risk Management          Y               Context-aware risk scoring
+
+  Compliance               Y               Maps to APRA, ISO, NIST
+  ------------------------------------------------------------------------
+
+## 
+
+## Rating Categories
+
+  -------------------------------------------------------------------------------
+  Vendor     Compliance   Business      Cost             Delivery   Operability
+                          Value         Effectiveness               
+  ---------- ------------ ------------- ---------------- ---------- -------------
+  Cyera      High         High          Medium           Medium     High
+
+  Laminar    Medium       Medium        Medium           Medium     Medium
+
+  Wiz DSPM   Medium       High          High             High       High
+  -------------------------------------------------------------------------------
