@@ -65,7 +65,7 @@ AzureNetworking-ExRCheatSheet, https://github.com/marclandy/mjl-azure-repo/blob/
   - Potential bandwidth bottlenecks
   - Additional charges for outbound data
 <details>
-<summary> <strong>Option1</strong></summary>
+<summary> <strong>🖱️ Option1</strong></summary>
 
 ![Option1](https://github.com/marclandy/mjl-azure-repo/blob/main/technical%20reviews/options%20analysis/expressroute/images/Option-1-Standard-MSEE-Hairpin.png)
 
@@ -86,7 +86,7 @@ AzureNetworking-ExRCheatSheet, https://github.com/marclandy/mjl-azure-repo/blob/
   - Requires additional ExpressRoute circuits
   - Higher monthly circuit costs
 <details>
-<summary> <strong>Option2a</strong></summary>
+<summary> <strong>🖱️ Option2a</strong></summary>
 
 ![Option2a: Cross-Connection-Peering-Traditional-Peering](https://github.com/marclandy/mjl-azure-repo/blob/main/technical%20reviews/options%20analysis/expressroute/images/Option%202-Cross-Connection-Peering-Traditional-Peering.png)
 
@@ -97,7 +97,7 @@ AzureNetworking-ExRCheatSheet, https://github.com/marclandy/mjl-azure-repo/blob/
 </details>
 
 <details>
-<summary> <strong>Option2b</strong></summary>
+<summary> <strong>🖱️ Option2b</strong></summary>
 
 ![Option2b: Cross-Connection-Peering-AVNM-Mesh](https://github.com/marclandy/mjl-azure-repo/blob/main/technical%20reviews/options%20analysis/expressroute/images/Option%202-Cross-Connection-Peering-AVNM-Mesh.png)
 
@@ -119,7 +119,7 @@ AzureNetworking-ExRCheatSheet, https://github.com/marclandy/mjl-azure-repo/blob/
   - More complex initial setup
   - Learning curve for operations teams
 <details>
-<summary> <strong>Option3</strong></summary>
+<summary> <strong>🖱️ Option3</strong></summary>
 
 ![Option3](https://github.com/marclandy/mjl-azure-repo/blob/main/technical%20reviews/options%20analysis/expressroute/images/Option%203-Azure-Virtual-WAN-with-HRP(AS-PATH).png)
 
