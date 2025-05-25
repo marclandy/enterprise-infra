@@ -15,6 +15,7 @@ As organizations accelerate their digital transformation and cloud adoption, tra
 Each capability addresses distinct but interconnected aspects of modern cloud security, from infrastructure misconfigurations to SaaS application risks and data governance challenges.
 
 ---
+
 <details>
 <summary> <strong> ☁️ CLOUD SECURITY POSTURE MANAGEMENT (CSPM) </strong></summary>
 
@@ -92,6 +93,7 @@ Financial sector analysis reveals **strong convergence toward integrated CNAPP s
 | **Microsoft Defender** | 🟡 Medium | 🟡 Medium | 🟢 High | 🟢 High | 🟢 High |
 
 </details>
+
 ---
 
 <details>
@@ -170,6 +172,7 @@ Financial services organizations with similar SaaS portfolios demonstrate **incr
 | **Netskope SSPM** | 🟢 High | 🟢 High | 🟡 Medium | 🟢 High | 🟡 Medium |
 
 </details>
+
 ---
 
 <details>
@@ -248,6 +251,7 @@ DSPM represents an **emerging high-growth category** in financial services, posi
 | **Wiz DSPM** | 🟡 Medium | 🟢 High | 🟢 High | 🟢 High | 🟢 High |
 
 </details>
+
 ---
 
 ## 🚀 Strategic Recommendations
