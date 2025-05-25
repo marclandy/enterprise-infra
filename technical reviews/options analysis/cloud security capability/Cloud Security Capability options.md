@@ -19,7 +19,7 @@ Each capability addresses distinct but interconnected aspects of modern cloud se
 <details>
 <summary> 
   
-## 🖱️ ☁️ CLOUD SECURITY POSTURE MANAGEMENT (CSPM) 
+# 🖱️ ☁️ CLOUD SECURITY POSTURE MANAGEMENT (CSPM) 
 
 </summary>
 
@@ -103,7 +103,7 @@ Financial sector analysis reveals **strong convergence toward integrated CNAPP s
 <details>
 <summary> 
   
-## 🖱️ 📱 SAAS SECURITY POSTURE MANAGEMENT (SSPM)
+# 🖱️ 📱 SAAS SECURITY POSTURE MANAGEMENT (SSPM)
 
 </summary>
 
@@ -186,7 +186,7 @@ Financial services organizations with similar SaaS portfolios demonstrate **incr
 <details>
 <summary> 
 
-## 🖱️ 🗃️ DATA SECURITY POSTURE MANAGEMENT (DSPM)
+# 🖱️ 🗃️ DATA SECURITY POSTURE MANAGEMENT (DSPM)
   
 </summary>
 
