@@ -968,7 +968,7 @@ Sentinel Rule ➜ Logic App ➜ Notify | Auto-Remediate | CA Block | Raise Incid
 </details>
 
 <details>
-<summary> <strong> 🖱️ Hybrid Integration with On-Prem Infrastructure (Intune + SCCM + AD)</strong></summary>
+<summary> <strong> Hybrid Integration with On-Prem Infrastructure (Intune + SCCM + AD)</strong></summary>
 
 <br>
 
