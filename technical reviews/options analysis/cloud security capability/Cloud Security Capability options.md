@@ -16,7 +16,7 @@ Each capability addresses distinct but interconnected aspects of modern cloud se
 
 ---
 <details>
-<summary> <strong> ## ☁️ CLOUD SECURITY POSTURE MANAGEMENT (CSPM) </strong></summary>
+<summary> <strong> ☁️ CLOUD SECURITY POSTURE MANAGEMENT (CSPM) </strong></summary>
 
 <br>
 
@@ -94,7 +94,10 @@ Financial sector analysis reveals **strong convergence toward integrated CNAPP s
 </details>
 ---
 
-## 📱 SAAS SECURITY POSTURE MANAGEMENT (SSPM)
+<details>
+<summary> <strong>📱 SAAS SECURITY POSTURE MANAGEMENT (SSPM)</strong></summary>
+
+<br>
 
 ### 📋 Background
 
@@ -166,9 +169,13 @@ Financial services organizations with similar SaaS portfolios demonstrate **incr
 | **Obsidian** | 🟡 Medium | 🟡 Medium | 🟢 High | 🟡 Medium | 🟢 High |
 | **Netskope SSPM** | 🟢 High | 🟢 High | 🟡 Medium | 🟢 High | 🟡 Medium |
 
+</details>
 ---
 
-## 🗃️ DATA SECURITY POSTURE MANAGEMENT (DSPM)
+<details>
+<summary> <strong>🗃️ DATA SECURITY POSTURE MANAGEMENT (DSPM)</strong></summary>
+
+<br>
 
 ### 📋 Background
 
@@ -240,6 +247,7 @@ DSPM represents an **emerging high-growth category** in financial services, posi
 | **Laminar** | 🟡 Medium | 🟡 Medium | 🟡 Medium | 🟡 Medium | 🟡 Medium |
 | **Wiz DSPM** | 🟡 Medium | 🟢 High | 🟢 High | 🟢 High | 🟢 High |
 
+</details>
 ---
 
 ## 🚀 Strategic Recommendations
