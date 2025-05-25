@@ -15,8 +15,14 @@ As organizations accelerate their digital transformation and cloud adoption, tra
 Each capability addresses distinct but interconnected aspects of modern cloud security, from infrastructure misconfigurations to SaaS application risks and data governance challenges.
 
 ---
+<details>
+<summary> <strong>
 
 ## ☁️ CLOUD SECURITY POSTURE MANAGEMENT (CSPM)
+
+Private Endpoints</strong></summary>
+
+<br>
 
 ### 📋 Background
 
@@ -89,6 +95,7 @@ Financial sector analysis reveals **strong convergence toward integrated CNAPP s
 | **Wiz** | 🟢 High | 🟢 High | 🟡 Medium | 🟢 High | 🟢 High |
 | **Microsoft Defender** | 🟡 Medium | 🟡 Medium | 🟢 High | 🟢 High | 🟢 High |
 
+</details>
 ---
 
 ## 📱 SAAS SECURITY POSTURE MANAGEMENT (SSPM)
