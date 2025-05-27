@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Netskope SSE Product Requirements Catalog"
+title: "SSE Customer Requirements"
 date: 2025-05-27
 author: Marc Landy
 categories: [enterprise, Netskope, SSE, Requirements Catalog]
 ---
 
-# Netskope SSE Product Requirements Catalog  
+# SSE Customer Requirements  
 *A Solution Architecture View for Modern Enterprise Security*
 
 Security modernization in the cloud-first era demands more than **VPN replacements** and isolated controls. Enterprises are moving toward **Security Service Edge (SSE)**—a unified framework that secures access to the internet, cloud apps, and private applications, wherever users are located.
