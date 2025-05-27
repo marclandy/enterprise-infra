@@ -9,7 +9,7 @@ categories: [enterprise, Netskope, SSE, Requirements Catalog]
 
 *A Solution Architecture View for Modern Enterprise Security*
 
-Security modernization in the cloud-first era demands more than VPN replacements and isolated controls. Enterprises are moving toward **Security Service Edge (SSE)** ---a unified framework that secures access to the internet, cloud apps, and private applications, wherever users are located.
+Security modernization in the cloud-first era demands more than VPN replacements and isolated controls. Enterprises are moving toward **Security Service Edge (SSE)**, a unified framework that secures access to the internet, cloud apps, and private applications, wherever users are located.
 
 This post presents a **SSE Customer Requirements Catalog**, suitable for inclusion in a **Solution Architecture Document (SAD)**. It translates SSE capabilities into architecture-driven requirements designed to support real-world deployment, integration, and scale.
 
