@@ -29,7 +29,7 @@ This catalog is suitable for inclusion in a Solution Architecture Document (SAD)
 </details>
 
 <details> 
-<summary><strong>🖱️ Cloud Access Security Broker (CASB)</strong></summary>
+<summary><strong>Cloud Access Security Broker (CASB)</strong></summary>
 
 **Purpose:** Discover, monitor, and control the use of sanctioned and unsanctioned cloud services.
 
