@@ -19,13 +19,13 @@ Note: The VPN Replacement project is often a common use-case to faciliate the dr
 <details> 
 <summary><strong>👉 ZTNA (Zero Trust Network Access)</strong></summary>
 
-| ID |	Requirement | Priority	| Compliance / Standards |
-|----|--------------|-----------|------------------------|
-| ZTNA-001 | Must provide secure access to private applications without relying on traditional VPN.|	High | NIST 800-207 Zero Trust |
-| ZTNA-002 | Must support identity-based, device-aware, and posture-aware access policies.|	High|	Microsoft CA, Entra ID integration|
-| ZTNA-003 | Must support both client-based and clientless (browser-based) access for managed and unmanaged devices.|	High|	BYOD and hybrid user support|
-| ZTNA-004 | Must support integration with SD-WAN (Cisco) via GRE/IPSec tunnels and IPsec-GW.|	High|	SD-WAN integration (Cisco Validated Design)|
-| ZTNA-005 | Should support reverse access for server-initiated use-cases such as patching, VoIP, and RDP.|	Medium|	Legacy App and IT Support|
+| ID        |	Requirement | Priority	| Compliance / Standards |
+|-----------|--------------|-----------|------------------------|
+| ZTNA-001  | Must provide secure access to private applications without relying on traditional VPN.|	High | NIST 800-207 Zero Trust |
+| ZTNA-002  | Must support identity-based, device-aware, and posture-aware access policies.|	High|	Microsoft CA, Entra ID integration|
+| ZTNA-003  | Must support both client-based and clientless (browser-based) access for managed and unmanaged devices.|	High|	BYOD and hybrid user support|
+| ZTNA-004  | Must support integration with SD-WAN (Cisco) via GRE/IPSec tunnels and IPsec-GW.|	High|	SD-WAN integration (Cisco Validated Design)|
+| ZTNA-005  | Should support reverse access for server-initiated use-cases such as patching, VoIP, and RDP.|	Medium|	Legacy App and IT Support|
 
 </details>
 
