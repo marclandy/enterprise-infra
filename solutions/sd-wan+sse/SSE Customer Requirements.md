@@ -25,7 +25,7 @@ We assume:
 - Integration with Cisco SD-WAN, existing identity providers (e.g., Azure AD), SIEM/SOAR tooling, and endpoint platforms.
 - A ZTNA approach that **replaces legacy VPN models** with granular, identity- and context-aware access controls.
 
-## SSE Capability Domains & Product Requirements
+## SSE Capability Domains 
 
 ### Functional Requirements
 
@@ -44,8 +44,6 @@ This section outlines structured functional requirements grouped by capability d
 | ZTNA-005 | Should support reverse access for server-initiated use-cases such as patching, VoIP, and RDP. | Medium | Legacy App and IT Support |
 
 </details>
-
-## SSE -- Functional Requirements
 
 <details>
 <summary><strong>Secure Web Gateway (SWG)</strong></summary>
