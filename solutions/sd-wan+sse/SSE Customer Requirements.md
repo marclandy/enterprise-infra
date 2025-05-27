@@ -172,7 +172,7 @@ This section outlines structured functional requirements grouped by capability d
 
 ## Final Thoughts
 
-The Netskope SSE Product Requirements Catalog is more than a list of features---it's a **security design blueprint**. It helps security architects and platform teams:
+The Netskope SSE Requirements Catalog is more than a list of features---it's a **security design blueprint**. It helps technology teams:
 
 - Align product selection with Zero Trust and SSE principles.
 - Translate architecture decisions into actionable controls.
