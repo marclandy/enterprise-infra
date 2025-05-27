@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Enterprise Design Decisions for Meraki Systems Manager"
+title: "Netskope SSE Product Requirements Catalog"
 date: 2025-05-27
 author: Marc Landy
 categories: [enterprise, Netskope, SSE, Requirements Catalog]
