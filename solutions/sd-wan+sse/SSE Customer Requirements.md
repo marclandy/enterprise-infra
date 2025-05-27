@@ -5,13 +5,13 @@ date: 2025-05-27
 author: Marc Landy
 categories: [enterprise, Netskope, SSE, Requirements Catalog]
 ---
-# Netskope SSE Product Requirements Catalog
+# SSE Customer Requirements Catalog
 
 *A Solution Architecture View for Modern Enterprise Security*
 
 Security modernization in the cloud-first era demands more than VPN replacements and isolated controls. Enterprises are moving toward **Security Service Edge (SSE)**---a unified framework that secures access to the internet, cloud apps, and private applications, wherever users are located.
 
-This post presents a **Netskope SSE Product Requirements Catalog**, suitable for inclusion in a **Solution Architecture Document (SAD)**. It translates SSE capabilities into architecture-driven requirements designed to support real-world deployment, integration, and scale.
+This post presents a **SSE Customer Requirements Catalog**, suitable for inclusion in a **Solution Architecture Document (SAD)**. It translates SSE capabilities into architecture-driven requirements designed to support real-world deployment, integration, and scale.
 
 ## Solution Architecture Document (SAD) -- Product
 
@@ -172,7 +172,7 @@ This section outlines structured functional requirements grouped by capability d
 
 ## Final Thoughts
 
-The Netskope SSE Requirements Catalog is more than a list of features---it's a **security design blueprint**. It helps technology teams:
+The SSE Customer Requirements Catalog is more than a list of features---it's a **security design blueprint**. It helps technology teams:
 
 - Align product selection with Zero Trust and SSE principles.
 - Translate architecture decisions into actionable controls.
@@ -184,7 +184,7 @@ As enterprise security evolves, your **SSE platform should act as a strategic en
 
 **Solution Architecture Requirements Table-Excel**
 
-**SSE RFP Evaluation Matrix Template**
+**SSE RFP Evaluation Matrix**
 
 **SSE Controls Mapping to NIST, ISO, ASD**
 
