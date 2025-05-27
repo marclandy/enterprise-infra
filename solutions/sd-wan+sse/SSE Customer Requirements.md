@@ -16,7 +16,8 @@ This catalog is suitable for inclusion in a Solution Architecture Document (SAD)
 Note: The VPN Replacement project is often a common use-case to faciliate the driver for beginning a SSE journey. 
 
 # Functional and Non-Functional Requirements
-Overview
+*Overview*
+
 This requirements catalog defines the core functional and non-functional requirements for adopting Netskope Security Service Edge (SSE) to replace traditional perimeter-based security models. The Netskope SSE platform will form the foundation of secure access and data protection as part of the organization’s Zero Trust and cloud-first security transformation.
 
 ---
