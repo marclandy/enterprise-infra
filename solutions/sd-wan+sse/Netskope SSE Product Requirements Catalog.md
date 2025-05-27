@@ -16,7 +16,7 @@ This catalog is suitable for inclusion in a Solution Architecture Document (SAD)
 ---
 
 <details> 
-<summary><strong>Secure Web Gateway (SWG)</strong></summary>
+<summary><strong>👉 Secure Web Gateway (SWG)</strong></summary>
 
 **Purpose:** Enforce acceptable use policies, inspect web traffic, and block threats from internet browsing activity.
 
