@@ -13,8 +13,6 @@ Security modernization in the cloud-first era demands more than VPN replacements
 
 This post presents a **SSE Customer Requirements Catalog**, suitable for inclusion in a **Solution Architecture Document (SAD)**. It translates SSE capabilities into architecture-driven requirements designed to support real-world deployment, integration, and scale.
 
-## Solution Architecture Document (SAD) 
-
 ### Architectural Objective
 
 **To implement a scalable, zero-trust-aligned Security Service Edge (SSE) solution** that consolidates threat protection, data security, and secure access into a cloud-native service, integrated into the enterprise architecture stack.
