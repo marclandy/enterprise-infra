@@ -15,7 +15,6 @@ Share Enterprise Architecture knowledge like Roadmaps, IT Landscapes or Applicat
 installation:
 https://marketplace.atlassian.com/apps/1219909/sap-leanix-for-confluence?tab=installation&hosting=cloud
 
-
 confluence integration
 https://www.leanix.net/en/enterprise-architecture/integrations#confluence
 The integration for Confluence Cloud, Confluence Server and Confluence Data Center enables you to share any SAP LeanIX Report to a Confluence page and interact with it using real-time data. Consumers of the content will only see the data if it is available to them.
@@ -23,5 +22,6 @@ The integration for Confluence Cloud, Confluence Server and Confluence Data Cent
 GitHub Enterprise integration
 Automated visibility into self-built software and its dependencies is the foundation to preventing tech sprawl and aligning tech stack usage with broader architecture governance principles.
 
-
+link
+https://www.leanix.net/en/wiki/ea/architecture-review-board#form
 
