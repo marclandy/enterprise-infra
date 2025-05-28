@@ -100,5 +100,3 @@ Create a CSA summary SharePoint page with:
 </details>
 
 ---
-
-Would you like a [sample markdown SAD structure](#) or a [Power BI integration guide](#) next?
