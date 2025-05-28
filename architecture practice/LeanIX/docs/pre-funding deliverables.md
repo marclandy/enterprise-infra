@@ -10,6 +10,8 @@ This guide outlines how key pre-funding architectural deliverables align with Le
 
 **Purpose**: Establish architectural baselines and provide visibility into the as-is landscape.
 
+- **Current State Assessment (CSA):** Utilize the Application Portfolio Assessment to evaluate and document the existing IT landscape, identifying areas for optimization and rationalization.
+
 **LeanIX Capabilities**:
 - Application Fact Sheets with lifecycle and health
 - Interface Circle Map
@@ -29,6 +31,8 @@ This guide outlines how key pre-funding architectural deliverables align with Le
 <summary>🎯 Target State Architecture (TSA)</summary>
 
 **Purpose**: Communicate desired architecture future state including transformation drivers.
+
+- **Target State Architecture (TSA):** Leverage the Architecture and Road Map Planning to define and visualize the desired future state of the IT architecture, aligning it with business objectives.
 
 **LeanIX Capabilities**:
 - Application/Capability Mapping
@@ -50,6 +54,8 @@ This guide outlines how key pre-funding architectural deliverables align with Le
 
 **Purpose**: Compare architectural choices (buy vs build, tool X vs Y, integration patterns).
 
+- **Options Analysis / Technology Evaluation:** Use the SaaS Evaluation Matrix Template to systematically compare and assess different technology solutions based on predefined criteria.
+
 **LeanIX Capabilities**:
 - Architecture Decision Templates
 - Tech Category Fact Sheets
@@ -69,6 +75,8 @@ This guide outlines how key pre-funding architectural deliverables align with Le
 <summary>📘 Solution Architecture Document (SAD)</summary>
 
 **Purpose**: Describe the solution view (business, data, application, and technology layers).
+
+- **Solution Architecture Document (SAD):** Employ Architecture Decision Templates to document key architectural decisions, ensuring traceability and alignment with enterprise standards.
 
 **LeanIX Capabilities**:
 - Confluence Plugin for live diagrams
@@ -90,6 +98,8 @@ This guide outlines how key pre-funding architectural deliverables align with Le
 
 **Purpose**: Provide rough-order-magnitude costs to inform business case feasibility.
 
+- **High-Level Cost Estimates:** Utilize the Cost Management features to estimate and track costs associated with applications and IT components, aiding in budgeting and financial planning.
+
 **LeanIX Capabilities**:
 - Transformation Projects module
 - Resource tagging and application tiering
@@ -108,6 +118,8 @@ This guide outlines how key pre-funding architectural deliverables align with Le
 <summary>⚠️ Risk and Dependency Register (Initial)</summary>
 
 **Purpose**: Record early architecture risks, assumptions, and dependencies.
+
+- **Risk and Dependency Register (Initial):** Implement the Technology Risk and Compliance Module to identify, assess, and manage risks and dependencies within the IT landscape.
 
 **LeanIX Capabilities**:
 - Surveys and Comments for collaboration
@@ -128,6 +140,8 @@ This guide outlines how key pre-funding architectural deliverables align with Le
 
 **Purpose**: Supply architecture-led inputs to cost-benefit analysis and value definition.
 
+- **Business Case Input:** Create Custom Transformation Templates to model and plan transformation initiatives, providing structured input for business cases.
+
 **LeanIX Capabilities**:
 - Business Capability Mapping
 - Value Stream Alignment
@@ -141,6 +155,18 @@ This guide outlines how key pre-funding architectural deliverables align with Le
 </details>
 
 ---
+# 📊 EA Deliverables Mapped to LeanIX Templates
+
+| **EA Deliverable**                     | **LeanIX Template / Feature**                                   | **LeanIX Documentation URL**                                                                                                                                                                                                                           |
+|----------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Current State Assessment (CSA)**     | Application Portfolio Assessment                                | [Application Portfolio Assessment](https://www.leanix.net/en/wiki/apm/application-portfolio-assessment)                                                                                                                                                 |
+| **Target State Architecture (TSA)**    | Architecture and Road Map Planning                              | [Defining the To-Be Architecture](https://learning.sap.com/learning-journeys/mastering-your-erp-transformation-with-sap-leanix/defining-the-to-be-architecture)                                                                                         |
+| **Options Analysis / Technology Evaluation** | SaaS Evaluation Matrix Template                             | [SaaS Evaluation Matrix](https://www.leanix.net/en/wiki/apm/saas-evaluation)                                                                                                                                                                            |
+| **Solution Architecture Document (SAD)** | Architecture Decision Templates                                | [Architecture Decision Templates](https://docs-eam.leanix.net/docs/architecture-decision-templates)                                                                                                                                                    |
+| **High-Level Cost Estimates**          | Cost Management Features                                        | [Cost Management](https://docs-eam.leanix.net/docs/cost-management)                                                                                                                                                                                     |
+| **Risk and Dependency Register (Initial)** | Technology Risk and Compliance Module                        | [Technology Risk Management](https://docs-eam.leanix.net/docs/deep-dive-technology-risk-management)                                                                                                                                                     |
+| **Business Case Input**                | Custom Transformation Templates                                 | [Creating Custom Transformation Templates](https://docs-eam.leanix.net/docs/configuring-transformation-template)                                                                                                                                        |
+
 
 ## 📊 Summary Mapping Table
 
