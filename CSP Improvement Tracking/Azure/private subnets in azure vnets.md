@@ -19,7 +19,7 @@ categories: [enterprise, feature-ga, azure-VM, private-subnet-outbound]
 | **Implication**       | New VNets will not have default outbound internet access. To enable outbound connectivity, configurations such as routing through a central firewall, using a NAT Gateway, adding a public load balancer, or assigning a public IP are required. |
 | **Rationale**         | Enhancing security posture by minimizing unintended exposure to the internet, thereby aligning with industry best practices and compliance standards.                                                                                   |
 | **Benefit**           | Improved default security for Azure VNets, reducing the risk of unauthorized outbound traffic and aligning with organizational security and compliance requirements.                                                                   |
-| **Feature URL**       | [Default outbound access for VMs in Azure will be retired—transition to a new method of internet access](https://azure.microsoft.com/hu-hu/updates/default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access/) |
+| **Feature URL**       | [Default outbound access for VMs in Azure will be retired—transition to a new method of internet access](https://azure.microsoft.com/en-us/updates/default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access/) |
 
 ## Overview
 
@@ -42,7 +42,7 @@ Azure has announced that starting **September 30, 2025**, all newly created Virt
 - **Communicate Changes to Stakeholders**: Inform application and security teams about the change to plan for necessary adjustments.
 - **Audit Existing VNets**: Consider updating existing VNets to private subnets to enhance security posture.
 
-For more details, refer to the official announcement: [Default outbound access for VMs in Azure will be retired—transition to a new method of internet access](https://azure.microsoft.com/hu-hu/updates/default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access/)
+For more details, refer to the official announcement: [Default outbound access for VMs in Azure will be retired—transition to a new method of internet access](https://azure.microsoft.com/en-us/updates/default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access/)
 
 ## Private Subnets in Azure VNet's
 
