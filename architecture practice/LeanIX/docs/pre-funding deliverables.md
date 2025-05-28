@@ -81,7 +81,7 @@ This guide outlines how key pre-funding architectural deliverables align with Le
 </details>
 
 ---
-# 📊 EA Deliverables Mapped to LeanIX Templates
+## 📊 EA Deliverables Mapped to LeanIX Templates
 
 | **EA Deliverable**                     | **LeanIX Template / Feature**                                   | **LeanIX Documentation URL**                                                                                                                                                                                                                           |
 |----------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -95,7 +95,7 @@ This guide outlines how key pre-funding architectural deliverables align with Le
 
 ---
 
-## 🚀 Next Steps
+### 🚀 Next Steps
 
 - 📄 [Explore LeanIX Architecture Decision Templates](https://docs-eam.leanix.net/docs/architecture-decision-templates)
 - 🔧 [Get Started with LeanIX in Confluence](https://docs-eam.leanix.net/docs/confluence-integration)
