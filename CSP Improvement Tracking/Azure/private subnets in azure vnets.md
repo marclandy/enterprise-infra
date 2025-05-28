@@ -15,4 +15,4 @@ But it will not the be default anymore
 There will be no change to existing subnets, but you can change existing subnets to private subnet (defaultoutboundaccess = false) if you wish. 
 Then you will be more aligned to the secure by default principle in your Azure environment
 
-![docs:](https://azure.microsoft.com/en-us/updates?id=492953)
+[docs:](https://azure.microsoft.com/en-us/updates?id=492953)
