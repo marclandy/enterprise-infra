@@ -8,7 +8,7 @@ This guide outlines how key pre-funding architectural deliverables align with Le
 <details>
 <summary>📌 Current State Assessment (CSA)</summary>
 
-**Purpose**: Establish architectural baselines and provide visibility into the as-is landscape.
+- **Purpose**: Establish architectural baselines and provide visibility into the as-is landscape.
 
 - **Current State Assessment (CSA):** Utilize the Application Portfolio Assessment to evaluate and document the existing IT landscape, identifying areas for optimization and rationalization.
 
@@ -19,7 +19,7 @@ This guide outlines how key pre-funding architectural deliverables align with Le
 <details>
 <summary>🎯 Target State Architecture (TSA)</summary>
 
-**Purpose**: Communicate desired architecture future state including transformation drivers.
+- **Purpose**: Communicate desired architecture future state including transformation drivers.
 
 - **Target State Architecture (TSA):** Leverage the Architecture and Road Map Planning to define and visualize the desired future state of the IT architecture, aligning it with business objectives.
 
@@ -30,7 +30,7 @@ This guide outlines how key pre-funding architectural deliverables align with Le
 <details>
 <summary>🔍 Options Analysis / Technology Evaluation</summary>
 
-**Purpose**: Compare architectural choices (buy vs build, tool X vs Y, integration patterns).
+- **Purpose**: Compare architectural choices (buy vs build, tool X vs Y, integration patterns).
 
 - **Options Analysis / Technology Evaluation:** Use the SaaS Evaluation Matrix Template to systematically compare and assess different technology solutions based on predefined criteria.
 
@@ -41,7 +41,7 @@ This guide outlines how key pre-funding architectural deliverables align with Le
 <details>
 <summary>📘 Solution Architecture Document (SAD)</summary>
 
-**Purpose**: Describe the solution view (business, data, application, and technology layers).
+- **Purpose**: Describe the solution view (business, data, application, and technology layers).
 
 - **Solution Architecture Document (SAD):** Employ Architecture Decision Templates to document key architectural decisions, ensuring traceability and alignment with enterprise standards.
 
@@ -52,7 +52,7 @@ This guide outlines how key pre-funding architectural deliverables align with Le
 <details>
 <summary>💰 High-Level Cost Estimates</summary>
 
-**Purpose**: Provide rough-order-magnitude costs to inform business case feasibility.
+- **Purpose**: Provide rough-order-magnitude costs to inform business case feasibility.
 
 - **High-Level Cost Estimates:** Utilize the Cost Management features to estimate and track costs associated with applications and IT components, aiding in budgeting and financial planning.
 
@@ -63,7 +63,7 @@ This guide outlines how key pre-funding architectural deliverables align with Le
 <details>
 <summary>⚠️ Risk and Dependency Register (Initial)</summary>
 
-**Purpose**: Record early architecture risks, assumptions, and dependencies.
+- **Purpose**: Record early architecture risks, assumptions, and dependencies.
 
 - **Risk and Dependency Register (Initial):** Implement the Technology Risk and Compliance Module to identify, assess, and manage risks and dependencies within the IT landscape.
 
@@ -74,7 +74,7 @@ This guide outlines how key pre-funding architectural deliverables align with Le
 <details>
 <summary>📂 Business Case Input</summary>
 
-**Purpose**: Supply architecture-led inputs to cost-benefit analysis and value definition.
+- **Purpose**: Supply architecture-led inputs to cost-benefit analysis and value definition.
 
 - **Business Case Input:** Create Custom Transformation Templates to model and plan transformation initiatives, providing structured input for business cases.
 
