@@ -1195,12 +1195,14 @@ Use this matrix to:
 
 **Microsoft links:**
 
-![CyberAutomationX](https://github.com/CyberAutomationX)
+[CyberAutomationX](https://github.com/CyberAutomationX)
 
-[!SecureAzCloud-Scripts](https://github.com/CyberAutomationX/SecureAzCloud-Scripts)
+[SecureAzCloud-Scripts](https://github.com/CyberAutomationX/SecureAzCloud-Scripts)
 
-- msft-intune-enrollment-options
-![Download PDF version] (https://download.microsoft.com/download/e/6/2/e6233fdd-a956-4f77-93a5-1aa254ee2917/msft-intune-enrollment-options.pdf)
-![ Download Visio version] (https://download.microsoft.com/download/e/6/2/e6233fdd-a956-4f77-93a5-1aa254ee2917/msft-intune-enrollment-options.vsdx)
+- msft intune enrollment options
 
-![m365-zero-trust-deployment-plan] (https://learn.microsoft.com/en-us/microsoft-365/security/microsoft-365-zero-trust?view=o365-worldwide)
+[Download PDF version](https://download.microsoft.com/download/e/6/2/e6233fdd-a956-4f77-93a5-1aa254ee2917/msft-intune-enrollment-options.pdf)
+
+[Download Visio version](https://download.microsoft.com/download/e/6/2/e6233fdd-a956-4f77-93a5-1aa254ee2917/msft-intune-enrollment-options.vsdx)
+
+[m365-zero-trust-deployment-plan](https://learn.microsoft.com/en-us/microsoft-365/security/microsoft-365-zero-trust?view=o365-worldwide)
