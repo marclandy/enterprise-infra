@@ -5,7 +5,8 @@ date: 2025-05-28
 author: Marc Landy
 categories: [enterprise, feature-ga, azure-VM, private-subnet-outbound]
 ---
-# Azure VNet Private Subnets: General Availability and Default Behavior Change
+# Azure VNet Private Subnets: 
+- General Availability and Default Behavior Change
 
 ## Executive Summary
 
