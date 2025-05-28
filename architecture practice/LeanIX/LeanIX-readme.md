@@ -91,15 +91,6 @@ Summary Table
 
 | Deliverable |	LeanIX | Support | Level |	Notes |
 |-------------|--------|---------|-------|--------|
-Current State Assessment	✅ Native Support	Use Fact Sheets & Inventory
-Target State Architecture	✅ Supported w/ Planning	Leverage Diagrams & Projects
-Options Analysis	⚙️ Custom Reporting Needed	Use Lifecycles + Custom Tags
-Solution Architecture Document	⚙️ External Template Needed	Use Confluence Integration
-High-Level Cost Estimates	⚙️ Partial (Custom Fields)	Integrate or export
-Risk & Dependency Register	✅ Native Support	Use Risk Fact Sheets
-Business Case Input	⚙️ Customizable Projects	Export for documentation
-
-
 | Current State Assessment	| ✅ Native Support	| Use Fact Sheets & Inventory|
 | Target State Architecture	| ✅ Supported w/ Planning	| Leverage Diagrams & Projects|
 | Options Analysis	| ⚙️ Custom Reporting Needed	| Use Lifecycles + Custom Tags|
