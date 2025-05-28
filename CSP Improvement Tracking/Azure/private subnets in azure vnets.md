@@ -20,6 +20,7 @@ categories: [enterprise, feature-ga, azure-VM, private-subnet-outbound]
 | **Rationale**         | Enhancing security posture by minimizing unintended exposure to the internet, thereby aligning with industry best practices and compliance standards.                                                                                   |
 | **Benefit**           | Improved default security for Azure VNets, reducing the risk of unauthorized outbound traffic and aligning with organizational security and compliance requirements.                                                                   |
 | **Feature URL**       | [Default outbound access for VMs in Azure will be retired—transition to a new method of internet access](https://azure.microsoft.com/en-us/updates/default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access/) |
+| **Status** 🚦          | Orange |
 
 ## Overview
 
