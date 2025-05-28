@@ -35,7 +35,7 @@ Azure has announced that starting **September 30, 2025**, all newly created Virt
   - **Assigning a public IP**: Directly assign public IPs to resources requiring internet access.
 - **Existing VNets**: No changes will be applied to existing VNets. However, administrators can manually update existing subnets to adopt the new private subnet behavior.
 
-## Action Items for Network & Infrastructure Architects
+## Action Items for members of the Cloud-Platform team
 
 - **Review Deployment Templates**: Ensure that infrastructure-as-code templates (e.g., ARM, Bicep, Terraform) explicitly define outbound access configurations as needed.
 - **Update Network Design Documentation**: Reflect the new default behavior in network topology and design documents.
