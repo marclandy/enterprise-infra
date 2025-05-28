@@ -1,4 +1,7 @@
 # Private Subnets in Azure VNet's
+
+![Private Subnets in Azure VNet's](https://github.com/marclandy/mjl-azure-repo/blob/main/CSP%20Improvement%20Tracking/images/Private Subnets in Azure VNet's.png)
+
 - And Private subnets will be the default for all new VNet's created after **30th September 2025**, 
 - means you will not have any default outbound internet access from VNet's after that change! ** (defaultoutboundaccess = false) ** and be more aligned to the secure by default principle
 
