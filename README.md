@@ -1,12 +1,15 @@
-# mjl-azure-repo
-azure technical components
+# enterprise-infra
 
-network 
+building blocks
 
-security
+-network 
 
-iam
+-infrastructure
 
-integration
+-security
 
-data
+-iam
+
+-data
+
+-integration
