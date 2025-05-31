@@ -1,5 +1,3 @@
-**Enterprise ALZ Consulting Value**
-
 # Strategic Areas of ALZ Consulting Value
 
 ## Unlocking Enterprise-Scale Value Through Landing Zone Architecture
