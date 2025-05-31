@@ -1,6 +1,6 @@
 **User:** Marc Landy 
-**Created:** 5/30/2025 17:33  
-**Updated:** 5/31/2025 16:16  
+- **Created:** 5/30/2025 17:33  
+- **Updated:** 5/31/2025 16:16  
 
 ## **Network Design Decision Workbook** template based on Enterprise ALZ Network Service patterns. 
 
