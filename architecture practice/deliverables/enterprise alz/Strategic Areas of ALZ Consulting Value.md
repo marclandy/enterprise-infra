@@ -97,7 +97,12 @@ Azure Landing Zones provide a strategic capability
 
 My consulting work ensures your network and infrastructure vision is executed in a way that drives sustainable transformation outcomes, strengthens internal capabilities, and empowers your teams for long-term cloud success.
 
-* * *
+My engagement is most valuable when focused on:
+- Network design decision logs | status: WIP
+- ALZ tailoring for hybrid realities (OT, DCs, M&A)
+- RBAC design frameworks and IaC integration
+- Creating seed HLD/SAD skeletons and design inputs for vendor consumption | status: 31-05-25, already have a v0.1 SAD deliverable.
+- Cloud governance narratives that marry internal policy with ALZ structure | status: 31-05-25, already have a least priv policy matrix for azure & developing csutom RBAC roles for 4 teams.
 
 # Appendix - ALZ 
 
