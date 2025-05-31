@@ -90,16 +90,22 @@ Your team retains ownership of the architecture story, ensuring decisions are tr
 
 ## Summary
 
-Cloud isn’t just a new datacenter. Azure Landing Zones provide a strategic capability — if implemented with rigour, consistency, and business alignment. My consulting work ensures your network and infrastructure vision is executed in a way that drives sustainable transformation outcomes, strengthens internal capabilities, and empowers your teams for long-term cloud success.
+Azure Landing Zones provide a strategic capability 
+— if implemented with rigour, consistency, and business alignment. 
 
-Let’s make ALZ real — securely, pragmatically, and with lasting value.
+My consulting work ensures your network and infrastructure vision is executed in a way that drives sustainable transformation outcomes, strengthens internal capabilities, and empowers your teams for long-term cloud success.
 
 * * *
+
+# Appendix - ALZ 
 
 RBAC-as-Code: Strategic Design and Operational Considerations
 -------------------------------------------------------------
 
-### Upfront Design Decisions
+<details>
+<summary> <strong> ### Upfront Design Decisions </strong></summary>
+
+<br>
 
 1.  **Role Definition and Scope**
     
@@ -137,9 +143,12 @@ RBAC-as-Code: Strategic Design and Operational Considerations
             
     *   **Reference**: The Cloud Adoption Framework discusses the benefits of implementing Azure Landing Zones using IaC .[TECHCOMMUNITY.MICROSOFT.COM+6Microsoft Learn+6Microsoft Learn+6](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/platform-automation-devops?utm_source=chatgpt.com)
         
+</details>
 
-### Post-Deployment Operational Enhancements
+<details>
+<summary> <strong> ### Post-Deployment Operational Enhancements </strong></summary>
 
+<br>
 1.  **Monitoring and Auditing**
     
     *   **Enhancement**: Implement continuous monitoring of role assignments and access patterns.
@@ -160,13 +169,17 @@ RBAC-as-Code: Strategic Design and Operational Considerations
             
         *   Adjust roles and permissions in response to organizational changes.
             
+</details>
 
 * * *
 
 Zero Trust-Ready Network Overlays: Strategic Design and Operational Considerations
 ----------------------------------------------------------------------------------
 
-### Upfront Design Decisions
+<details>
+<summary> <strong> ### Upfront Design Decisions </strong></summary>
+
+<br>
 
 1.  **Network Segmentation**
     
@@ -204,8 +217,12 @@ Zero Trust-Ready Network Overlays: Strategic Design and Operational Consideratio
             
     *   **Reference**: Guidance on enabling Zero Trust with Azure network security services includes deploying Azure Firewall Premium and WAF .[Microsoft Learn](https://learn.microsoft.com/en-us/security/zero-trust/azure-infrastructure-networking?utm_source=chatgpt.com)[Microsoft Learn+5TECHCOMMUNITY.MICROSOFT.COM+5Microsoft Azure+5](https://techcommunity.microsoft.com/blog/azurenetworksecurityblog/zero-trust-with-azure-network-security/3668280?utm_source=chatgpt.com)
         
+</details>
 
-### Post-Deployment Operational Enhancements
+<details>
+<summary> <strong> ### Post-Deployment Operational Enhancements </strong></summary>
+
+<br>
 
 1.  **Continuous Monitoring and Analytics**
     
@@ -227,5 +244,5 @@ Zero Trust-Ready Network Overlays: Strategic Design and Operational Consideratio
             
         *   Regularly audit policy compliance and remediate deviations.
             
-
+</details>
 * * *
