@@ -27,7 +27,7 @@ A clear, enterprise-ready cloud blueprint, reducing vendor-led rework and enabli
 ## 2. **Networking & Security Architecture Patterns**
 
 ### Business Challenge:
-NDIA and similar organisations must enforce strong security baselines, including Zero Trust, data sovereignty, and segmentation-by-default, all while maintaining usable platform services.
+Enterprise & Government must enforce strong security baselines, including Zero Trust, data sovereignty, and segmentation-by-default, all while maintaining usable platform services.
 
 ### My Value:
 I design and recommend ALZ-aligned networking patterns for:
