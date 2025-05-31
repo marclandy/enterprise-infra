@@ -81,7 +81,7 @@ Customers need to balance vendor-delivered outcomes with internal governance and
 
 ### My Value:
 I author or co-develop foundational artefacts:
-- SAD skeletons tailored to NDIA or sector-specific contexts.
+- SAD skeletons tailored to <Enterpise | Gov> or sector-specific contexts.
 - Reference HLD inputs for managed vendors.
 - Architecture decision records aligned to ALZ modules.
 
