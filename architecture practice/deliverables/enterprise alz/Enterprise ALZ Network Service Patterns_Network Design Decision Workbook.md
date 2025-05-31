@@ -65,8 +65,8 @@ workbook - customer workshops or discovery phases to:
 | **Tagging and Resource Organization**                       | Configured via policy & custom modules. Enforces metadata such as environment, owner, cost center, etc.                            | [Bicep - Tags Module](https://github.com/Azure/Enterprise-Scale/blob/main/ESLZ-Bicep/bicep/modules/tags.bicep)                         | Include "ZoneType", "NetworkBoundary", "ManagedBy" tags to filter NSGs, routing tables, DNS zones                               | Maintain tag hygiene for network diagnostics, enforce tag inheritance through policies                                           |
 | **Blueprint or Template Selection**                         | Offers opinionated design decisions that align with CAF guidance                                                                   | [Hub & Spoke Scenario](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/tree/main/scenarios/hub-spoke-networking)      | Choose scenario fit (e.g., Regional Hub per jurisdiction), assess template extensibility for custom DNS/firewall                | Revalidate base templates annually against updated ALZ patterns and new Azure networking services                                |
 
-- key components listed in that page and how they are implemented when you select the Enterprise-scale hub and spoke deployment option
-- understand how each foundational element of an ALZ is translated into deployable, repeatable infrastructure components
+- terraform-azurerm-caf-enterprise-scale, https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki/%5BUser-Guide%5D-Connectivity-Resources
+- Network topology and connectivity, https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/network-topology-and-connectivity
 
 
 ## Appendix
