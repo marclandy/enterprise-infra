@@ -1,4 +1,7 @@
-### Deliverables
+### Azure Governance Tools
+- https://github.com/Azure/Azure-Governance-Visualizer/blob/master/slides/AzGovViz_intro.pdf
+  
+### Azure Deliverables
 
 - Enterpirse Alz Network Design SAD 
 ---
