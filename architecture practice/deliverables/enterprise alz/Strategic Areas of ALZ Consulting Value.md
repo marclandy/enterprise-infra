@@ -2,7 +2,7 @@
 
 ## Unlocking Enterprise-Scale Value Through Landing Zone Architecture
 
-For organisations like the NDIA or mid-tier utilities, retailers, and transport/logistics providers, embarking on a cloud transformation journey isn't just about adopting new tools — it's about enabling secure, scalable, and repeatable cloud operations that deliver long-term strategic value. As a Network & Infrastructure Architect, I work within internal architecture teams, augmenting lean technology departments by translating business imperatives into actionable infrastructure outcomes. This blog outlines where I bring the most value when guiding customers through their Azure Landing Zone (ALZ) adoption.
+For organisations like the Aust Fed Gov or Mid-tier Utilities, Retailers, and Transport/Logistics providers, embarking on a cloud transformation journey isn't just about adopting new tools — it's about enabling secure, scalable, and repeatable cloud operations that deliver long-term strategic value. As a Network & Infrastructure Architect, I work within internal architecture teams, augmenting lean technology departments by translating business imperatives into actionable infrastructure outcomes. This blog outlines where I bring the most value when guiding customers through their Azure Landing Zone (ALZ) adoption.
 
 ---
 
