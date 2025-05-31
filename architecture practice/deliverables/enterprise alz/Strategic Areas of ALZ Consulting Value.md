@@ -22,7 +22,7 @@ I engage early to help shape the foundation:
 ### Outcome:
 A clear, enterprise-ready cloud blueprint, reducing vendor-led rework and enabling confident program sponsorship.
 
-## Note:
+# Note:
 - For architecture and platform teams, design patterns like *RBAC-as-Code* and *Zero Trust Overlays* are foundational.
 - A detailed discussion on these decisions and lifecycle strategies is included in *Appendix A*.
 
