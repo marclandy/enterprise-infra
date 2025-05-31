@@ -249,4 +249,3 @@ Zero Trust-Ready Network Overlays: Strategic Design and Operational Consideratio
         *   Regularly audit policy compliance and remediate deviations.
             
 </details>
-* * *
