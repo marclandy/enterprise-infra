@@ -104,7 +104,9 @@ RBAC-as-Code: Strategic Design and Operational Considerations
 
 <details>
 <summary> <strong> 
+
     ### Upfront Design Decisions 
+
 </strong></summary>
 
 <br>
