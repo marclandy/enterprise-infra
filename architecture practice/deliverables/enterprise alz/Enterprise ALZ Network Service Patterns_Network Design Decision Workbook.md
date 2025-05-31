@@ -27,21 +27,23 @@ workbook - customer workshops or discovery phases to:
     
 ## Appendix
 
-ALZ
-- CAF
--     
+ALZ: CAF 
 - Design Areas: https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas
 -     alz-visio
 -         https://raw.githubusercontent.com/microsoft/CloudAdoptionFramework/master/ready/enterprise-scale-architecture.vsdx
--     extract tables from
+-         https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/media/azure-landing-zone-architecture-diagram-hub-spoke.svg
+-     extract tables from | Environment design areas
 -         https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas#environment-design-areas
 -         https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas#compliance-design-areas
--     extract tables from
+-     extract tables from | Azure platform landing zone deployment option
 -         https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/implementation-options#azure-landing-zone-accelerator-approach
 -         https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/implementation-options#customize-approach
--     network and connectivity
+-     extract tables from | network and connectivity
 -         https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/network-topology-and-connectivity
 -         https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/media/azure-landing-zone-architecture-diagram-hub-spoke.svg
+- azure-landing-zones-journey
+-     https://azure.github.io/Azure-Landing-Zones/#the-azure-landing-zones-journey
+-     https://azure.github.io/Azure-Landing-Zones/img/customer-landing-zone-journey.png
 
 Legend	Design area	Objective
 The letter A	Azure billing and Active Directory tenant	Proper tenant creation, enrollment, and billing setup are important early steps.
