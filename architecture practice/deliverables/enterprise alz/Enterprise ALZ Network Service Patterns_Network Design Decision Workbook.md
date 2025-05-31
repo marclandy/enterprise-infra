@@ -25,3 +25,32 @@ workbook - customer workshops or discovery phases to:
 *   Evaluate and agree on service implementation options.
 *   Maintain a source of truth for ALZ customisation decisions.
     
+## Appendix
+
+ALZ
+- CAF
+-     
+- Design Areas: https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas
+-     alz-visio
+-         https://raw.githubusercontent.com/microsoft/CloudAdoptionFramework/master/ready/enterprise-scale-architecture.vsdx
+-     extract tables from
+-         https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas#environment-design-areas
+-         https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas#compliance-design-areas
+-     extract tables from
+-         https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/implementation-options#azure-landing-zone-accelerator-approach
+-         https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/implementation-options#customize-approach
+-     network and connectivity
+-         https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/network-topology-and-connectivity
+-         https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/media/azure-landing-zone-architecture-diagram-hub-spoke.svg
+
+Legend	Design area	Objective
+The letter A	Azure billing and Active Directory tenant	Proper tenant creation, enrollment, and billing setup are important early steps.
+The letter B	Identity and access management	Identity and access management is a primary security boundary in the public cloud. It's the foundation for any secure and fully compliant architecture.
+The letter C	Resource organization	As cloud adoption scales, considerations for subscription design and management group hierarchy have an impact on governance, operations management, and adoption patterns.
+The letter E	Network topology and connectivity	Networking and connectivity decisions are an equally important foundational aspect of any cloud architecture.
+
+Legend	Design area	Objective
+The letter F	Security	Implement controls and processes to protect your cloud environments.
+The letter D The letter G The letter H	Management	For stable, ongoing operations in the cloud, a management baseline is required to provide visibility, operations compliance, and protect and recover capabilities.
+The letter C The letter D	Governance	Automate auditing and enforcement of governance policies.
+The letter I	Platform automation and DevOps	Align the best tools and templates to deploy your landing zones and supporting resources.
