@@ -1,7 +1,6 @@
 # ALZ Network Design SAD
 
 **User:** Marc Landy  
-**Created:** 5/30/2025 17:33  
 **Updated:** 5/31/2025 12:06  
 
 ---
