@@ -51,6 +51,7 @@ workbook - customer workshops or discovery phases to:
 ## Appendix
 
 ALZ: CAF 
+- Landing Zone: https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/
 - Design Areas: https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas
 
 alz-visio
