@@ -100,4 +100,7 @@ Network & Connectivity
 - https://github.com/Azure/Enterprise-Scale/blob/main/docs/EnterpriseScale-Deploy-reference-implentations.md
 - https://github.com/Azure/Enterprise-Scale/wiki/ALZ-Deploy-reference-implementations
 
-
+Yes, the Azure Cloud Adoption Framework (CAF) documentation does reference the Enterprise Policy as Code (EPAC) initiative. Specifically, in the article titled Adopt policy-driven guardrails, https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/dine-guidance
+"For advanced management of Azure Policy at scale, consider implementing Enterprise Policy as Code (EPAC) to manage policy. EPAC provides a stateful management experience that uses Infrastructure as Code (IaC)."
+This guidance suggests that organizations aiming for scalable and automated policy management in Azure should leverage EPAC. EPAC facilitates a stateful, code-driven approach to managing Azure Policies, aligning with best practices for enterprise-scale governance.
+For more detailed information on implementing EPAC, you can refer to the EPAC documentation at https://azure.github.io/enterprise-azure-policy-as-code/.
