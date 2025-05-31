@@ -76,8 +76,22 @@ Terraform RBAC modules will be developed for each team role, per networking serv
 | Permissions       | Mostly read-only, diagnostic access, scoped write to NSG rules during DR             |
 | Use Case          | Enable SREs to monitor, inspect and participate in network observability workflows   |
 
-#### Modules Scaffolded
+📂 Suggested GitHub repo structure:
+> 
+> ```
+> azure-cloud-governance-rbac/
+> ├── modules/
+> │   └── networking/
+> │       ├── virtualNetworks/
+> │       └── <service-name>/
+> ├── examples/
+> │   └── virtualNetworks/
+> ├── pipeline/   # Future work for CI/CD
+> ├── docs/       # Markdown version of this documentation
+> └── roadmap.md  # Explains future CI/CD automation path
+> ```
 
+#### Modules Scaffolded
 - ✅ `virtualNetworks`
 - ✅ `networkSecurityGroups`
 - ✅ `privateEndpoints`
