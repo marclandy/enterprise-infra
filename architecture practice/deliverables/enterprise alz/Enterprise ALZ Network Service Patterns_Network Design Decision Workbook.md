@@ -24,7 +24,20 @@ workbook - customer workshops or discovery phases to:
 *   Confirm business and compliance requirements.  
 *   Evaluate and agree on service implementation options.
 *   Maintain a source of truth for ALZ customisation decisions.
-    
+
+## CAF ALZ Design Areas: Components
+
+| Legend | Design Area                          | Objective                                                                                         |
+|--------|--------------------------------------|---------------------------------------------------------------------------------------------------|
+| A      | Azure billing and Active Directory tenant | Proper tenant creation, enrollment, and billing setup are important early steps.                  |
+| B      | Identity and access management       | Identity and access management is a primary security boundary in the public cloud. It's the foundation for any secure and fully compliant architecture. |
+| C      | Resource organization                | As cloud adoption scales, considerations for subscription design and management group hierarchy have an impact on governance, operations management, and adoption patterns. |
+| E      | Network topology and connectivity    | Networking and connectivity decisions are an equally important foundational aspect of any cloud architecture. |
+| F      | Security                             | Implement controls and processes to protect your cloud environments.                             |
+| D, G, H| Management                           | For stable, ongoing operations in the cloud, a management baseline is required to provide visibility, operations compliance, and protect and recover capabilities. |
+| C, D   | Governance                           | Automate auditing and enforcement of governance policies.                                         |
+| I      | Platform automation and DevOps       | Align the best tools and templates to deploy your landing zones and supporting resources.         |
+
 ## Appendix
 
 ALZ: CAF 
@@ -45,14 +58,9 @@ ALZ: CAF
 -     https://azure.github.io/Azure-Landing-Zones/#the-azure-landing-zones-journey
 -     https://azure.github.io/Azure-Landing-Zones/img/customer-landing-zone-journey.png
 
-Legend	Design area	Objective
-The letter A	Azure billing and Active Directory tenant	Proper tenant creation, enrollment, and billing setup are important early steps.
-The letter B	Identity and access management	Identity and access management is a primary security boundary in the public cloud. It's the foundation for any secure and fully compliant architecture.
-The letter C	Resource organization	As cloud adoption scales, considerations for subscription design and management group hierarchy have an impact on governance, operations management, and adoption patterns.
-The letter E	Network topology and connectivity	Networking and connectivity decisions are an equally important foundational aspect of any cloud architecture.
+Network & Connectivity 
+- https://aacsessionslides.blob.core.windows.net/sessionslides/ESLZ_NetworkDeepDive_AAC.pdf
+- https://github.com/Azure/Enterprise-Scale/blob/main/docs/EnterpriseScale-Deploy-reference-implentations.md
+- https://github.com/Azure/Enterprise-Scale/wiki/ALZ-Deploy-reference-implementations
 
-Legend	Design area	Objective
-The letter F	Security	Implement controls and processes to protect your cloud environments.
-The letter D The letter G The letter H	Management	For stable, ongoing operations in the cloud, a management baseline is required to provide visibility, operations compliance, and protect and recover capabilities.
-The letter C The letter D	Governance	Automate auditing and enforcement of governance policies.
-The letter I	Platform automation and DevOps	Align the best tools and templates to deploy your landing zones and supporting resources.
+
