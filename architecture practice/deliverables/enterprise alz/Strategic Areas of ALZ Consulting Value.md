@@ -103,11 +103,7 @@ RBAC-as-Code: Strategic Design and Operational Considerations
 -------------------------------------------------------------
 
 <details>
-<summary> <strong> 
-
-    ### Upfront Design Decisions 
-
-</strong></summary>
+<summary> <strong> Upfront Design Decisions </strong></summary>
 
 <br>
 
@@ -150,7 +146,7 @@ RBAC-as-Code: Strategic Design and Operational Considerations
 </details>
 
 <details>
-<summary> <strong> ### Post-Deployment Operational Enhancements </strong></summary>
+<summary> <strong> Post-Deployment Operational Enhancements </strong></summary>
 
 <br>
 1.  **Monitoring and Auditing**
@@ -181,7 +177,7 @@ Zero Trust-Ready Network Overlays: Strategic Design and Operational Consideratio
 ----------------------------------------------------------------------------------
 
 <details>
-<summary> <strong> ### Upfront Design Decisions </strong></summary>
+<summary> <strong> Upfront Design Decisions </strong></summary>
 
 <br>
 
@@ -224,7 +220,7 @@ Zero Trust-Ready Network Overlays: Strategic Design and Operational Consideratio
 </details>
 
 <details>
-<summary> <strong> ### Post-Deployment Operational Enhancements </strong></summary>
+<summary> <strong> Post-Deployment Operational Enhancements </strong></summary>
 
 <br>
 
