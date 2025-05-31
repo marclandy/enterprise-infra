@@ -1,4 +1,4 @@
-**Alz Consulting Value Blog**
+**Enterprise ALZ Consulting Value**
 
 # Strategic Areas of ALZ Consulting Value
 
