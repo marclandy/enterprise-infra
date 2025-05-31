@@ -119,7 +119,7 @@ RBAC-as-Code: Strategic Design and Operational Considerations
             
         *   Decide between using built-in roles or creating custom roles tailored to specific needs.
             
-    *   **Reference**: Microsoft recommends using Azure RBAC to manage administrative access, ensuring users have only the roles required for their activities .[Microsoft Learn](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/identity-access-landing-zones?utm_source=chatgpt.com)
+    *   **Reference**: Microsoft recommends using Azure RBAC to manage administrative access, ensuring users have only the roles required for their activities.
         
 2.  **Integration with Identity Management**
     
@@ -131,7 +131,7 @@ RBAC-as-Code: Strategic Design and Operational Considerations
             
         *   Ensure synchronization with on-premises directories if operating in a hybrid environment.
             
-    *   **Reference**: The Cloud Adoption Framework emphasizes the importance of integrating identity and access management in landing zones .[Microsoft Learn](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/identity-access?utm_source=chatgpt.com)
+    *   **Reference**: The Cloud Adoption Framework emphasizes the importance of integrating identity and access management in landing zones.
         
 3.  **Infrastructure as Code (IaC) Implementation**
     
@@ -143,7 +143,7 @@ RBAC-as-Code: Strategic Design and Operational Considerations
             
         *   Version control RBAC configurations to track changes and facilitate audits.
             
-    *   **Reference**: The Cloud Adoption Framework discusses the benefits of implementing Azure Landing Zones using IaC .[TECHCOMMUNITY.MICROSOFT.COM+6Microsoft Learn+6Microsoft Learn+6](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/platform-automation-devops?utm_source=chatgpt.com)
+    *   **Reference**: The Cloud Adoption Framework discusses the benefits of implementing Azure Landing Zones using IaC.
         
 </details>
 
@@ -193,8 +193,8 @@ Zero Trust-Ready Network Overlays: Strategic Design and Operational Consideratio
             
         *   Apply Network Security Groups (NSGs) and Azure Firewall to enforce segmentation.
             
-    *   **Reference**: Microsoft provides guidance on applying Zero Trust principles to Azure networking, emphasizing network segmentation .[Microsoft Learn+2Microsoft Learn+2Microsoft Learn+2](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/identity-access-landing-zones?utm_source=chatgpt.com)[Microsoft Learn+2Microsoft Learn+2Microsoft Learn+2](https://learn.microsoft.com/en-us/security/zero-trust/azure-networking-segmentation?utm_source=chatgpt.com)
-        
+    *   **Reference**: Microsoft provides guidance on applying Zero Trust principles to Azure networking, emphasizing network segmentation.        
+
 2.  **Secure Access Controls**
     
     *   **Design Decision**: Implement strict access controls to verify and authorize network access.
@@ -205,7 +205,7 @@ Zero Trust-Ready Network Overlays: Strategic Design and Operational Consideratio
             
         *   Implement Conditional Access policies to enforce access requirements.
             
-    *   **Reference**: The Zero Trust security model in Azure highlights the use of Conditional Access as a key policy engine .[Microsoft Learn](https://learn.microsoft.com/en-us/security/zero-trust/azure-networking-overview?utm_source=chatgpt.com)[Microsoft Learn](https://learn.microsoft.com/en-us/azure/security/fundamentals/zero-trust?utm_source=chatgpt.com)
+    *   **Reference**: The Zero Trust security model in Azure highlights the use of Conditional Access as a key policy engine.
         
 3.  **Threat Protection Integration**
     
@@ -217,7 +217,7 @@ Zero Trust-Ready Network Overlays: Strategic Design and Operational Consideratio
             
         *   Use Azure Firewall Premium for advanced threat protection.
             
-    *   **Reference**: Guidance on enabling Zero Trust with Azure network security services includes deploying Azure Firewall Premium and WAF .[Microsoft Learn](https://learn.microsoft.com/en-us/security/zero-trust/azure-infrastructure-networking?utm_source=chatgpt.com)[Microsoft Learn+5TECHCOMMUNITY.MICROSOFT.COM+5Microsoft Azure+5](https://techcommunity.microsoft.com/blog/azurenetworksecurityblog/zero-trust-with-azure-network-security/3668280?utm_source=chatgpt.com)
+    *   **Reference**: Guidance on enabling Zero Trust with Azure network security services includes deploying Azure Firewall Premium and WAF.
         
 </details>
 
