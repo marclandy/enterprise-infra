@@ -1,12 +1,8 @@
-# ALZ Customization and Network Design
+# ALZ Network Design SAD
 
 **User:** Marc Landy  
 **Created:** 5/30/2025 17:33  
 **Updated:** 5/31/2025 12:06  
-**Exported:** 5/31/2025 12:08  
-
-## Response:
-**Alz Network Design Sad**
 
 ---
 
@@ -34,7 +30,7 @@ This document outlines the **networking architecture and design considerations**
 - Enable the creation of reusable Terraform modules and patterns for continuous delivery.
 - Provide a common understanding for internal stakeholders, cloud CoEs, and delivery partners.
 
-> *Target use case: Australian Federal Government agencies (e.g., NDIA), or mid-tier Utility, Retail, or Transport/Logistics orgs using MSPs/PS partners with minimal internal cloud capability.*
+> *Target use case: Australian Federal Government agencies, or mid-tier Utility, Retail, or Transport/Logistics orgs using MSPs/PS partners with minimal internal cloud capability.*
 
 ---
 
@@ -149,13 +145,9 @@ This document outlines the **networking architecture and design considerations**
 
 *End of Document*
 
-Answer in chat instead
-
-Here's your **templated Azure Landing Zone (ALZ) Network Design - Solution Architecture Document (SAD)** skeleton, tailored to your background and likely customer profile (e.g., NDIA, mid-tier utility, retailer, or logistics org). It incorporates intention, assumptions, governance, policy-as-code, and IaC alignment — providing a strong foundation for vendor handover and design discussions.
-
-You can now iterate on this document to include customer-specific details or generate supporting artifacts like Terraform RBAC modules or detailed HLDs. Let me know when you're ready to build out any appendices or automate part of this.
-
-
+*Future improvements*
+- Customer-specific details
+- Terraform RBAC modules
+- Detailed HLDs
 
 ---
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)
