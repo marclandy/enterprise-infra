@@ -212,7 +212,7 @@ As enterprise security evolves, your **SSE platform should act as a strategic en
 | 14 | Stick with effective point solutions temporarily (if needed), avoid policy sprawl                    | Could    | Transitional approach, especially with Microsoft DLP etc.                                                   |
 | 15 | Select a vendor with maturity, not just marketing hype                                               | Must     | Reduces risk of adopting unproven tech; Netskope highlighted as mature DLP option.                          |
 
-source : This catalog is derived from Chapter 5 of *Modern Data Loss Prevention (DLP) For Dummies – Netskope Special Edition*, reflecting key enterprise requirements for transitioning to a modern, cloud-delivered DLP platform.---
+source : This catalog is derived from Chapter 5 of *Modern Data Loss Prevention (DLP) For Dummies – Netskope Special Edition*, reflecting key enterprise requirements for transitioning to a modern, cloud-delivered DLP platform.
 
 </details>
 
@@ -236,3 +236,12 @@ source : This catalog is derived from Chapter 5 of *Modern Data Loss Prevention 
 | 10 | Effective Admin Tools     | Intuitive management portal with visibility, alerting, and policy management.            | Simplify operations and reduce time-to-resolution for security events and access requests.           | Role-based admin portal; alert workflows; change auditing; self-service capabilities.|
 
 </details>
+
+<details>
+<summary><strong>Analysing Corp IT Traffic Flows</strong></summary>
+<br>  
+
+![internet native transformation](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/solutions/sd-wan%2Bsse/images/internet-native%20transformation.PNG)
+  
+</details>
+
