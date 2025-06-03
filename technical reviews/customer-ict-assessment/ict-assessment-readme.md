@@ -9,6 +9,7 @@
 | Secure Endpoint       | How are endpoints protected on and off the corporate network?                                          |                               |                                  | What future-state endpoint controls (e.g., XDR, posture checks) are critical for your business?         |                              |                                   |
 | Threat Detection      | What threat detection methods and tools are used today?                                                |                               |                                  | What capabilities (e.g., UEBA, sandboxing, SIEM integration) would enhance your threat detection stack? |                              |                                   |
 | VPN                   | How is secure remote access currently handled for users and third parties?                            |                               |                                  | What improvements could support more secure, scalable, and user-friendly access in a hybrid model?     |                              |                                   |
+---
 
 🔐 Security Assessment with Maturity Levels
 | **Security Domain**   | **Assessment Question (Current State)**                                                                 | **Customer Input (Current)** | **Current Maturity Level (1–5)** | **Assessment Question (Future State)**                                                                 | **Customer Input (Future)** | **Desired Maturity Level (1–5)** |
@@ -21,6 +22,7 @@
 | Threat Intelligence    | How is threat intel ingested and actioned today (e.g., feeds, correlation, playbooks)?                  |                               |                                  | What future integrations or automation (SOAR, TIPs) are you targeting to improve incident response?    |                              |                                   |
 | Security Monitoring    | What visibility do you have today into security events across users, devices, and systems?              |                               |                                  | What improvements to SIEM, dashboards, or alerts would better support SOC operations?                   |                              |                                   |
 | Governance & Risk      | What processes support security risk management, audits, and compliance reporting today?                |                               |                                  | What capabilities (e.g., automated compliance checks, GRC tools) would elevate your security posture?  |                              |                                   |
+---
 
 📞 Unified Communications (UC) Assessment with Maturity Levels
 | **UC Domain**          | **Assessment Question (Current State)**                                                                 | **Customer Input (Current)** | **Current Maturity Level (1-5)** | **Assessment Question (Future State)**                                                                 | **Customer Input (Future)** | **Desired Maturity Level (1-5)** |
@@ -33,6 +35,7 @@
 | Contact Centre         | What tools or platforms does your contact centre use today, and how integrated are they with CRM?       |                               |                                  | What would an ideal customer engagement model look like, leveraging AI, analytics, and omnichannel?     |                              |                                   |
 | UC Security            | How is security enforced across your UC stack (e.g., SRTP, SBCs, policy controls)?                      |                               |                                  | What enhancements are required to align UC security with broader enterprise Zero Trust goals?           |                              |                                   |
 | Platform Integration   | How well does your UC platform integrate with productivity tools like Microsoft 365 or Salesforce?       |                               |                                  | What workflows or integrations would you like to automate across UC and business platforms?             |                              |                                   |
+---
 
 🖥️ Infrastructure Assessment with Maturity Levels
 | **Infrastructure Domain**    | **Assessment Question (Current State)**                                                             | **Customer Input (Current)** | **Current Maturity Level (1-5)** | **Assessment Question (Future State)**                                                                  | **Customer Input (Future)** | **Desired Maturity Level (1-5)** |
@@ -45,6 +48,8 @@
 | Resilience & DR              | How well does your current infrastructure support HA, failover, and DR testing scenarios?             |                               |                                  | What target RTO/RPO or failover capabilities do you want to achieve across services?                    |                              |                                   |
 | Monitoring & Observability   | How is infrastructure performance, health, and cost being monitored today?                          |                               |                                  | What insights or real-time metrics would better support incident response and operational efficiency?   |                              |                                   |
 | Sustainability & Efficiency  | What efforts are underway to improve energy efficiency or optimise infrastructure footprint?         |                               |                                  | What future sustainability practices or metrics (e.g., PUE, carbon offsets) do you plan to implement?   |                              |                                   |
+---
+
 🧭 Maturity Model Legend
 ### 🔢 Maturity Levels Explained
 
