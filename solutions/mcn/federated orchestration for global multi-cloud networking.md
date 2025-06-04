@@ -124,9 +124,9 @@ This is especially vital for enterprises undergoing rapid expansion, M&A, or OT/
 ```
 +---------------------------+     +---------------------------+
 | Enterprise Edge           |<--->| Global Orchestrator       |<---> APIs to:
-| (Branch, OT, Factory)     |     | (e.g., Coevolve, etc.)   |      - Megaport, Equinix Fabric
+| (Branch, OT, Factory)     |     | (e.g., Coevolve, etc.)    |      - Megaport, Equinix Fabric
 +---------------------------+     +---------------------------+      - SASE (Netskope, Zscaler)
-             ^                                 ^                      - CSP (AWS, Azure, GCP)
+             ^                                 ^                     - CSP (AWS, Azure, GCP)
              |                                 |
              |            +-------------+     +------------------+
              |            | ZTNA /      |---->| Identity Hub     |
