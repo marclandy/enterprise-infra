@@ -97,6 +97,16 @@ Your proposal enables enterprises to abstract service delivery complexity, autom
 
 ## Appendix A: The Opportunity — Full-Scope MCN Orchestration
 
+Today’s global enterprises are fragmented across:
+- Enterprise branches and manufacturing plants
+- CSP tenants (AWS, Azure, GCP, OCI, Alibaba)
+- SaaS platforms (SAP, Workday, Salesforce)
+- Remote workers, SIs, BPOs, third-party engineers
+- SASE / SSE edge locations
+- IX and CX interconnects via Megaport, Equinix, etc.
+
+No single provider owns this stack.
+
 While existing solutions provide integrated overlays and security controls, most do not orchestrate the full physical and logical path: from enterprise edge to CSP tenant, through IX/CX fabrics and cloud routers, to SaaS front doors or data pipelines.
 
 This federated model highlights a clear opportunity:
