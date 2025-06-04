@@ -170,19 +170,19 @@ This document consolidates functional requirements across all SSE components, wi
 
 ==
 Key Highlights:
-Structured by SSE Component: Each section (ZTNA, FWaaS, SWG, DLP, CASB) shows integration points.
-Priority Classification: levels (Must/Critical/High/Medium/Should/Could) feature across the implementation priority matrix to guide deployment phases.
-Coverage: All 67+ requirements from your various sources are included, with no duplication and clear traceability.
-AI Security Focus: The document emphasizes that GenAI represents the newest and highest-risk area, requiring immediate attention for **data protection, access control**, and **visibility**.
+- Structured by SSE Component: Each section (ZTNA, FWaaS, SWG, DLP, CASB) shows integration points.
+- Priority Classification: levels (Must/Critical/High/Medium/Should/Could) feature across the implementation priority matrix to guide deployment phases.
+- Coverage: All 67+ requirements from your various sources are included, with no duplication and clear traceability.
+- AI Security Focus: The document emphasizes that GenAI represents the newest and highest-risk area, requiring immediate attention for **data protection, access control**, and **visibility**.
 
 Changes Made:
 
 AI-related requirements have a unique representation across their ID's:
-Z14-AI, Z15-AI, Z16-AI (ZTNA AI requirements)
-F5-AI, F6-AI (FWaaS AI requirements)
-S6-AI, S7-AI, S8-AI (SWG AI requirements)
-D19-AI, D20-AI, D21-AI (DLP AI requirements)
-C6-AI, C7-AI, C8-AI, C9-AI (CASB AI requirements)
+- ZTNA AI Z14-AI, Z15-AI, Z16-AI 
+- FWaaS AI F5-AI, F6-AI 
+- SWG AI S6-AI, S7-AI, S8-AI 
+- DLP AI D19-AI, D20-AI, D21-AI 
+- CASB AI C6-AI, C7-AI, C8-AI, C9-AI 
 
 Document Status 
 - Ready for review with stakeholders. 
