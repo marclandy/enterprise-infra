@@ -178,11 +178,11 @@ Key Highlights:
 Changes Made:
 
 AI-related requirements have a unique representation across their ID's:
-- ZTNA AI Z14-AI, Z15-AI, Z16-AI 
-- FWaaS AI F5-AI, F6-AI 
-- SWG AI S6-AI, S7-AI, S8-AI 
-- DLP AI D19-AI, D20-AI, D21-AI 
-- CASB AI C6-AI, C7-AI, C8-AI, C9-AI 
+- ZTNA, Z14-AI, Z15-AI, Z16-AI 
+- FWaaS, F5-AI, F6-AI 
+- SWG, S6-AI, S7-AI, S8-AI 
+- DLP, D19-AI, D20-AI, D21-AI 
+- CASB, C6-AI, C7-AI, C8-AI, C9-AI 
 
 Document Status 
 - Ready for review with stakeholders. 
