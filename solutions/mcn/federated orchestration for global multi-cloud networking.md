@@ -93,7 +93,7 @@ The following Service Architecture Pattern outlines a future-ready model for ena
 
 This model acknowledges the policy-plane convergence achieved by companies like Cato—consolidating SD-WAN, SSE, and ZTNA into a unified, managed service. However, enterprise-scale needs such as industrial M&A, remote OT control, and global SaaS optimization demand deeper orchestration across IX fabrics, CSP edge presence, and telco underlay coordination. Independent players like Coevolve have the neutrality and flexibility to deliver this model at scale—especially when combined with infrastructure players like Equinix or Megaport.
 
-Your proposal enables enterprises to abstract service delivery complexity, automate site-to-cloud-to-partner provisioning, and bring network, security, and cloud stakeholders under a federated operating envelope. This isn't a reinvention of SD-WAN—it's the logical next phase: dynamic, intent-driven, and API-first connectivity that behaves more like DevOps pipelines than legacy WAN provisioning workflows.
+This proposal enables enterprises to abstract service delivery complexity, automate site-to-cloud-to-partner provisioning, and bring network, security, and cloud stakeholders under a federated operating envelope. This isn't a reinvention of SD-WAN—it's the logical next phase: dynamic, intent-driven, and API-first connectivity that behaves more like DevOps pipelines than legacy WAN provisioning workflows.
 
 ## Appendix A: The Opportunity — Full-Scope MCN Orchestration
 
