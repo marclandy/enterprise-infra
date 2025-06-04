@@ -158,6 +158,31 @@ This is especially vital for enterprises undergoing rapid expansion, M&A, or OT/
 | SLA / Telemetry Federation | Partial (within Cato fabric only) | ✔ Full observability across domains |
 | Federated API Governance | ✖ Limited / Internal APIs | ✔ Supports multi-domain automation |
 
+*What Cato Networks Does and Doesn’t Do*
+Cato Networks “stitches together”:
+- SD-WAN overlays
+- Global backbone overlaid with their own PoPs
+- SSE security stack (SWG, CASB, DLP, ZTNA)
+- Identity-aware routing policies
+
+Cato does not orchestrate:
+- Underlay telco provisioning (circuits from BT, Orange, AT&T, etc.)
+- IX/CX peering automation (Megaport, Equinix)
+- Cloud-native networking constructs (Azure VWAN, AWS TGW, etc.)
+- 3rd-party SD-WAN, NaaS, or security stacks
+
+They own and operate their own end-to-end SASE fabric—but it's single-vendor and vertically integrated.
+
+*How Coevolve Compares*
+Coevolve is vendor-agnostic, consulting-anchored, and multi-platform, which makes them well-positioned to:
+- Orchestrate across multiple SD-WAN vendors
+- Integrate with cloud-native networking (e.g., CSP WAN offerings)
+- Collaborate with IX/CX providers like Megaport and Equinix
+- Handle service delivery across multiple telcos
+- Stitch policy and automation across disparate platforms and APIs
+Where Cato builds and controls the entire stack within their service fabric, Coevolve integrates and operationalizes services across many providers and domains, making them ideal as:
+A Federated Orchestration Broker rather than a closed-loop service provider.
+
 ## References
 
 - Kyndryl describes MCN Four Towers concept: 1) Enterprise Landing Zone, 2) Enterprise WAN, 3) Inter-Cloud Tenant + DC/Site/Remote Access, 4) Complex & Business-Critical Application flows. Concept adapted from Robert DeWeese.
