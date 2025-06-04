@@ -46,21 +46,21 @@ The following Service Architecture Pattern outlines a future-ready model for ena
 
 ```
 +---------------------------+     +---------------------------+
-| Enterprise Edge Sites     |<--->| SD-WAN / SASE Fabric     |
-| (Factories, HQ, Branches) |     | (Cato, Zscaler, Prisma)  |
+| Enterprise Edge Sites     |<--->| SD-WAN / SASE Fabric      |
+| (Factories, HQ, Branches) |     | (Cato, Zscaler, Prisma)   |
 +---------------------------+     +---------------------------+
              |                                 |
              v                                 v
 +---------------------------+     +---------------------------+
 | IX/CX Fabric (Megaport,   |<--->| Cloud Interconnect (CSPs) |
-| Equinix, ConsoleConnect)  |     | AWS DX, Azure Peering,   |
+| Equinix, ConsoleConnect)  |     | AWS DX, Azure Peering,    |
 +---------------------------+     | GCP                       |
              |                    +---------------------------+
              v                                 |
-+---------------------------+                 v
++---------------------------+                  v
 | Telco / Circuit Underlay  |<--->+---------------------------+
 | (BT, Orange, AT&T)        |     | Federated Orchestration   |
-+---------------------------+     | Hub (e.g., Coevolve,     |
++---------------------------+     | Hub (e.g., Coevolve,      |
                                   | Custom NOC)               |
                                   +---------------------------+
 ```
