@@ -150,8 +150,6 @@ This is especially vital for enterprises undergoing rapid expansion, M&A, or OT/
 
 ## References
 
-- Kyndryl describe MCN 4 Towers concept: 1) Enterprise Landing Zone, 2) Enterprise WAN, 3) Inter-Cloud Tenant + DC/Site/Remote Access, 4) Complex & Business-Critical Application flows. Concept adapted from Robert DeWeese.
+- Kyndryl describes MCN Four Towers concept: 1) Enterprise Landing Zone, 2) Enterprise WAN, 3) Inter-Cloud Tenant + DC/Site/Remote Access, 4) Complex & Business-Critical Application flows. Concept adapted from Robert DeWeese.
 
 ---
-
-**End of Document**
