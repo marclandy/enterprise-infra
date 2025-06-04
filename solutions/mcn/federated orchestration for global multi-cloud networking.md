@@ -152,11 +152,11 @@ This is especially vital for enterprises undergoing rapid expansion, M&A, or OT/
 | SD-WAN Overlay | ✔ Integrated | ✔ Integrated or Multi-vendor |
 | SSE / ZTNA | ✔ Native | ✔ Integrated (Zscaler, Netskope, etc.) |
 | CSP Interconnect Management | ✖ Not Provided | TBC Federated via IX or Telco |
-| Underlay Path Diversity | ✖ Customer-provided or BYOB | TBC Brokered via partners (BT, Orange) |
+| Underlay Path Diversity | ✖ Customer-provided or BYOB | ✔ Brokered via partners (BT, Orange) |
 | IX / CX Automation | ✖ Not integrated | ✔ Enabled via Equinix/Megaport APIs |
-| 3rd Party Access (OT / B2B / M&A) | ✔ Supported, policy-driven | TBC Supported + federated access control |
-| SLA / Telemetry Federation | Partial (within Cato fabric only) | TBC Full observability across domains |
-| Federated API Governance | ✖ Limited / Internal APIs | TBC Supports multi-domain automation |
+| 3rd Party Access (OT / B2B / M&A) | ✔ Supported, policy-driven | ✔ Supported + federated access control |
+| SLA / Telemetry Federation | Partial (within Cato fabric only) | ✔ Full observability across domains |
+| Federated API Governance | ✖ Limited / Internal APIs | ✔ Supports multi-domain automation |
 
 *What Cato Networks Does and Doesn’t Do*
 Cato Networks “stitches together”:
