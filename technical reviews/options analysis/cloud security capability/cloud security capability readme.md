@@ -1,4 +1,4 @@
-| 1/ Cloud Security Capability options |
+| Cloud Security Capability options |
 | --- |
 | • CSPM > Cloud Configuration & Compliance Assurance |
 | • SSPM > SaaS Application Security & Governance |
