@@ -174,7 +174,7 @@ Cato does not orchestrate:
 They own and operate their own end-to-end SASE fabric—but it's single-vendor and vertically integrated.
 
 *How Coevolve Compares*
-Coevolve is vendor-agnostic, consulting-anchored, and multi-platform, which makes them well-positioned to:
+- Coevolve is vendor-agnostic, consulting-anchored, and multi-platform, which makes them well-positioned to:
 - Orchestrate across multiple SD-WAN vendors
 - Integrate with cloud-native networking (e.g., CSP WAN offerings)
 - Collaborate with IX/CX providers like Megaport and Equinix
