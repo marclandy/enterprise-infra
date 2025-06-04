@@ -183,6 +183,12 @@ They own and operate their own end-to-end SASE fabric—but it's single-vendor a
 Where Cato builds and controls the entire stack within their service fabric, Coevolve integrates and operationalizes services across many providers and domains, making them ideal as:
 A Federated Orchestration Broker rather than a closed-loop service provider.
 
+What Comes Next: Where Coevolve-Type Models Expand
+- Service Composition: Create services by chaining together capabilities (e.g., traffic shaping + DLP + cloud peering) on-demand
+- AI-Driven Path Selection: Real-time decisions across multiple transport underlays and service providers
+- Zero Trust Everywhere: Not just users, but also APIs, machine-to-machine, and service-to-service
+- Cloud-Integrated Telco APIs: Direct integrations with Azure WAN, AWS Cloud WAN, and GCP Network Connectivity Center
+
 ## References
 
 - Kyndryl describes MCN Four Towers concept: 1) Enterprise Landing Zone, 2) Enterprise WAN, 3) Inter-Cloud Tenant + DC/Site/Remote Access, 4) Complex & Business-Critical Application flows. Concept adapted from Robert DeWeese.
