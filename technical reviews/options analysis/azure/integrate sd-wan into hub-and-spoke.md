@@ -4,7 +4,7 @@ This decision framework summarises routing strategy options when integrating SD-
 
 ---
 
-## Question 1: Routing Firewall-to-SDWAN – Static or Dynamic?
+## 1: Routing Firewall-to-SDWAN – Static or Dynamic?
 
 This decision pertains to how the firewall directs traffic to SD-WAN appliances.
 
@@ -16,7 +16,7 @@ This decision pertains to how the firewall directs traffic to SD-WAN appliances.
 
 ---
 
-## Question 2: Routing SDWAN-to-Firewall – Static or Dynamic?
+## 2: Routing SDWAN-to-Firewall – Static or Dynamic?
 
 This decision focuses on how SD-WAN appliances route traffic back to the firewall.
 
@@ -28,7 +28,7 @@ This decision focuses on how SD-WAN appliances route traffic back to the firewal
 
 ---
 
-## Question 3: Route Advertisement into SDWAN – Static or Dynamic?
+## 3: Route Advertisement into SDWAN – Static or Dynamic?
 
 This decision involves how routes are advertised from Azure into the SD-WAN network.
 
@@ -39,7 +39,7 @@ This decision involves how routes are advertised from Azure into the SD-WAN netw
 
 ---
 
-## Question 4: Routing Spoke-to-Firewall – Static or Dynamic?
+## 4: Routing Spoke-to-Firewall – Static or Dynamic?
 
 This decision addresses how spoke VNets route traffic to the firewall in the hub.
 
@@ -50,7 +50,7 @@ This decision addresses how spoke VNets route traffic to the firewall in the hub
 
 ---
 
-## Question 5: Do You Need Routing to ExpressRoute?
+## 5: Do You Need Routing to ExpressRoute?
 
 This decision determines whether routing to on-premises networks via ExpressRoute is necessary.
 
@@ -62,7 +62,7 @@ This decision determines whether routing to on-premises networks via ExpressRout
 
 ---
 
-## Question 6: Routing to Other Azure Regions – Static or Dynamic?
+## 6: Routing to Other Azure Regions – Static or Dynamic?
 
 This decision pertains to how traffic is routed between Azure regions.
 
