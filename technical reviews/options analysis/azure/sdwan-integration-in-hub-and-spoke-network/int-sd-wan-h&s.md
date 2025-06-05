@@ -74,3 +74,4 @@ This decision pertains to how traffic is routed between Azure regions.
 ---
 
 **Source:** [Cloudtrooper: Designing your SDWAN and Firewall into Azure Hub and Spoke (2023)](https://blog.cloudtrooper.net/2023/11/24/designing-your-sdwan-and-firewall-into-azure-hub-and-spoke/)
+- https://learn.microsoft.com/en-us/azure/architecture/networking/guide/sdwan-integration-in-hub-and-spoke-network-topologies
