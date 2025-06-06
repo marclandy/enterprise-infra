@@ -54,14 +54,14 @@ This whitepaper provides a pragmatic and reference-driven overview of certificat
 
 [ Intune ] → issues SCEP request → [ SCEP Connector (on-prem or cloud) ] → forwards to → [ CA / DigiCert Cloud ]
 
-- Ideal for device certificates, MDM-based workflows
+- Ideal for **device** certificates, **MDM**-based workflows
 - Stateless provisioning
 
 ### 2.2 PFX Flow
 
 [ Intune ] → PFX cert request → [ DigiCert CA ] → cert generated & escrowed → returned securely to device
 
-- Ideal for S/MIME, secure email, user certificates
+- Ideal for S/MIME, **secure email**, **user certificates**
 - Certificate escrow supported (DigiCert)
 
 ---
@@ -86,7 +86,7 @@ This whitepaper provides a pragmatic and reference-driven overview of certificat
 ## 4. S/MIME Use-Cases
 
 S/MIME is used for:
-- Secure internal/external corporate email
+- Secure internal/external **corporate email**
 - Non-repudiation (digital signing)
 - Regulatory or compliance-aligned communications
 
