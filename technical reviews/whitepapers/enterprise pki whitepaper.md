@@ -8,7 +8,7 @@ Referenced document: https://medium.com/@marclandy.me/euc-reference-architecture
 
 ## Executive Summary
 
-Mid-tier organisations in sectors such as retail, healthcare, manufacturing, and energy are undergoing digital transformation across hybrid environments. As the perimeter dissolves, the **trust fabric of the enterprise is increasingly underpinned by certificate-based authentication**—for devices, users, services, workloads, and data.
+Mid-tier organisations in sectors such as retail, healthcare, higher-education, biotech, airlines/aviation & financial services are undergoing digital transformation across hybrid environments. As the perimeter dissolves, the **trust fabric of the enterprise is increasingly underpinned by certificate-based authentication**—for devices, users, services, workloads, and data.
 
 This whitepaper provides a pragmatic and reference-driven overview of certificate use-cases in a typical enterprise, considerations for consolidating on a modern PKI platform, and comparative guidance on integrating **DigiCert PKI Platform** and **Microsoft Cloud PKI** with Microsoft Intune.
 
