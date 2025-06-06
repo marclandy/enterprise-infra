@@ -109,32 +109,8 @@ S/MIME is used for:
 
 ## Scenario: Access Flow Sequence – Cert Perspective
 
-User connects to corporate SaaS application (via ZTNA)
-
-1. Device boots and connects to Wi-Fi
-- Uses device certificate for 802.1X (RADIUS/NAC)
-- NAC inspects posture (ISE, ClearPass)
-
-2. VPN/SASE/ZTNA agent starts
-- Authenticates using mTLS (cert provisioned by Intune/PFX)
-- Tunnel is established to SSE broker (e.g., Netskope)
-
-3. User signs in with Entra ID
-- SSO token issued (signed by IdP cert)
-- Conditional Access checks compliance and risk
-
-4. Application accessed (e.g., Salesforce)
-- TLS session terminated at WAF (e.g., Imperva)
-- Optional mTLS from broker to app backend
-
-5. Email or messaging used (e.g., Outlook)
-- S/MIME cert encrypts and signs email
-
-6. Logs & telemetry sent to SIEM
-- TLS protected channel with cert-auth agent
-
 <details>
-<summary> <strong> **User Journey: Accessing Corporate SaaS Application via ZTNA** </strong></summary>
+<summary> <strong> User Journey: Accessing Corporate SaaS Application via ZTNA </strong></summary>
 
 <br>
 
