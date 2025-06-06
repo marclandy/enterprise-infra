@@ -107,6 +107,38 @@ S/MIME is used for:
 | Device Layer                | Windows/macOS, JAMF, Autopilot                | Device identity via SCEP/PFX, trusted MDM channels                                    |
 | Network Layer               | VPN, SASE, Private Access                     | mTLS tunnels, certs for mutual auth and dynamic routing policies                      |
 
+---
+
+## 6. Certificate Management for Cloud Workloads
+
+Cloud workloads—such as containerized applications, serverless functions, and microservices—often do not fit neatly into SCEP or PFX flows. Instead, they require **custom CA integration** for workload identity, typically through service mesh, orchestrator-native tooling, or secrets management systems.
+
+### Common Approaches
+
+| <span style="background-color: #90EE90;">**Technology**</span>         | <span style="background-color: #90EE90;">**Certificate Management Method**</span>                            | <span style="background-color: #90EE90;">**Use Case**</span>                                          |
+|------------------------|---------------------------------------------------------------|--------------------------------------------------------|
+| **SPIFFE/SPIRE**       | Issues x.509 SVIDs (SPIFFE Verifiable Identity Documents)     | Secure service-to-service mTLS in Kubernetes, VMs     |
+| **Istio / Linkerd**    | Integrated CA or plugged-in CA (e.g., Citadel, Vault, Cert-Manager) | Auto-issued mTLS certs for east-west traffic         |
+| **HashiCorp Vault**    | PKI secrets engine to issue short-lived certs dynamically     | Workload identity, app identity, CI/CD pipelines       |
+| **Kubernetes Cert-Manager** | Issues certs via ACME, Vault, or custom issuers         | TLS certs for Ingress, webhook validation             |
+| **AWS ACM / Azure Key Vault** | Stores and manages TLS certs for App Services, Functions | Bind HTTPS endpoints, manage SSL lifecycle            |
+
+> **Recommendation**: While not covered by SCEP or PFX, workload identity is mission-critical and should align to a centralized CA (e.g., DigiCert, Vault) with short TTLs and lifecycle automation.
+
+---
+
+## Final Recommendations 
+
+- Intune + DigiCert offers best-of-both-worlds: native MDM workflows with strong enterprise-grade PKI lifecycle.
+
+- Expand certificate inventory: capture Kafka, SIEM, WAF, telemetry, and automation tooling in your CMDB.
+
+- Align with ZTNA and SSE adoption: Ensure every endpoint and access layer service is identity-bound using certs.
+
+- Standardise on a certificate lifecycle approach: automate renewals, alerts, expiry checks across hybrid landscape.
+
+---
+
 ## Scenario: Access Flow Sequence – Cert Perspective
 
 <details>
@@ -164,36 +196,3 @@ S/MIME is used for:
 - **S/MIME cert**: Email encryption/signing (Outlook/Exchange)
 - **Agent cert**: Authenticated telemetry channels (SIEM/logging)
 </details>
-
----
-
-## 6. Certificate Management for Cloud Workloads
-
-Cloud workloads—such as containerized applications, serverless functions, and microservices—often do not fit neatly into SCEP or PFX flows. Instead, they require **custom CA integration** for workload identity, typically through service mesh, orchestrator-native tooling, or secrets management systems.
-
-### Common Approaches
-
-| <span style="background-color: #90EE90;">**Technology**</span>         | <span style="background-color: #90EE90;">**Certificate Management Method**</span>                            | <span style="background-color: #90EE90;">**Use Case**</span>                                          |
-|------------------------|---------------------------------------------------------------|--------------------------------------------------------|
-| **SPIFFE/SPIRE**       | Issues x.509 SVIDs (SPIFFE Verifiable Identity Documents)     | Secure service-to-service mTLS in Kubernetes, VMs     |
-| **Istio / Linkerd**    | Integrated CA or plugged-in CA (e.g., Citadel, Vault, Cert-Manager) | Auto-issued mTLS certs for east-west traffic         |
-| **HashiCorp Vault**    | PKI secrets engine to issue short-lived certs dynamically     | Workload identity, app identity, CI/CD pipelines       |
-| **Kubernetes Cert-Manager** | Issues certs via ACME, Vault, or custom issuers         | TLS certs for Ingress, webhook validation             |
-| **AWS ACM / Azure Key Vault** | Stores and manages TLS certs for App Services, Functions | Bind HTTPS endpoints, manage SSL lifecycle            |
-
-> **Recommendation**: While not covered by SCEP or PFX, workload identity is mission-critical and should align to a centralized CA (e.g., DigiCert, Vault) with short TTLs and lifecycle automation.
-
----
-
-
-## Final Recommendations 
-
-- Intune + DigiCert offers best-of-both-worlds: native MDM workflows with strong enterprise-grade PKI lifecycle.
-
-- Expand certificate inventory: capture Kafka, SIEM, WAF, telemetry, and automation tooling in your CMDB.
-
-- Align with ZTNA and SSE adoption: Ensure every endpoint and access layer service is identity-bound using certs.
-
-- Standardise on a certificate lifecycle approach: automate renewals, alerts, expiry checks across hybrid landscape.
-
----
