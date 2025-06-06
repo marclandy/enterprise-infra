@@ -133,6 +133,61 @@ User connects to corporate SaaS application (via ZTNA)
 6. Logs & telemetry sent to SIEM
 - TLS protected channel with cert-auth agent
 
+<details>
+<summary> <strong> **User Journey: Accessing Corporate SaaS Application via ZTNA** </strong></summary>
+
+<br>
+
+```
+┌──────────────────────────────────────────────────┐
+│         📱 DEVICE BOOT & NETWORK                 │
+└──────────────────────────────────────────────────┘
+                        │
+┌─────────────┐ 📜 802.1X ┌─────────────┐ 🔍 Posture
+│   Device    │ ────────► │   Wi-Fi/NAC │ ─────────►
+└─────────────┘           └─────────────┘
+                        │
+┌──────────────────────────────────────────────────┐
+│            🔐 ZTNA AGENT STARTUP                 │
+└──────────────────────────────────────────────────┘
+                        │
+┌─────────────┐ 📋 mTLS  ┌─────────────┐ 🌐 Tunnel
+│ ZTNA Agent  │ ────────► │ SSE Broker  │ ─────────►
+└─────────────┘           └─────────────┘
+                        │
+┌──────────────────────────────────────────────────┐
+│           👤 USER AUTHENTICATION                 │
+└──────────────────────────────────────────────────┘
+                        │
+┌─────────────┐ 🎫 SSO   ┌─────────────┐ ✅ Policy
+│    User     │ ────────► │  Entra ID   │ ─────────►
+└─────────────┘           └─────────────┘
+                        │
+┌──────────────────────────────────────────────────┐
+│            💼 APPLICATION ACCESS                 │
+└──────────────────────────────────────────────────┘
+                        │
+┌─────────────┐ 🔒 TLS   ┌─────────────┐ 🔗 mTLS
+│  SaaS App   │ ◄─────── │     WAF     │ ◄────────
+└─────────────┘           └─────────────┘
+                        │
+┌─────────────┐ 📧 S/MIME ┌─────────────┐
+│    Email    │ ────────► │   Outlook   │
+└─────────────┘           └─────────────┘
+                        │
+┌─────────────┐ 📡 TLS    ┌─────────────┐
+│    Logs     │ ────────► │    SIEM     │
+└─────────────┘           └─────────────┘
+```
+
+**Certificate Flow Summary:**
+- **Device cert**: 802.1X network access (RADIUS/NAC posture check)
+- **mTLS cert**: Secure tunnel to SSE broker (Intune/PFX provisioned)  
+- **IdP cert**: Signs SSO tokens (Conditional Access policy enforcement)
+- **TLS cert**: Application traffic security (WAF termination + optional backend mTLS)
+- **S/MIME cert**: Email encryption/signing (Outlook/Exchange)
+- **Agent cert**: Authenticated telemetry channels (SIEM/logging)
+</details>
 
 ---
 
