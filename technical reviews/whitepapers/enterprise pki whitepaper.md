@@ -1,5 +1,5 @@
 ---
-Title: "Enterprise Certificate Management for Mid-Tier Organisations: Integrating PKI Across IT, OT, and EUC Architectures"
+Title: "Enterprise Certificate Management for Mid-Tier Organisations: Integrating PKI Across IT, and EUC Architectures"
 Author: Marc Landy, Network & Infrastructure Architecture Team  
 Repo: Internal Architecture Standards
 Last Updated: 6th June 2025  
