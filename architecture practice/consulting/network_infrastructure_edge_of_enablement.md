@@ -1,6 +1,6 @@
 # Network & Infrastructure: At the Edge of Enablement
 
-> “We often sit at the edge of domains — where security, access, and enablement collide.”
+> “My capability often sits at the edge of domains — where security, access, and enablement collide.”
 
 ## 👤 Author  
 Marc Landy – Enterprise Network & Infrastructure Architect
@@ -12,7 +12,7 @@ This post defines the architectural value and strategic capability that Network 
 
 ## Why This Matters
 
-Network and Infrastructure Architecture is no longer confined to cabling and uptime. We operate at a critical junction—**where digital enablement meets enterprise control**. Our work enables:
+Network and Infrastructure Architecture is no longer confined to cabling and uptime. I operate at a critical junction—**where digital enablement meets enterprise control**. My work enables:
 
 - **Secure, performant access** to cloud, apps, and data
 - **Operational resilience** across distributed and remote environments
@@ -22,9 +22,9 @@ Network and Infrastructure Architecture is no longer confined to cabling and upt
 
 ---
 
-## Where We Sit in the Architecture Stack
+## Where I Sit in the Architecture Stack
 
-We work closely with:
+Work closely with:
 - Security Architects: to enforce trust zones, SSE, microsegmentation
 - Cloud & Platform Architects: to land workloads securely and predictably
 - Data & Application Architects: to ensure data flows and latency profiles are respected
@@ -45,13 +45,13 @@ We work closely with:
 
 ---
 
-## Typical Projects We Lead
+## Typical Projects I Lead
 
 See appendix below for full project tables.
 
 ---
 
-## Common Cross-Domain Projects We Support
+## Common Cross-Domain Projects I Support
 
 See appendix below for full project tables.
 
@@ -66,7 +66,7 @@ The role of Network & Infrastructure Architecture is evolving, but it remains es
 ## Appendix: Expand for Full Project Tables
 
 <details>
-<summary><strong> Network Architecture – Projects Typically Led</strong></summary>
+<summary><strong> 👉 Network Architecture – Projects Typically Led</strong></summary>
 
 | Project Name | Typical Scope/Trigger | Role Type |
 |--------------|------------------------|-----------|
@@ -83,7 +83,7 @@ The role of Network & Infrastructure Architecture is evolving, but it remains es
 </details>
 
 <details>
-<summary><strong> Infrastructure Architecture – Projects Typically Led</strong></summary>
+<summary><strong> 👉 Infrastructure Architecture – Projects Typically Led</strong></summary>
 
 | Project Name | Typical Scope/Trigger | Role Type |
 |--------------|------------------------|-----------|
@@ -99,7 +99,7 @@ The role of Network & Infrastructure Architecture is evolving, but it remains es
 </details>
 
 <details>
-<summary><strong> Cross-Domain Projects – Typically Support, Consult to & Elevate</strong></summary>
+<summary><strong> 👉 Cross-Domain Projects – Typically Support, Consult to & Elevate</strong></summary>
 
 | Project Name | Typical Role | Why You're Needed |
 |--------------|---------------|-------------------|
