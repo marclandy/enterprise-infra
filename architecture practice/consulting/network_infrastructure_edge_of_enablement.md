@@ -2,7 +2,7 @@
 
 > “My capability often sits at the edge of domains — where security, access, and enablement collide.”
 
-## Marc Landy – Enterprise Network & Infrastructure Architect
+## Marc Landy – Enterprise Network Architect
 
 ## Purpose  
 This post defines the architectural value and strategic capability that Network & Infrastructure delivers within complex enterprise programs—particularly across large-scale, regulated, and hybrid environments.
@@ -11,7 +11,7 @@ This post defines the architectural value and strategic capability that Network 
 
 ## Why This Matters
 
-Network and Infrastructure Architecture is no longer confined to cabling and uptime. I operate at a critical junction—**where digital enablement meets enterprise control**. My work enables:
+Network Architecture is no longer confined to cabling and uptime. I operate at a critical junction—**where digital enablement meets enterprise control**. My work enables:
 
 - **Secure, performant access** to cloud, apps, and data
 - **Operational resilience** across distributed and remote environments
@@ -42,6 +42,7 @@ Work closely with:
 | Automation & Lifecycle | Infra-as-code, observability, and asset lifecycle management. |
 | IT/OT Convergence | Secure segmentation, visibility, and enablement of OT data paths. |
 
+Note - I am increasingly taking on more Infrastructure scope as when the need arises on customer site. 
 ---
 
 ## Typical Projects I Lead
@@ -60,7 +61,7 @@ See appendix below for full project tables.
 
 ## Conclusion
 
-The role of Network & Infrastructure Architecture is evolving, but it remains essential. I **enable business outcomes**, **reduce architectural risk**, and **ensure every digital initiative has a reliable foundation**—all while bridging the edge, the core, and the cloud.
+The role of Network Architecture is evolving, but it remains essential. I **enable business outcomes**, **reduce architectural risk**, and **ensure every digital initiative has a reliable foundation**—all while bridging the edge, the core, and the cloud.
 
 ---
 
@@ -88,14 +89,14 @@ The role of Network & Infrastructure Architecture is evolving, but it remains es
 
 | Project Name | Typical Scope/Trigger | Role Type |
 |--------------|------------------------|-----------|
-| Enterprise Hosting Modernisation | Move from IaaS to containers/serverless | Lead |
+| Enterprise Hosting Modernisation | Move from IaaS to containers/serverless | <> |
 | Compute and Storage Refresh | Hardware lifecycle, HCI rollout | Lead |
 | Remote Site Modernisation | All-in-one site infrastructure uplift | Lead |
 | Disaster Recovery Refresh | DR strategy, DRaaS, replication | Lead |
-| Infrastructure Automation | IaC adoption, CMDB sync, config mgmt | Lead |
-| Cloud Landing Zone Builds | Base infrastructure, identity, DNS, network | Lead |
-| Site Exit / DC Exit | Infrastructure decommission, cloud migration | Lead |
-| Lifecycle Management | Asset refresh, patching, supportability uplift | Lead |
+| Infrastructure Automation | IaC adoption, CMDB sync, config mgmt | <> |
+| Cloud Landing Zone Builds | Base infrastructure, identity, DNS, network | <> |
+| Site Exit / DC Exit | Infrastructure decommission, cloud migration | <> |
+| Lifecycle Management | Asset refresh, patching, supportability uplift | <> |
 
 </details>
 
