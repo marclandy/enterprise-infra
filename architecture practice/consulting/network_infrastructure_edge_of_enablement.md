@@ -1,37 +1,8 @@
-<!-- Begin Layout with Logo Left-Aligned -->
-<table style="border: none;">
-<tr>
-<td style="vertical-align: top; padding-right: 20px;">
-  <div style="width: 180px; height: 180px; background: linear-gradient(135deg, #2c3e50, #34495e); border-radius: 15px; display: flex; align-items: center; justify-content: center;">
-    <div style="position: relative; width: 140px; height: 140px;">
-      <!-- Circuit Lines -->
-      <div style="position: absolute; width: 60px; height: 3px; top: 20px; left: 40px; background: #3498db; border-radius: 1px;"></div>
-      <div style="position: absolute; width: 3px; height: 40px; top: 20px; left: 70px; background: #3498db; border-radius: 1px;"></div>
-      <div style="position: absolute; width: 40px; height: 3px; top: 40px; left: 70px; background: #3498db; border-radius: 1px;"></div>
-      <div style="position: absolute; width: 3px; height: 60px; top: 60px; left: 40px; background: #3498db; border-radius: 1px;"></div>
-      <div style="position: absolute; width: 80px; height: 3px; bottom: 20px; left: 30px; background: #3498db; border-radius: 1px;"></div>
+# Network & Infrastructure: At the Edge of Enablement
 
-      <!-- Circuit Nodes -->
-      <div style="position: absolute; width: 12px; height: 12px; background: #e74c3c; border-radius: 50%; border: 2px solid #3498db; top: 15px; left: 65px;"></div>
-      <div style="position: absolute; width: 12px; height: 12px; background: #e74c3c; border-radius: 50%; border: 2px solid #3498db; top: 35px; left: 105px;"></div>
-      <div style="position: absolute; width: 12px; height: 12px; background: #e74c3c; border-radius: 50%; border: 2px solid #3498db; top: 115px; left: 35px;"></div>
-      <div style="position: absolute; width: 12px; height: 12px; background: #e74c3c; border-radius: 50%; border: 2px solid #3498db; bottom: 15px; right: 25px;"></div>
+> “My capability often sits at the edge of domains — where security, access, and enablement collide.”
 
-      <!-- Initials -->
-      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px; font-weight: bold; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">M | L</div>
-    </div>
-  </div>
-</td>
-
-<td style="vertical-align: top;">
-  <h1>Network & Infrastructure: At the Edge of Enablement</h1>
-  <p><em>“My capability often sits at the edge of domains — where security, access, and enablement collide.”</em></p>
-  <p><strong>Marc Landy – Enterprise Network & Infrastructure Architect</strong></p>
-</td>
-</tr>
-</table>
-
----
+## Marc Landy – Enterprise Network & Infrastructure Architect
 
 ## Purpose  
 This post defines the architectural value and strategic capability that Network & Infrastructure delivers within complex enterprise programs—particularly across large-scale, regulated, and hybrid environments.
