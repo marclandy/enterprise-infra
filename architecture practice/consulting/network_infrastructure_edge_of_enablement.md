@@ -1,0 +1,115 @@
+# Network & Infrastructure: At the Edge of Enablement
+
+> “We often sit at the edge of domains — where security, access, and enablement collide.”
+
+## 👤 Author  
+Marc Landy – Enterprise Network & Infrastructure Architect
+
+## Purpose  
+This post defines the architectural value and strategic capability that Network & Infrastructure delivers within complex enterprise programs—particularly across large-scale, regulated, and hybrid environments.
+
+---
+
+## Why This Matters
+
+Network and Infrastructure Architecture is no longer confined to cabling and uptime. We operate at a critical junction—**where digital enablement meets enterprise control**. Our work enables:
+
+- **Secure, performant access** to cloud, apps, and data
+- **Operational resilience** across distributed and remote environments
+- **Transformation programs** like M&A, hybrid cloud, and IT/OT convergence
+- **Policy enforcement** at the network level in support of Zero Trust
+- **Technology lifecycle stewardship** to avoid risk and cost blowout
+
+---
+
+## Where We Sit in the Architecture Stack
+
+We work closely with:
+- Security Architects: to enforce trust zones, SSE, microsegmentation
+- Cloud & Platform Architects: to land workloads securely and predictably
+- Data & Application Architects: to ensure data flows and latency profiles are respected
+- IAM Architects: to support device identity, network-based access, and certificate services
+- OT Engineers: to bridge traditionally isolated plant networks with modern IT capabilities
+
+---
+
+## Capabilities Delivered
+
+| Capability Area | Description |
+|------------------|-------------|
+| Multi-Cloud Network Architecture | Design and implement connectivity between DC, cloud, and edge. |
+| Secure Access Architecture | ZTNA, SSE, VPN evolution, network access control. |
+| DC and Edge Infrastructure Design | High availability, modern LAN/WAN, wireless and compute strategies. |
+| Automation & Lifecycle | Infra-as-code, observability, and asset lifecycle management. |
+| IT/OT Convergence | Secure segmentation, visibility, and enablement of OT data paths. |
+
+---
+
+## Typical Projects We Lead
+
+See appendix below for full project tables.
+
+---
+
+## Common Cross-Domain Projects We Support
+
+See appendix below for full project tables.
+
+---
+
+## Conclusion
+
+The role of Network & Infrastructure Architecture is evolving, but it remains essential. We **enable business outcomes**, **reduce architectural risk**, and **ensure every digital initiative has a reliable foundation**—all while bridging the edge, the core, and the cloud.
+
+---
+
+## Appendix: Expand for Full Project Tables
+
+<details>
+<summary><strong> Network Architecture – Projects Typically Led</strong></summary>
+
+| Project Name | Typical Scope/Trigger | Role Type |
+|--------------|------------------------|-----------|
+| Enterprise WAN/SD-WAN Modernisation | Replace MPLS/legacy SD-WAN to enable MCN and cloud-first apps | Lead |
+| Branch Network Refresh | Hardware lifecycle, wireless and switching refresh | Lead |
+| Cloud Network Integration | Azure, AWS network patterns, ExpressRoute, Direct Connect | Lead |
+| DC Interconnect & VXLAN | L2/L3 segmentation, workload mobility, EVPN fabric | Lead |
+| IT/OT Segmentation | Purdue segmentation, firewall insertion, NAC | Lead |
+| ZTNA/Secure Access Architecture | SASE, ZTNA, identity-aware networking | Lead |
+| Network Automation | Intent-based, templated provisioning via Ansible/Terraform | Lead |
+| M&A Network Separation | LAN/WAN/Cloud transition design | Lead |
+| UC Network Readiness | Teams, Zoom, VoIP support across distributed WAN | Lead |
+
+</details>
+
+<details>
+<summary><strong> Infrastructure Architecture – Projects Typically Led</strong></summary>
+
+| Project Name | Typical Scope/Trigger | Role Type |
+|--------------|------------------------|-----------|
+| Enterprise Hosting Modernisation | Move from IaaS to containers/serverless | Lead |
+| Compute and Storage Refresh | Hardware lifecycle, HCI rollout | Lead |
+| Remote Site Modernisation | All-in-one site infrastructure uplift | Lead |
+| Disaster Recovery Refresh | DR strategy, DRaaS, replication | Lead |
+| Infrastructure Automation | IaC adoption, CMDB sync, config mgmt | Lead |
+| Cloud Landing Zone Builds | Base infrastructure, identity, DNS, network | Lead |
+| Site Exit / DC Exit | Infrastructure decommission, cloud migration | Lead |
+| Lifecycle Management | Asset refresh, patching, supportability uplift | Lead |
+
+</details>
+
+<details>
+<summary><strong> Cross-Domain Projects – Typically Supported</strong></summary>
+
+| Project Name | Typical Role | Why You're Needed |
+|--------------|---------------|-------------------|
+| Cyber Security Programs | Contributor | Microsegmentation, SASE integration |
+| IAM & Certificate Platforms | Consultant | Secure device access, NAC, PKI infra |
+| SaaS Migrations (e.g. O365) | Contributor | WAN breakout, perf optimization |
+| DevOps & Container Platforms | Support | Infra, storage, DNS, overlay networking |
+| Integration Platforms (ESB/API) | Support | Zoning, infra readiness |
+| EUC/VDI Modernisation | Support | Network latency, profile tuning |
+| Data Platform Initiatives | Support | Peering, IP range mgmt, transit encryption |
+| Observability & ITOM Uplift | Contributor | Infra telemetry, SNMP, syslog, CMDB feeds |
+
+</details>
