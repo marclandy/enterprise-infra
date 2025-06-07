@@ -99,7 +99,7 @@ The role of Network & Infrastructure Architecture is evolving, but it remains es
 </details>
 
 <details>
-<summary><strong> Cross-Domain Projects – Typically Supported</strong></summary>
+<summary><strong> Cross-Domain Projects – Typically Support, Consult to & Elevate</strong></summary>
 
 | Project Name | Typical Role | Why You're Needed |
 |--------------|---------------|-------------------|
