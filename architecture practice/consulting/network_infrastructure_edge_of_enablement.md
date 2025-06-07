@@ -86,22 +86,6 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 </details>
 
 <details>
-<summary><strong> 👉 Infrastructure Architecture – Projects Typically Led</strong></summary>
-
-| Project Name | Typical Scope/Trigger | Role Type |
-|--------------|------------------------|-----------|
-| Enterprise Hosting Modernisation | Move from IaaS to containers/serverless | <> |
-| Compute and Storage Refresh | Hardware lifecycle, HCI rollout | Lead |
-| Remote Site Modernisation | All-in-one site infrastructure uplift | Lead |
-| Disaster Recovery Refresh | DR strategy, DRaaS, replication | Lead |
-| Infrastructure Automation | IaC adoption, CMDB sync, config mgmt | <> |
-| Cloud Landing Zone Builds | Base infrastructure, identity, DNS, network | <> |
-| Site Exit / DC Exit | Infrastructure decommission, cloud migration | <> |
-| Lifecycle Management | Asset refresh, patching, supportability uplift | <> |
-
-</details>
-
-<details>
 <summary><strong> 👉 Cross-Domain Projects – Typically Support, Consult to & Elevate</strong></summary>
 
 | Project Name | Typical Role | Why You're Needed |
@@ -114,5 +98,21 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 | EUC/VDI Modernisation | Support | Network latency, profile tuning |
 | Data Platform Initiatives | Support | Peering, IP range mgmt, transit encryption |
 | Observability & ITOM Uplift | Contributor | Infra telemetry, SNMP, syslog, CMDB feeds |
+
+</details>
+
+<details>
+<summary><strong> 👉 Infrastructure Architecture – Projects Typically Led</strong></summary>
+
+| Project Name | Typical Scope/Trigger | Role Type |
+|--------------|------------------------|-----------|
+| Enterprise Hosting Modernisation | Move from IaaS to containers/serverless | <> |
+| Compute and Storage Refresh | Hardware lifecycle, HCI rollout | Lead |
+| Remote Site Modernisation | All-in-one site infrastructure uplift | Lead |
+| Disaster Recovery Refresh | DR strategy, DRaaS, replication | Lead |
+| Infrastructure Automation | IaC adoption, CMDB sync, config mgmt | <> |
+| Cloud Landing Zone Builds | Base infrastructure, identity, DNS, network | <> |
+| Site Exit / DC Exit | Infrastructure decommission, cloud migration | <> |
+| Lifecycle Management | Asset refresh, patching, supportability uplift | <> |
 
 </details>
