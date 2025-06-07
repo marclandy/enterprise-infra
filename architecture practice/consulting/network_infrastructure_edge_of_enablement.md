@@ -48,7 +48,9 @@ Work closely with:
 ## Typical Projects I Lead
 
 See appendix below for full project tables.
-[Strategic areas of ALZ Consulting](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/deliverables/enterprise%20alz/Strategic%20Areas%20of%20ALZ%20Consulting%20Value.md#strategic-areas-of-alz-consulting-value)
+
+[Strategic areas of ALZ Consulting](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/deliverables/enterprise%20alz/Strategic%20Areas%20of%20ALZ%20Consulting%20Value.md)
+
 ---
 
 ## Common Cross-Domain Projects I Support
