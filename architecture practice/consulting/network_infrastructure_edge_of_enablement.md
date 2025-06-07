@@ -1,11 +1,11 @@
-# Network & Infrastructure: At the Edge of Enablement
+# Network: At the Edge of Enablement
 
 > “My capability often sits at the edge of domains — where security, access, and enablement collide.”
 
 ## Marc Landy – Enterprise Network Architect
 
 ## Purpose  
-This post defines the architectural value and strategic capability that Network & Infrastructure delivers within complex enterprise programs—particularly across large-scale, regulated, and hybrid environments.
+This post defines the architectural value and strategic capability that Network delivers within complex enterprise programs—particularly across large-scale, regulated, and hybrid environments.
 
 ---
 
