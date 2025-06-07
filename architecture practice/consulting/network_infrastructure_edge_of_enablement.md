@@ -43,6 +43,7 @@ Work closely with:
 | IT/OT Convergence | Secure segmentation, visibility, and enablement of OT data paths. |
 
 Note - I am increasingly taking on more Infrastructure scope as when the need arises on customer site. 
+
 ---
 
 ## Typical Projects I Lead
