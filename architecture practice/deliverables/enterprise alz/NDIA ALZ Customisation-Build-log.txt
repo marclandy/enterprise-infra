@@ -1,0 +1,111 @@
+Azure Landing Zone (ALZ) customisation project
+1) Project Scope & Objectives
+1.1 Scope:
+Phase 1 Focus:
+Design least-privilege access matrices for all networking services
+Create custom RBAC roles aligned with Microsoft CAF ALZ principles
+Incorporate ASD Essential Eight, PSPF/ISMF, and IRAP compliance requirements
+Support DevOps, App Platform, automation, and SRE team access models
+Phase 2 Expansion:
+Azure Policy definitions & initiatives for governance enforcement
+Terraform modules for automated deployment (management groups, RBAC, networking)
+GitOps & DevSecOps integration capabilities
+
+1.2 Objectives:
+Extensibility and reusability across multiple Australian Fed Gov agencies
+Agency requirements adaptable via Variable-Based master record
+
+1.3 Principles:
+Reusable: across Defence, Home Affairs, Services Australia, etc.
+Templated: approach for rapid agency onboarding
+Consistent: structure while allowing customization
+Scalable: for multiple agency implementations
+
+1.4 ent-alz-customisation-package
+Reusable ALZ customisation package that includes:
+foundational template
+Custom RBAC role definitions (JSON/Bicep)
+Policy sets and assignments
+Terraform modules for automation
+Network security and monitoring baselines
+Documentation and ADRs
+GitHub Actions pipeline scaffolds
+
+2) Architecture Understanding
+2.1 RBAC Role Personas
+2.2 Key Requirements 
+
+2.3 Dependency Chain Analysis
+Network Service Access Matrices → Custom RBAC Role Definitions → Terraform Modules
+1. Granular Permission Mapping Required
+2. Role-to-Service Mapping Needed
+3. Compliance Requirements Drive Permissions
+
+2.4 Implementation Approach
+Multi-Agency Support
+Agency specific requirements captured as part of a separate config file, agency-config.yml 
+Management Group Structure: built off, agency.display_name Azure Landing Zone (ALZ) Customisation config
+
+2.5 ALZ Customisation : Key Features
+Single Source of Truth: All agency-specific values in one YAML file
+Template-Driven: Everything generates from templates using the config
+Multi-Agency Ready: Easy switching between different agencies
+Terraform Integration: Config values flow directly into Terraform modules
+Validation: Schema validation prevents configuration errors
+Automation: Scripts handle generation and switching
+
+3.0 ent-alz-project-artefacts-build-purposes-only
+3.1 ALZ-DD-Workbook-checkpoint
+3.2 rbac-custom-roles-ndis
+3.3 NDIA ALZ Customisation-050625
+3.4 networking_rbac_matrices
+3.5 alz_config_structure
+
+4 Build Environment Assumptions
+1. Core ALZ Personas (from ALZ-DD-Workbook)
+2. Workload-Specific Personas (from same workbook)
+3. Enhanced Personas
+4. Networking service access matrices. 
+   Dynamic RBAC roles: based on the personas defined in config
+   Agency-specific policy names: using the naming standards
+   Scoped permissions: aligned to the management group structure
+
+Customisation build outcomes | Running build log
+3.4 | 	Networking Service Access Matrices & Dynamic RBAC Generation
+		Detailed Permission Matrices by Persona
+			Role (scope), defines the permissions or actions('Network Services') and assignable scopes
+				ndia_Role_PlatformOwner
+				scope:
+				permissions:
+					actions:
+						- "Microsoft.Network/*"
+						- "Microsoft.Authorization/roleAssignments/read"
+						- "Microsoft.Authorization/policyAssignments/*"
+						- "Microsoft.Resources/deployments/*"
+						- "Microsoft.Resources/subscriptions/resourceGroups/*"
+				assignable_scopes:
+				  - "/providers/Microsoft.Management/managementGroups/ndia"
+		Service-Specific Access Patterns
+			Critical Network Services Access Control
+				Azure Firewall - Tier 0 Control
+				VNet Peering - Hub-Spoke Control
+				NSG Rules - Workload Boundaries
+		Usage Examoples
+			1. Generate Roles
+			2. Assign Roles to Teams
+			3. Monitor Role Usage
+3.5 |	ALZ Configuration Structure & Integration
+		Identity
+		Compliance & Governance
+		Azure Environment
+		Management Group Hierarchy
+		Naming Standards
+		Environments
+		Workloads
+		Required Tags
+		RBAC Personas
+		Networking Configuration
+		Security Configuration
+		Cost Management
+		Monitoring & Logging
+		Terraform Integration : Setup New Agency, Generate & Deploy, Switch Between Agencies
