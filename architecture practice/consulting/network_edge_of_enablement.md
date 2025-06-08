@@ -70,7 +70,7 @@ Note - I am increasingly taking on more Infrastructure scope as when the need ar
 - Technology Lifecycle Management 
 - IT Policies and Standards
 - M&A, Divestment, Site Refresh, and Site Expansion programs
-- topics, https://www.linkedin.com/posts/marclandy_heres-a-summary-of-all-the-topics-ill-activity-7315220427633487872-N3k4
+- source: topics planned in April 2025, [industry feedback](https://www.linkedin.com/posts/marclandy_heres-a-summary-of-all-the-topics-ill-activity-7315220427633487872-N3k4)
 - medium.com profile, https://medium.com/@marclandy.me
 
 ## Capability backed up by MJL Github projects
