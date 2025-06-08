@@ -146,7 +146,9 @@
 | **User Certificate** | 1-2 years | 30 days | Automatic or manual PFX reissue | Managed via MDM or user portal |
 | **S/MIME Certificate** | 1 year | 30 days | Manual renewal or Intune automation | Must maintain key history for email decryption |
 
-### 3.4 Authentication Flow Integration
+### 3.4 Certificate Delivery Method | <placeholder>
+
+### 3.5 Authentication Flow Integration
 
 | **Flow Type** | **Certificate-Based Authentication** | **SSO/MFA Use Case** | **Implementation Guidance** |
 |---------------|-------------------------------------|---------------------|----------------------------|
