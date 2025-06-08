@@ -124,6 +124,7 @@ Customisation build outcomes | Running build log
 			ISM/Essential 8 compliance with proper separation of duties
 			Audit trail with comprehensive tagging and logging
 			Scalable foundation for extending to other Azure services
+		   terraform/modules/ndia-networking-rbac/variables.tf
 3.7 |   Oprion B: Add Policy Integration | 
 
 Quick Deployment Guide
