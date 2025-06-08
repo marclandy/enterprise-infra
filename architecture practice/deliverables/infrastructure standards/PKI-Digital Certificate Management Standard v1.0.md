@@ -16,9 +16,9 @@
 
 ## Key Features of the Standard:
 
-1. **Day 0/1/2 Model** - Provides a phased approach to PKI implementation from planning through operations
-2. **Corporate Use Cases** - Detailed certificate types, flows, and implementation guidance from your original document
-3. **Comprehensive Standard Requirements** - Addresses all 14 key areas you specified:
+1. **Day 0/1/2 Model** - Provides a phased approach to PKI implementation from planning through operations.
+2. **Corporate Use Cases** - Detailed certificate types, flows, and implementation guidance
+3. **Comprehensive Standard Requirements** 
    * CA/RA Policies
    * Certificate Lifecycle Management
    * Key Management
@@ -34,7 +34,7 @@
    * Data-in-Transit Protection
    * Data Integrity & Confidentiality
 4. **Decision Framework** - Practical guidance for different stakeholder domains (Infrastructure, Network, Security, IAM, Application, Data, Integration)
-5. **Reference Links** - All the TechTarget and LinkedIn resources you specified
+5. **Reference Links** 
 
 ---
 
