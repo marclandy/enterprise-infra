@@ -60,7 +60,7 @@ Automation: Scripts handle generation and switching
 3.3 NDIA ALZ Customisation-050625
 3.4 networking_rbac_matrices
 3.5 alz_config_structure
-3.6 
+3.6 Build the Terraform Module 
 
 4 Build Environment Planning
 4.1 Core ALZ Personas (from ALZ-DD-Workbook)
@@ -75,6 +75,7 @@ Automation: Scripts handle generation and switching
     C. Create Assignment Patterns - Show how to assign roles to AAD groups
     D. Extend to Other Services - Apply same pattern to compute, storage, security services
     E. Build Compliance Dashboards - Monitor role usage and access patterns
+    F. DevOps Integration - CI/CD pipeline for role deployment
 
 Appendix
 
@@ -117,3 +118,26 @@ Customisation build outcomes | Running build log
 		Cost Management
 		Monitoring & Logging
 		Terraform Integration : Setup New Agency, Generate & Deploy, Switch Between Agencies
+3.6 | 	Option A: Build the Terraform Module | terraform_modules_ndia-networking-rbac_main.tf
+			5 Custom RBAC roles following your exact permission matrices
+			Zero-trust networking access with least-privilege principles
+			ISM/Essential 8 compliance with proper separation of duties
+			Audit trail with comprehensive tagging and logging
+			Scalable foundation for extending to other Azure services
+3.7 |   Oprion B: Add Policy Integration | 
+
+Quick Deployment Guide
+# 1. Clone and navigate to the module
+cd terraform/examples/<agency>-deployment
+
+# 2. Configure your environment
+cp terraform.tfvars.example terraform.tfvars
+# Edit with your subscription/tenant IDs
+
+# 3. Deploy roles only (safe first step)
+terraform init
+terraform plan
+terraform apply
+
+# 4. Later, enable AAD assignments
+# Set enable_aad_assignments = true in terraform.tfvars
