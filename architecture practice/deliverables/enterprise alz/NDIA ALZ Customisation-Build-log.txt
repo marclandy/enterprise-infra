@@ -46,7 +46,7 @@ Multi-Agency Support
 Agency specific requirements captured as part of a separate config file, agency-config.yml 
 Management Group Structure: built off, agency.display_name Azure Landing Zone (ALZ) Customisation config
 
-2.5 ALZ Customisation : Key Features
+2.5 ALZ Customisation HL : Key Features
 Single Source of Truth: All agency-specific values in one YAML file
 Template-Driven: Everything generates from templates using the config
 Multi-Agency Ready: Easy switching between different agencies
@@ -76,6 +76,99 @@ Automation: Scripts handle generation and switching
     D. Extend to Other Services - Apply same pattern to compute, storage, security services
     E. Build Compliance Dashboards - Monitor role usage and access patterns
     F. DevOps Integration - CI/CD pipeline for role deployment
+
+====
+# ALZ NDIS – Custom RBAC & Networking Overlay
+
+This repository delivers a tailored Azure Landing Zone (ALZ) overlay for the **NDIS** (National Disability Insurance Scheme), with a focus on:
+- Custom **RBAC Roles** for separation of duties and least privilege access
+- Australian **ISM-aligned** access control and accountability patterns
+- Core **Network Services** using the Enterprise-Scale Hub & Spoke model
+- Enforcement pipeline using **Enterprise Azure Policy as Code (EPAC)**
+
+---
+
+## Scope
+
+| Category                     | Description                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------|
+| Azure Frameworks            | ALZ, EPAC, Microsoft CAF                                                    |
+| Compliance Alignment        | Australian ISM                                                              |
+| Governance & Ops Model      | Custom RBAC Roles, Role Separation                                          |
+| Network Services            | DNS, NSGs, Azure Firewall, Bastion, Routing, DDoS                           |
+| Patterns Supported          | Hub & Spoke, Decentralised App Ownership                                    |
+| Lifecycle Management        | GitHub Actions-based EPAC policy lifecycle                                  |
+
+NDIA ALZ Customisation, including:
+README.md
+_index.md
+decisions/ folder with 8 ADR files
+
+Folder: decisions/
+Contains:
+0002-management-group-hierarchy.md
+0003-subscription-design.md
+0004-tagging-standard.md
+0005-landing-zone-automation.md
+0006-policy-architecture.md
+0007-identity-architecture.md
+0008-network-topology.md
+0009-monitoring-compliance.md
+(Each populated as per the earlier ADR markdowns.)
+
+Azure Policy definitions & initiatives for enforcement of tagging, security, network, and compliance guardrails.
+Terraform modules for:
+Management Group and subscription vending
+Role assignments and RBAC
+Policy assignment automation
+Networking (hub-and-spoke VNet peering, firewall rules)
+Identity infrastructure (PIM, CA policies)
+
+Azure Policy built-in policy definitions for Azure networking services
+Azure Networking Services and Corresponding Azure Policy Resource Types
+Networking Service				Azure Policy Resource Type	Description
+Virtual Network (VNet)			Microsoft.Network/virtualNetworks		Manages virtual networks, subnets, and related configurations.
+Network Security Group (NSG)	Microsoft.Network/networkSecurityGroups	Controls inbound and outbound traffic at the subnet or NIC level.
+Private Link / Private Endpoint	Microsoft.Network/privateEndpoints		Enables private connectivity to Azure services over the Azure backbone network.
+Azure Firewall					Microsoft.Network/azureFirewalls		Provides stateful firewall capabilities for network traffic control.
+Application Gateway (WAF)		Microsoft.Network/applicationGateways	Offers application-level routing and Web Application Firewall (WAF) features.
+Load Balancer					Microsoft.Network/loadBalancers			Distributes network traffic across multiple resources for high availability.
+VPN Gateway						Microsoft.Network/virtualNetworkGatewaysFacilitates secure cross-premises connectivity via VPN tunnels.
+ExpressRoute					Microsoft.Network/expressRouteCircuits	Establishes private connections between Azure and on-premises networks.
+Network Watcher					Microsoft.Network/networkWatchers		Provides monitoring and diagnostic tools for network performance and health.
+Route Table (UDR)				Microsoft.Network/routeTables			Defines custom routing rules for network traffic within Azure.
+DDoS Protection Plan			Microsoft.Network/ddosProtectionPlans	Offers protection against Distributed Denial of Service (DDoS) attacks.
+Azure Bastion					Microsoft.Network/bastionHosts			Enables secure and seamless RDP/SSH connectivity to virtual machines.
+Virtual Network Manager			Microsoft.Network/networkManagers		Centralizes management of network topologies and security configurations.
+
+----
+Terraform Module: Key Features
+----
+1. Persona-Based Role Definitions
+PlatformOwner: Full network control at management group level
+NetworkAdmin: Comprehensive network management for shared platform
+WorkloadOwner: Application-scoped network permissions with restrictions
+SecurityOperator: Read-only security monitoring across all zones
+Auditor: Read-only compliance and audit access
+
+2. Granular Permission Matrices
+Each role includes precisely the networking permissions from your matrices:
+VNet, NSG, Firewall management with appropriate scope restrictions
+Private Link, Load Balancer, Application Gateway access for app teams
+Network Watcher, Flow Logs for security monitoring
+Policy and compliance read access for auditors
+
+3. ALZ-Aligned Scope Assignment
+Roles assigned to appropriate management groups (ndia, ndia-platform, ndia-apps)
+Follows your established ALZ hierarchy
+Supports both single and multi-scope assignments
+
+4. Enterprise-Ready Features
+Conditional AAD group assignments (disabled by default for safety)
+Comprehensive tagging for compliance tracking
+Customizable agency configuration
+Deployment scripts and examples included
+----
 
 Appendix
 
