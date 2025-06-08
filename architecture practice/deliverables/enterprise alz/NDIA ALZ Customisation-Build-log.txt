@@ -60,7 +60,8 @@ Automation: Scripts handle generation and switching
 3.3 NDIA ALZ Customisation-050625
 3.4 networking_rbac_matrices
 3.5 alz_config_structure
-3.6 Build the Terraform Module 
+3.6 Build the Terraform Module
+3.7 Add Policy Integration | could be more to do
 
 4 Build Environment Planning
 4.1 Core ALZ Personas (from ALZ-DD-Workbook)
@@ -217,9 +218,13 @@ Customisation build outcomes | Running build log
 			ISM/Essential 8 compliance with proper separation of duties
 			Audit trail with comprehensive tagging and logging
 			Scalable foundation for extending to other Azure services
-		   terraform/modules/ndia-networking-rbac/variables.tf
-3.7 |   Oprion B: Add Policy Integration | 
-
+3.7 |   Oprion B: Add Policy Integration | terraform/modules/ndia-networking-rbac/variables.tf
+			# terraform/modules/ndia-networking-rbac/outputs.tf
+			# terraform/examples/ndia-deployment/main.tf
+			# terraform/examples/ndia-deployment/variables.tf
+			# terraform/examples/ndia-deployment/outputs.tf
+			# terraform/examples/ndia-deployment/terraform.tfvars.example
+			# terraform/scripts/deploy-rbac.sh
 Quick Deployment Guide
 # 1. Clone and navigate to the module
 cd terraform/examples/<agency>-deployment
