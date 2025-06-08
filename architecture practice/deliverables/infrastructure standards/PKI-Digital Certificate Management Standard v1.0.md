@@ -383,15 +383,8 @@
 
 ## 5. Reference Links
 
-### TechTarget Resources
-- **PKI Fundamentals**: https://www.techtarget.com/searchsecurity/definition/PKI
-- **Digital Signatures with Public/Private Keys**: https://www.techtarget.com/searchsecurity/answer/Which-private-keys-and-public-keys-can-create-a-digital-signature
-- **PKI for Remote Network Access**: https://www.techtarget.com/searchsecurity/tip/How-to-use-PKI-to-secure-remote-network-access
-- **Managed PKI Benefits and Challenges**: https://www.techtarget.com/searchsecurity/tip/The-benefits-and-challenges-of-managed-PKIs
-- **Quantum Computing Impact on PKI**: https://www.computerweekly.com/opinion/Prepare-for-quantum-to-fundamentally-change-PKI-effectiveness
-- **Automated Certificate Management**: https://www.techtarget.com/searchsecurity/post/The-importance-of-automated-certificate-management
+### <>
 
-### LinkedIn Professional Resources
-- **PKI Implementation Best Practices**: https://www.linkedin.com/advice/3/what-best-practices-standards-pki-implementation-maintenance#:~:text=Securing%20PKI%20components%20and%20processes%20is%20paramount,integrity%20and%20confidentiality%20of%20the%20PKI%20infrastructure
+### <>
 
 ---
