@@ -53,7 +53,7 @@ Work closely with:
 
 Note - I am increasingly taking on more Infrastructure scope as when the need arises on customer site. 
 
-## MJL Network & Infrastructure Architecture article on medium.com.
+## Network & Infrastructure Architecture article on medium.com.
 
 | 𝙀𝙣𝙩𝙚𝙧𝙥𝙧𝙞𝙨𝙚 – 𝙉𝙚𝙩𝙬𝙤𝙧𝙠 & 𝙄𝙣𝙛𝙧𝙖𝙨𝙩𝙧𝙪𝙘𝙩𝙪𝙧𝙚 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚 Area | medium.com tag link |
 |------------------------------------------------------|---------------------------|
@@ -72,7 +72,7 @@ Note - I am increasingly taking on more Infrastructure scope as when the need ar
 - source: topics planned in April 2025, [industry feedback](https://www.linkedin.com/posts/marclandy_heres-a-summary-of-all-the-topics-ill-activity-7315220427633487872-N3k4)
 - my [medium.com](https://medium.com/@marclandy.me) profile 
 
-## Capability backed up by MJL Github projects
+## Capability backed up by my Github projects
 - Enterprise ALZ Customisation package
 - Enterprise Cloud PKI use-case automation
 - Productising ZTNA, 802.1x and Conditional Access controls integration
