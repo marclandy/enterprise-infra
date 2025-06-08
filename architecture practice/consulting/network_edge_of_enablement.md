@@ -13,9 +13,9 @@ This post defines the architectural value and strategic capability that Network 
 particularly across large-scale, regulated, and hybrid environments.
 
 ## Architecture Mandate
-•	 *Deliver* business value through solutions that integrate People, Process and Technology, ensuring fit-for-purpose outcomes across the enterprise. 
-•	 *Balance* local decision-making with global alignment, contributing to federated enterprise models where autonomy and consistency must coexist. 
-•	 *Produce* high-quality architecture artefacts on time, supporting effective delivery and stakeholder confidence through the project lifecycle.
+- *Deliver* business value through solutions that integrate People, Process and Technology, ensuring fit-for-purpose outcomes across the enterprise.
+- *Balance* local decision-making with global alignment, contributing to federated enterprise models where autonomy and consistency must coexist.
+- *Produce* high-quality architecture artefacts on time, supporting effective delivery and stakeholder confidence through the project lifecycle.
 
 ---
 
