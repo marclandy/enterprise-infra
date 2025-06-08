@@ -60,6 +60,7 @@ Automation: Scripts handle generation and switching
 3.3 NDIA ALZ Customisation-050625
 3.4 networking_rbac_matrices
 3.5 alz_config_structure
+3.6 
 
 4 Build Environment Planning
 4.1 Core ALZ Personas (from ALZ-DD-Workbook)
@@ -69,6 +70,11 @@ Automation: Scripts handle generation and switching
     Dynamic RBAC roles: based on the personas defined in config
     Agency-specific policy names: using the naming standards
     Scoped permissions: aligned to the management group structure
+4.5 A. Build the Terraform Module - Create the actual .tf files to deploy these roles
+    B. Add Policy Integration - Connect these roles to your Essential 8 policies
+    C. Create Assignment Patterns - Show how to assign roles to AAD groups
+    D. Extend to Other Services - Apply same pattern to compute, storage, security services
+    E. Build Compliance Dashboards - Monitor role usage and access patterns
 
 Appendix
 
