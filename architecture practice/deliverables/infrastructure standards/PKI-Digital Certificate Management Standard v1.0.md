@@ -1,10 +1,10 @@
 # PKI/Digital Certificate Management Standard v1.0
 
 **Document Classification:** Corporate IT Standard  
-**Author:** Marc Landy, Network Architect
-**Effective Date:** 8th June 2025  
-**Review Cycle:** Annual  
-**Stakeholders:** Operations, Engineering, Designers, Architects  
+- **Author:** Marc Landy, Network Architect
+- **Effective Date:** 8th June 2025  
+- **Review Cycle:** Annual  
+- **Stakeholders:** Operations, Engineering, Designers, Architects  
 
 **Document Control:**
 - **Version**: 1.0
