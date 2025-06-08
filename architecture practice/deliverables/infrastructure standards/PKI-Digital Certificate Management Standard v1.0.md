@@ -116,9 +116,48 @@
 
 ---
 
-## 3. Comprehensive PKI Standard Requirements
+## 3. Enterprise PKI Certificate Decision Framework
 
-### 3.1 Certificate Authority (CA) and Registration Authority (RA) Policies
+### 3.1 Certificate Use-Case Decision Framework (Designer View)
+
+| **Designer Domain** | **Key Use-Case** | **Decision Points** | **Certificate Profile(s)** | **Recommended Flow** | **Implementation Notes** |
+|---------------------|------------------|--------------------|-----------------------------|---------------------|-------------------------|
+| **Infrastructure** | Device trust (laptops, endpoints, servers) | Domain-join vs non-domain, MDM integration, SCEP or Intune deployment | Device Certificate | SCEP Flow | Intune or third-party MDMs handle provisioning |
+| **Network** | 802.1X authentication | Wired vs Wireless networks, per-device certificates, NAC integration | Device/User Certificate | SCEP + RADIUS | Coordinate with Security team for implementation |
+| **Security** | VPN, VDI, Admin PAM, Endpoint posture | Trust source selection, MFA/SSO integration, privileged access rules | User Certificate | PFX Flow | May require hardened certificate profiles |
+| **IAM** | Identity binding, authentication, SSO enforcement | PKI vs FIDO2, smart card vs biometrics, lifecycle integration | User Certificate | PFX Flow | Certificate binding to Azure AD, LDAP, or IDP |
+| **Application** | App-to-app trust, messaging, API authentication | Internal app communications, messaging queues, mTLS support | Application/Service Certificate | Manual or scripted deployment | ACME/Custom CA as certificate source |
+| **Data** | Data at rest/in transit encryption, S/MIME | Data classification policies, legal holds, secure email usage | S/MIME Certificate | PFX Flow | Integration with Microsoft 365 or mail infrastructure |
+| **Integration** | External API integrations, third-party trust | SaaS/vendor trust anchors, certificate pinning, external validation | Public Certificate, ACME-issued | Let's Encrypt or Commercial CA | Implement certificate expiration monitoring |
+
+### 3.2 Certificate Provider Recommendations
+
+| **Use Case** | **Certificate Type** | **Recommended Providers** | **Private CA Option** |
+|--------------|---------------------|---------------------------|----------------------|
+| **Device Certificates** | Device Authentication (SCEP/NDES) | Microsoft Cloud PKI, ADCS, Intune, JAMF | ✅ Recommended |
+| **User Certificates** | User Authentication (802.1x) | Microsoft Cloud PKI, Entrust, DigiCert | ✅ Recommended |
+| **S/MIME Email** | Secure Email | Entrust, DigiCert, GlobalSign, Intune (PFX) | ⚠️ Possible (rarely used) |
+
+### 3.3 Certificate Lifecycle and Rotation Policy
+
+| **Certificate Type** | **Recommended Validity** | **Renewal Lead Time** | **Rotation Method** | **Implementation Notes** |
+|---------------------|-------------------------|----------------------|---------------------|-------------------------|
+| **Device Certificate** | 1 year | 30 days | Auto-rotation via Intune | Renewal through SCEP/NDES |
+| **User Certificate** | 1-2 years | 30 days | Automatic or manual PFX reissue | Managed via MDM or user portal |
+| **S/MIME Certificate** | 1 year | 30 days | Manual renewal or Intune automation | Must maintain key history for email decryption |
+
+### 3.4 Authentication Flow Integration
+
+| **Flow Type** | **Certificate-Based Authentication** | **SSO/MFA Use Case** | **Implementation Guidance** |
+|---------------|-------------------------------------|---------------------|----------------------------|
+| **Device to Wi-Fi/VPN** | ✅ Primary method | ❌ Not required | Certificate-based device authentication |
+| **VPN Access** | ✅ Optional additional factor | ✅ Required (2FA enforced) | Combine certificate and interactive authentication |
+| **VDI/Remote Applications** | ✅ Optional | ✅ Primary method (SSO/Azure AD MFA) | Certificate for device trust, SSO for user authentication |
+| **Web Applications (SaaS)** | ❌ Rarely used | ✅ Primary method | SSO/MFA as standard approach |
+
+## 4. Comprehensive PKI Standard Requirements
+
+### 4.1 Certificate Authority (CA) and Registration Authority (RA) Policies
 
 **Roles and Responsibilities:**
 - Define CA Administrator, RA Administrator, and Certificate Manager roles
@@ -132,7 +171,7 @@
 - Emergency procedures for CA compromise or operational disruption
 - Regular review and update procedures for CA and RA policies
 
-### 3.2 Certificate Lifecycle Management
+### 4.2 Certificate Lifecycle Management
 
 **Certificate Creation:**
 - Standardized certificate request and approval processes
@@ -158,7 +197,7 @@
 - CRL and OCSP responder management
 - Integration with security incident response procedures
 
-### 3.3 Key Management
+### 4.3 Key Management
 
 **Key Generation:**
 - Cryptographic key generation standards and algorithms
@@ -184,7 +223,7 @@
 - Timeline requirements for key destruction
 - Compliance with data retention requirements
 
-### 3.4 Trust Model
+### 4.4 Trust Model
 
 **PKI Architecture:**
 - Public vs Private PKI decision framework
@@ -198,7 +237,7 @@
 - Certificate pinning policies for critical applications
 - Trust model documentation and maintenance
 
-### 3.5 Certificate Enrollment
+### 4.5 Certificate Enrollment
 
 **Identity Verification:**
 - Identity proofing requirements for different certificate types
@@ -212,7 +251,7 @@
 - Bulk enrollment procedures for device certificates
 - Self-service enrollment portals where appropriate
 
-### 3.6 Certificate Revocation List (CRL) Management
+### 4.6 Certificate Revocation List (CRL) Management
 
 **CRL Distribution:**
 - CRL publication schedules and distribution points
@@ -226,7 +265,7 @@
 - Bulk revocation procedures for security incidents
 - Revocation reason code usage and documentation
 
-### 3.7 Certificate Storage and Retrieval
+### 4.7 Certificate Storage and Retrieval
 
 **Secure Storage Guidelines:**
 - Certificate store security controls and access restrictions
@@ -240,7 +279,7 @@
 - Integration with identity and access management systems
 - Certificate search and discovery capabilities
 
-### 3.8 Security Controls
+### 4.8 Security Controls
 
 **PKI Infrastructure Protection:**
 - Physical security controls for CA systems and HSMs
@@ -254,7 +293,7 @@
 - Security monitoring and alerting for PKI systems
 - Regular security assessments and penetration testing
 
-### 3.9 Compliance Requirements
+### 4.9 Compliance Requirements
 
 **Industry Standards:**
 - Compliance with relevant industry regulations (PCI DSS, HIPAA, SOX)
@@ -268,7 +307,7 @@
 - Security controls documentation
 - Compliance reporting and evidence collection
 
-### 3.10 Monitoring and Auditing
+### 4.10 Monitoring and Auditing
 
 **Infrastructure Monitoring:**
 - Continuous monitoring of CA health and availability
@@ -282,7 +321,7 @@
 - Security audits of PKI infrastructure
 - Audit log review and analysis procedures
 
-### 3.11 Business Continuity and Disaster Recovery
+### 4.11 Business Continuity and Disaster Recovery
 
 **Continuity Planning:**
 - PKI service availability requirements and SLAs
@@ -296,7 +335,7 @@
 - Alternative PKI service provisioning during outages
 - Communication procedures during PKI service disruptions
 
-### 3.12 Personnel Security
+### 4.12 Personnel Security
 
 **Background Checks:**
 - Security clearance requirements for PKI personnel
@@ -310,7 +349,7 @@
 - Role-specific training for PKI functions
 - Security incident response training
 
-### 3.13 Data-in-Transit Protection
+### 4.13 Data-in-Transit Protection
 
 **Encryption Requirements:**
 - TLS/SSL implementation standards for PKI communications
@@ -324,7 +363,7 @@
 - Integration with network security controls
 - Monitoring and alerting for insecure communications
 
-### 3.14 Data Integrity and Confidentiality
+### 4.14 Data Integrity and Confidentiality
 
 **Data Protection:**
 - Encryption requirements for PKI data at rest
@@ -337,47 +376,6 @@
 - Need-to-know access controls
 - Data loss prevention for PKI information
 - Secure disposal procedures for PKI data
-
----
-
-## 4. Enterprise PKI Certificate Decision Framework
-
-### 4.1 Certificate Use-Case Decision Framework (Designer View)
-
-| **Designer Domain** | **Key Use-Case** | **Decision Points** | **Certificate Profile(s)** | **Recommended Flow** | **Implementation Notes** |
-|---------------------|------------------|--------------------|-----------------------------|---------------------|-------------------------|
-| **Infrastructure** | Device trust (laptops, endpoints, servers) | Domain-join vs non-domain, MDM integration, SCEP or Intune deployment | Device Certificate | SCEP Flow | Intune or third-party MDMs handle provisioning |
-| **Network** | 802.1X authentication | Wired vs Wireless networks, per-device certificates, NAC integration | Device/User Certificate | SCEP + RADIUS | Coordinate with Security team for implementation |
-| **Security** | VPN, VDI, Admin PAM, Endpoint posture | Trust source selection, MFA/SSO integration, privileged access rules | User Certificate | PFX Flow | May require hardened certificate profiles |
-| **IAM** | Identity binding, authentication, SSO enforcement | PKI vs FIDO2, smart card vs biometrics, lifecycle integration | User Certificate | PFX Flow | Certificate binding to Azure AD, LDAP, or IDP |
-| **Application** | App-to-app trust, messaging, API authentication | Internal app communications, messaging queues, mTLS support | Application/Service Certificate | Manual or scripted deployment | ACME/Custom CA as certificate source |
-| **Data** | Data at rest/in transit encryption, S/MIME | Data classification policies, legal holds, secure email usage | S/MIME Certificate | PFX Flow | Integration with Microsoft 365 or mail infrastructure |
-| **Integration** | External API integrations, third-party trust | SaaS/vendor trust anchors, certificate pinning, external validation | Public Certificate, ACME-issued | Let's Encrypt or Commercial CA | Implement certificate expiration monitoring |
-
-### 4.2 Certificate Provider Recommendations
-
-| **Use Case** | **Certificate Type** | **Recommended Providers** | **Private CA Option** |
-|--------------|---------------------|---------------------------|----------------------|
-| **Device Certificates** | Device Authentication (SCEP/NDES) | Microsoft Cloud PKI, ADCS, Intune, JAMF | ✅ Recommended |
-| **User Certificates** | User Authentication (802.1x) | Microsoft Cloud PKI, Entrust, DigiCert | ✅ Recommended |
-| **S/MIME Email** | Secure Email | Entrust, DigiCert, GlobalSign, Intune (PFX) | ⚠️ Possible (rarely used) |
-
-### 4.3 Certificate Lifecycle and Rotation Policy
-
-| **Certificate Type** | **Recommended Validity** | **Renewal Lead Time** | **Rotation Method** | **Implementation Notes** |
-|---------------------|-------------------------|----------------------|---------------------|-------------------------|
-| **Device Certificate** | 1 year | 30 days | Auto-rotation via Intune | Renewal through SCEP/NDES |
-| **User Certificate** | 1-2 years | 30 days | Automatic or manual PFX reissue | Managed via MDM or user portal |
-| **S/MIME Certificate** | 1 year | 30 days | Manual renewal or Intune automation | Must maintain key history for email decryption |
-
-### 4.4 Authentication Flow Integration
-
-| **Flow Type** | **Certificate-Based Authentication** | **SSO/MFA Use Case** | **Implementation Guidance** |
-|---------------|-------------------------------------|---------------------|----------------------------|
-| **Device to Wi-Fi/VPN** | ✅ Primary method | ❌ Not required | Certificate-based device authentication |
-| **VPN Access** | ✅ Optional additional factor | ✅ Required (2FA enforced) | Combine certificate and interactive authentication |
-| **VDI/Remote Applications** | ✅ Optional | ✅ Primary method (SSO/Azure AD MFA) | Certificate for device trust, SSO for user authentication |
-| **Web Applications (SaaS)** | ❌ Rarely used | ✅ Primary method | SSO/MFA as standard approach |
 
 ---
 
