@@ -62,13 +62,13 @@ Automation: Scripts handle generation and switching
 3.5 alz_config_structure
 
 4 Build Environment Planning
-1. Core ALZ Personas (from ALZ-DD-Workbook)
-2. Workload-Specific Personas (from same workbook)
-3. Enhanced Personas
-4. Networking service access matrices. 
-   Dynamic RBAC roles: based on the personas defined in config
-   Agency-specific policy names: using the naming standards
-   Scoped permissions: aligned to the management group structure
+4.1 Core ALZ Personas (from ALZ-DD-Workbook)
+4.2 Workload-Specific Personas (from same workbook)
+4.3 Enhanced Personas
+4.4 Networking service access matrices. 
+    Dynamic RBAC roles: based on the personas defined in config
+    Agency-specific policy names: using the naming standards
+    Scoped permissions: aligned to the management group structure
 
 Appendix
 
