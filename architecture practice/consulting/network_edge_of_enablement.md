@@ -4,8 +4,19 @@
 
 ## Marc Landy – Enterprise Network Architect
 
+Overaching objective:
+Digital Business Enablement, where connectivity and infrastructure collides with security and access; 
+I use the power of synthesizing Enterprise Architecture models to bridge business strategy with technical execution to ensure cost centers are viewed as digital strategic enablers.
+![image](<.png>)
+
 ## Purpose  
-This post defines the architectural value and strategic capability that Network delivers within complex enterprise programs—particularly across large-scale, regulated, and hybrid environments.
+This post defines the architectural value and strategic capability that Network delivers within complex enterprise programs, 
+particularly across large-scale, regulated, and hybrid environments.
+
+## Architecture Mandate
+•	 *Deliver* business value through solutions that integrate People, Process and Technology, ensuring fit-for-purpose outcomes across the enterprise. 
+•	 *Balance* local decision-making with global alignment, contributing to federated enterprise models where autonomy and consistency must coexist. 
+•	 *Produce* high-quality architecture artefacts on time, supporting effective delivery and stakeholder confidence through the project lifecycle.
 
 ---
 
@@ -44,6 +55,10 @@ Work closely with:
 
 Note - I am increasingly taking on more Infrastructure scope as when the need arises on customer site. 
 
+## Capability backed up by MJL Github projects
+- Enterprise ALZ Customisation package
+- Enterprise Cloud PKI use-case automation
+- Productising ZTNA, 802.1x and Conditional Access controls integration
 ---
 
 ## Typical Projects I Lead
