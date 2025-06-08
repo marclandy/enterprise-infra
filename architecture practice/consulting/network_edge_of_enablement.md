@@ -71,7 +71,7 @@ Note - I am increasingly taking on more Infrastructure scope as when the need ar
 - IT Policies and Standards
 - M&A, Divestment, Site Refresh, and Site Expansion programs
 - source: topics planned in April 2025, [industry feedback](https://www.linkedin.com/posts/marclandy_heres-a-summary-of-all-the-topics-ill-activity-7315220427633487872-N3k4)
-- medium.com profile, https://medium.com/@marclandy.me
+- my [medium.com](https://medium.com/@marclandy.me) profile 
 
 ## Capability backed up by MJL Github projects
 - Enterprise ALZ Customisation package
