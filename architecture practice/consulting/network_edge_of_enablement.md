@@ -8,7 +8,7 @@
 - I use the power of synthesizing Enterprise Architecture models to bridge business strategy with technical execution to ensure cost centers are viewed as digital strategic enablers.
 
 ## Purpose  
-This post defines the architectural value and strategic capability that Network delivers within complex enterprise programs, 
+This charter defines the architectural value and strategic capability that Network delivers within complex enterprise programs, 
 particularly across large-scale, regulated, and hybrid environments.
 
 ## Architecture Mandate
