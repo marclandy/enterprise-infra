@@ -54,6 +54,25 @@ Work closely with:
 
 Note - I am increasingly taking on more Infrastructure scope as when the need arises on customer site. 
 
+## MJL Network & Infrastructure Architecture article on medium.com.
+
+| 𝙀𝙣𝙩𝙚𝙧𝙥𝙧𝙞𝙨𝙚 – 𝙉𝙚𝙩𝙬𝙤𝙧𝙠 & 𝙄𝙣𝙛𝙧𝙖𝙨𝙩𝙧𝙪𝙘𝙩𝙪𝙧𝙚 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚 Area | medium.com tag link |
+|------------------------------------------------------|---------------------------|
+| Network and Connectivity services (i.e. MCN inc On-Prem) | [link](https://medium.com/@marclandy.me/list/network-and-connectivity-services-4927fa329ab5) |
+
+- Communication and Collaboration services (e.g. Office 365)
+- IT/OT Convergence or Segmentation services
+- Cloud Integration services (e.g. Azure or AWS)
+- Infrastructure, Data Center Hosting, and Remote site services
+- Automation - Infrastructure, Cloud, Network, and Server 
+- Cyber security and Identity management services
+- Serverless compute, Containers, SOA, & Microservices services
+- Technology Lifecycle Management 
+- IT Policies and Standards
+- M&A, Divestment, Site Refresh, and Site Expansion programs
+- topics, https://www.linkedin.com/posts/marclandy_heres-a-summary-of-all-the-topics-ill-activity-7315220427633487872-N3k4
+- medium.com profile, https://medium.com/@marclandy.me
+
 ## Capability backed up by MJL Github projects
 - Enterprise ALZ Customisation package
 - Enterprise Cloud PKI use-case automation
