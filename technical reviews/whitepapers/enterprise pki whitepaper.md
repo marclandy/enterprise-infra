@@ -11,7 +11,7 @@ Referenced document: https://medium.com/@marclandy.me/euc-reference-architecture
 - It is not based on a real customer implementation and does not reflect current state data, financials, or internal dependencies.
 - For a complete whitepaper template suitable for real-world engagements, please refer to the full template [here](https://github.com/marclandy/enterprise-infra/tree/42ea4e919cf2dbf3ee1f0a3b6b629b59e1126219/architecture%20practice/deliverables/templates). 
 
-## Executive Summary
+# Executive Summary
 
 Mid-tier organisations in sectors such as retail, healthcare, higher-education, biotech, airlines/aviation & financial services are undergoing digital transformation across hybrid environments. As the perimeter dissolves, the **trust fabric of the enterprise is increasingly underpinned by certificate-based authentication**—for devices, users, services, workloads, and data.
 
@@ -144,6 +144,22 @@ Cloud workloads—such as containerized applications, serverless functions, and 
 
 ---
 
+# Appendix:
+
+## PKI / Certificate Lifecycle Planning for Corporate IT 
+
+*“PKI 101 for Business & IT Leaders”* 
+- Not aimed to a particular audience. 
+- Tailored stakeholder, pre-funding will be provided further down the funding track. 
+
+*Supporting Artefacts to Pair with the PKI 101 Slide Deck*
+- Enterprise PKI Whitepaper (Demo/Real) — reference doc for architecture teams
+- Sample Cert Lifecycle Diagrams — shows how certs expire, renew, break apps
+- Persona Matrix — who uses what cert (field worker, exec, dev)
+- One-Page FAQ or Cheat Sheet — short primer for execs or PMO
+
+---
+
 ## Scenario: Access Flow Sequence – Cert Perspective
 
 <details>
@@ -201,17 +217,5 @@ Cloud workloads—such as containerized applications, serverless functions, and 
 - **S/MIME cert**: Email encryption/signing (Outlook/Exchange)
 - **Agent cert**: Authenticated telemetry channels (SIEM/logging)
 </details>
-
-## PKI / Certificate Lifecycle Planning for Corporate IT 
-
-*“PKI 101 for Business & IT Leaders”* 
-- Not aimed to a particular audience. 
-- Tailored stakeholder, pre-funding will be provided further down the funding track. 
-
-*Supporting Artefacts to Pair with the PKI 101 Slide Deck*
-- Enterprise PKI Whitepaper (Demo/Real) — reference doc for architecture teams
-- Sample Cert Lifecycle Diagrams — shows how certs expire, renew, break apps
-- Persona Matrix — who uses what cert (field worker, exec, dev)
-- One-Page FAQ or Cheat Sheet — short primer for execs or PMO
 
 ---
