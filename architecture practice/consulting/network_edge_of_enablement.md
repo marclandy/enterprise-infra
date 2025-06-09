@@ -1,6 +1,6 @@
 # Network: At the Edge of Enablement
 
-> “My capability often sits at the edge of domains — where security, access, and enablement collide.”
+> “My capability often sits at the edge of domainsm, where security, access, and enablement collide.”
 
 ## Marc Landy – Enterprise Network Architect
 
@@ -20,7 +20,7 @@ particularly across large-scale, regulated, and hybrid environments.
 
 ## Why This Matters
 
-Network Architecture is no longer confined to cabling and uptime. I operate at a critical junction—**where digital enablement meets enterprise control**. My work enables:
+Network Architecture is no longer confined to cabling and uptime. I operate at a critical junction, **where digital enablement meets enterprise control**. My work enables:
 
 - **Secure, performant access** to cloud, apps, and data.
 - **Operational resilience** across distributed and remote environments.
