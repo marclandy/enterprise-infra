@@ -28,11 +28,22 @@ This guide outlines how key pre-funding architectural deliverables align with Le
 ---
 
 <details>
+<summary>🔍 Whitepaper </summary>
+
+- **Purpose**: Educate stakeholders on the business problem, lifecycle opportunities, benefits, threats, scope, current challenges, and potential savings associated with the modernization.
+
+- **Whitepaper:** e.g. Modernizing PKI for Corporate IT.
+
+</details>
+
+---
+
+<details>
 <summary>🔍 Options Analysis / Technology Evaluation</summary>
 
 - **Purpose**: Compare architectural choices (buy vs build, tool X vs Y, integration patterns).
 
-- **Options Analysis / Technology Evaluation:** Use the SaaS Evaluation Matrix Template to systematically compare and assess different technology solutions based on predefined criteria.
+- **Options Analysis / Technology Evaluation:** e.g. Use the SaaS Evaluation Matrix Template to systematically compare and assess different technology solutions based on predefined criteria.
 
 </details>
 
