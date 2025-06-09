@@ -7,8 +7,8 @@ scale enterprise technology.”
 [Network: At the Edge of Enablement](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/consulting/network_edge_of_enablement.md)
 
 ## What’s Next
-- My [medium.com page](https://medium.com/@marclandy.me) contains short article on most of my core *Network & Infrastructure* core capabilities.
-- Start exploring technical reviews, options analysis, solutions, architecture practice artefacts, noting my automation solutions will be on the following (posted very soon..),
+My [medium.com](https://medium.com/@marclandy.me) page contains short article on most of my core *Network & Infrastructure* core capabilities.
+Start exploring technical reviews, options analysis, solutions, architecture practice artefacts, noting my automation solutions will be on the following (posted very soon..),
 - Enterprise ALZ Customisation package
 - Enterprise Cloud PKI use-case automation
 - Productising ZTNA, 802.1x and Conditional Access controls integration
