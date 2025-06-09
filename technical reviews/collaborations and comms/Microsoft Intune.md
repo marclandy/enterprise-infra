@@ -134,7 +134,7 @@ My primary interest relates to *device management, network enforcement, complian
 
 ## Technical Deep Dive for Network/Infra Architects
 <details>
-<summary> <strong>🖱️ Conditional Access & Network Enforcement -- Deep Dive</strong></summary>
+<summary> <strong> Conditional Access & Network Enforcement -- Deep Dive</strong></summary>
 
 <br>
 
