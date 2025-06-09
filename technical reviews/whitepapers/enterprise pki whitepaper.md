@@ -201,3 +201,17 @@ Cloud workloads—such as containerized applications, serverless functions, and 
 - **S/MIME cert**: Email encryption/signing (Outlook/Exchange)
 - **Agent cert**: Authenticated telemetry channels (SIEM/logging)
 </details>
+
+## PKI / Certificate Lifecycle Planning for Corporate IT 
+
+*“PKI 101 for Business & IT Leaders”* 
+- Not aimed to a particular audience. 
+- Tailored stakeholder, pre-funding will be provided further down the funding track. 
+
+*Supporting Artefacts to Pair with the PKI 101 Slide Deck*
+-Enterprise PKI Whitepaper (Demo/Real) — reference doc for architecture teams
+-Sample Cert Lifecycle Diagrams — shows how certs expire, renew, break apps
+-Persona Matrix — who uses what cert (field worker, exec, dev)
+-One-Page FAQ or Cheat Sheet — short primer for execs or PMO
+
+---
