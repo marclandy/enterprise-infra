@@ -3,7 +3,7 @@ This GitHub portfolio demonstrates how I approach enterprise network and cloud s
 business-aligned whitepapers, automation prototypes, and decision frameworks that aim to inform, simplify, and 
 scale enterprise technology.
 
-> *Explore my consulting value via, "Network: At the Edge of Enablement"*,
+> *Explore my consulting value via,
 [Network: At the Edge of Enablement](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/consulting/network_edge_of_enablement.md)
 
 ## What’s Next
