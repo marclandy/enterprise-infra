@@ -7,7 +7,7 @@ scale enterprise technology.
 [*Network: At the Edge of Enablement*](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/consulting/network_edge_of_enablement.md)
 
 ## What’s Next
-> My [*medium.com*](https://medium.com/@marclandy.me) page contains short articles on most of my core *Network & Infrastructure* core capabilities.
+> My [*medium.com*](https://medium.com/@marclandy.me) page contains short articles on most of my core *Network & Infrastructure* capabilities.
 
 Start exploring *technical reviews, options analysis, solutions, architecture practice artefacts*, noting my *automation solutions* below (coming soon...);
 - 1/ Enterprise Azure Landing Zone Customisation package.
