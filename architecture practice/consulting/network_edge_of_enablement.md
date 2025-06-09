@@ -4,7 +4,7 @@
 
 ## Marc Landy – Enterprise Network Architect
 
-*Overaching objective:*
+*Overarching objective:*
 - I use the power of synthesizing Enterprise Architecture models to bridge an organisations business strategy with technical execution to ensure cost centers are viewed as digital strategic enablers.
 
 ## Purpose  
