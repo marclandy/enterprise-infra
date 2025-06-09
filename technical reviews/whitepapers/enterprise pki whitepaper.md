@@ -5,6 +5,11 @@ Repo: Internal Architecture Standards
 Last Updated: 6th June 2025  
 Referenced document: https://medium.com/@marclandy.me/euc-reference-architecture-83286cb1c359
 ---
+*Demonstration-Only Whitepaper*
+ 
+This document is intended to demonstrate my approach to structuring and communicating architectural guidance. It is not based on a real customer implementation and does not reflect current state data, financials, or internal dependencies.  
+ 
+For a complete whitepaper template suitable for real-world engagements, please refer to the full template [here](#) or visit the repository’s `/templates` directory. | TBA
 
 ## Executive Summary
 
