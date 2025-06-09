@@ -7,9 +7,9 @@ Referenced document: https://medium.com/@marclandy.me/euc-reference-architecture
 ---
 *Demonstration-Only Whitepaper*
  
-This document is intended to demonstrate my approach to structuring and communicating architectural guidance. It is not based on a real customer implementation and does not reflect current state data, financials, or internal dependencies.  
- 
-For a complete whitepaper template suitable for real-world engagements, please refer to the full template [here](https://github.com/marclandy/enterprise-infra/tree/42ea4e919cf2dbf3ee1f0a3b6b629b59e1126219/architecture%20practice/deliverables/templates). 
+- This document is intended to demonstrate my approach to structuring and communicating architectural guidance.
+- It is not based on a real customer implementation and does not reflect current state data, financials, or internal dependencies.
+- For a complete whitepaper template suitable for real-world engagements, please refer to the full template [here](https://github.com/marclandy/enterprise-infra/tree/42ea4e919cf2dbf3ee1f0a3b6b629b59e1126219/architecture%20practice/deliverables/templates). 
 
 ## Executive Summary
 
