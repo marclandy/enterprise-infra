@@ -22,11 +22,12 @@ particularly across large-scale, regulated, and hybrid environments.
 
 Network Architecture is no longer confined to cabling and uptime. I operate at a critical junction—**where digital enablement meets enterprise control**. My work enables:
 
-- **Secure, performant access** to cloud, apps, and data
-- **Operational resilience** across distributed and remote environments
-- **Transformation programs** like M&A, hybrid cloud, and IT/OT convergence
-- **Policy enforcement** at the network level in support of Zero Trust
-- **Technology lifecycle stewardship** to avoid risk and cost blowout
+- **Secure, performant access** to cloud, apps, and data.
+- **Operational resilience** across distributed and remote environments.
+- **Transformation programs** like M&A, hybrid cloud, and IT/OT convergence.
+- **Policy enforcement** at the network level in support of Zero Trust.
+- **Technology lifecycle stewardship** to avoid risk and cost blowout.
+- **Harnessing emerging technology** to create market differentiation and digital advantage.
 
 ---
 
