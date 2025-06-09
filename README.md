@@ -9,7 +9,7 @@ scale enterprise technology.
 ## What’s Next
 > My [*medium.com*](https://medium.com/@marclandy.me) page contains short article on most of my core *Network & Infrastructure* core capabilities.
 
-Start exploring *technical reviews, options analysis, solutions, architecture practice artefacts*, noting my *automation solutions* will be on the following (posted very soon...),
+Start exploring *technical reviews, options analysis, solutions, architecture practice artefacts*, noting my *automation solutions* below (posted very soon...),
 - 1/ Enterprise Azure Landing Zone Customisation package.
 - 2/ Enterprise Cloud PKI use-case automation.
 - 3/ Productising ZTNA, 802.1x and Conditional Access controls integration.
