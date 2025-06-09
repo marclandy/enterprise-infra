@@ -56,7 +56,7 @@ Note - I am increasingly taking on more Infrastructure scope as when the need ar
 
 ## Network & Infrastructure Architecture article on medium.com.
 
-| 𝙀𝙣𝙩𝙚𝙧𝙥𝙧𝙞𝙨𝙚 – 𝙉𝙚𝙩𝙬𝙤𝙧𝙠 & 𝙄𝙣𝙛𝙧𝙖𝙨𝙩𝙧𝙪𝙘𝙩𝙪𝙧𝙚 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚 Area | medium.com tag link |
+| 𝙀𝙣𝙩𝙚𝙧𝙥𝙧𝙞𝙨𝙚 – 𝙉𝙚𝙩𝙬𝙤𝙧𝙠 & 𝙄𝙣𝙛𝙧𝙖𝙨𝙩𝙧𝙪𝙘𝙩𝙪𝙧𝙚 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚 Area | my [medium.com](https://medium.com/@marclandy.me) profile |
 |------------------------------------------------------|---------------------------|
 | Network and Connectivity services (i.e. MCN inc On-Prem) | [link](https://medium.com/@marclandy.me/list/network-and-connectivity-services-4927fa329ab5) |
 
@@ -71,8 +71,7 @@ Note - I am increasingly taking on more Infrastructure scope as when the need ar
 - IT Policies and Standards
 - M&A, Divestment, Site Refresh, and Site Expansion programs
 - source: topics planned in April 2025, [industry feedback](https://www.linkedin.com/posts/marclandy_heres-a-summary-of-all-the-topics-ill-activity-7315220427633487872-N3k4)
-- my [medium.com](https://medium.com/@marclandy.me) profile 
-
+  
 ## Capability backed up by my Github projects
 - Enterprise ALZ Customisation package
 - Enterprise Cloud PKI use-case automation
