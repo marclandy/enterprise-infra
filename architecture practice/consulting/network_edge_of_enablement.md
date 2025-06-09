@@ -1,6 +1,6 @@
 # Network: At the Edge of Enablement
 
-> “My capability often sits at the edge of domainsm, where security, access, and enablement collide.”
+> “My capability often sits at the edge of domains, where security, access, and enablement collide.”
 
 ## Marc Landy – Enterprise Network Architect
 
