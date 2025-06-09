@@ -3,11 +3,11 @@ This GitHub portfolio demonstrates how I approach enterprise network and cloud s
 business-aligned whitepapers, automation prototypes, and decision frameworks that aim to inform, simplify, and 
 scale enterprise technology.
 
-*Explore my consulting value via, "Network: At the Edge of Enablement"*,
+> *Explore my consulting value via, "Network: At the Edge of Enablement"*,
 [Network: At the Edge of Enablement](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/consulting/network_edge_of_enablement.md)
 
 ## What’s Next
-My [medium.com](https://medium.com/@marclandy.me) page contains short article on most of my core *Network & Infrastructure* core capabilities.
+> My [medium.com](https://medium.com/@marclandy.me) page contains short article on most of my core *Network & Infrastructure* core capabilities.
 
 Start exploring technical reviews, options analysis, solutions, architecture practice artefacts, noting my automation solutions will be on the following (posted very soon...),
 - 1/ Enterprise Azure Landing Zone Customisation package.
