@@ -150,12 +150,15 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 
 <details>
 <summary><strong> 👉 IT/OT Convergence or Segmentation services</strong></summary>
-- [Modern Enterprise Campus Design, 802.1x isn't going away](https://medium.com/@marclandy.me/modern-enterprise-campus-design-79d8d33c47c5)
-- [Campus design — wireless and wired](https://medium.com/@marclandy.me/campus-design-wireless-and-wired-1ae9ddf626fb)
-- [Zero Trust in Wi-Fi networking and secure device onboarding](https://medium.com/@marclandy.me/zero-trust-in-wi-fi-networking-and-secure-device-onboarding-f9c19b58d6d5)
-- [Retail Wi-Fi Standard](https://medium.com/@marclandy.me/retail-wi-fi-standard-9470830a82af)
-- [Mid-Tier Enterprise with existing Cisco SD-WAN & Palo Alto FWs look to Aruba SD-Branch for Campus](https://medium.com/@marclandy.me/mid-tier-enterprise-with-existing-cisco-sd-wan-palo-alto-fws-look-to-aruba-sd-branch-for-campus-4a84aa36dbe9)
-- [Cisco ACI Technical Review](https://medium.com/@marclandy.me/cisco-aci-technical-review-f3f7314b3e51)
+
+| Article link | 
+|--------------|  
+| [Modern Enterprise Campus Design, 802.1x isn't going away](https://medium.com/@marclandy.me/modern-enterprise-campus-design-79d8d33c47c5) |
+| [Campus design — wireless and wired](https://medium.com/@marclandy.me/campus-design-wireless-and-wired-1ae9ddf626fb) |
+| [Zero Trust in Wi-Fi networking and secure device onboarding](https://medium.com/@marclandy.me/zero-trust-in-wi-fi-networking-and-secure-device-onboarding-f9c19b58d6d5) |
+| [Retail Wi-Fi Standard](https://medium.com/@marclandy.me/retail-wi-fi-standard-9470830a82af) |
+| [Mid-Tier Enterprise with existing Cisco SD-WAN & Palo Alto FWs look to Aruba SD-Branch for Campus](https://medium.com/@marclandy.me/mid-tier-enterprise-with-existing-cisco-sd-wan-palo-alto-fws-look-to-aruba-sd-branch-for-campus-4a84aa36dbe9) |
+| [Cisco ACI Technical Review](https://medium.com/@marclandy.me/cisco-aci-technical-review-f3f7314b3e51) |
 </details>
 
 <details>
