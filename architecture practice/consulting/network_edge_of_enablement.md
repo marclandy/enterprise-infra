@@ -142,38 +142,43 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 <details>
 <summary><strong> 👉 Communication and Collaboration services</strong></summary>
 
-| Article link | 
-|--------------|
-| [Microsoft Communication & Collaboration](https://medium.com/@marclandy.me/microsoft-communication-collaboration-e7478aab2af8) |
+- ![Microsoft Communication & Collaboration](https://medium.com/@marclandy.me/microsoft-communication-collaboration-e7478aab2af8)
 
 </details>
 
 <details>
 <summary><strong> 👉 IT/OT Convergence or Segmentation services</strong></summary>
 
-| Article link | 
-|--------------|  
-| [Modern Enterprise Campus Design, 802.1x isn't going away](https://medium.com/@marclandy.me/modern-enterprise-campus-design-79d8d33c47c5) |
-| [Campus design — wireless and wired](https://medium.com/@marclandy.me/campus-design-wireless-and-wired-1ae9ddf626fb) |
-| [Zero Trust in Wi-Fi networking and secure device onboarding](https://medium.com/@marclandy.me/zero-trust-in-wi-fi-networking-and-secure-device-onboarding-f9c19b58d6d5) |
-| [Retail Wi-Fi Standard](https://medium.com/@marclandy.me/retail-wi-fi-standard-9470830a82af) |
-| [Mid-Tier Enterprise with existing Cisco SD-WAN & Palo Alto FWs look to Aruba SD-Branch for Campus](https://medium.com/@marclandy.me/mid-tier-enterprise-with-existing-cisco-sd-wan-palo-alto-fws-look-to-aruba-sd-branch-for-campus-4a84aa36dbe9) |
-| [Cisco ACI Technical Review](https://medium.com/@marclandy.me/cisco-aci-technical-review-f3f7314b3e51) |
 </details>
 
 <details>
 <summary><strong> 👉 Cloud Integration services</strong></summary>
-- [Cross-Hyperscaler Network Connectivity (AWS ↔ Azure)](https://medium.com/@marclandy.me/cross-hyperscaler-network-connectivity-aws-azure-d2a62d7fe2f2)
-- [Modernisation of Enterprise Cloud Network & Infrastructure Landscape \| HLA](https://medium.com/@marclandy.me/modernisation-of-enterprise-cloud-network-infrastructure-landscape-hla-8e6085fca16e)
-- [The Towers of Multi-Cloud Network](https://medium.com/@marclandy.me/the-towers-of-multi-cloud-network-8aa3dbdb4d1f)
-- [Public IaaS/PaaS Hub-and-Spoke](https://medium.com/@marclandy.me/public-iaas-paas-hub-and-spoke-721e6dce1c6a)
-- [Cloud Workload & Platform Assessment](https://medium.com/@marclandy.me/cloud-workload-platform-assessment-74426ff95fea)
-- [Cloud Disaster Recovery Strategy](https://medium.com/@marclandy.me/cloud-disaster-recovery-strategy-55b5bc739a59)
+  
 </details>
 
 <details>
-<summary><strong> 👉 Communication and Collaboration services</strong></summary>
-- [Microsoft Communication & Collaboration](https://medium.com/@marclandy.me/microsoft-communication-collaboration-e7478aab2af8)
+<summary><strong> 👉 Infrastructure, Data Center Hosting, and Remote site services</strong></summary>
+
+</details>
+
+<details>
+<summary><strong> 👉 Automation - Infrastructure, Cloud, Network, and Server</strong></summary>
+
+</details>
+
+<details>
+<summary><strong> 👉 Cyber security and Identity management services</strong></summary>
+
+</details>
+
+<details>
+<summary><strong> 👉 IT Policies and Standards</strong></summary>
+
+</details>
+
+<details>
+<summary><strong> 👉 IT Policies and Standards</strong></summary>
+
 </details>
 
 
