@@ -137,7 +137,7 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 
 ## Network & Infrastructure Architecture articles categorisation
 
-- [medium.com/@marclandy.me profile](https://medium.com/@marclandy.me/about)
+[medium.com/@marclandy.me profile](https://medium.com/@marclandy.me/about)
 
 <details>
 <summary><strong> 👉 Communication and Collaboration services</strong></summary>
