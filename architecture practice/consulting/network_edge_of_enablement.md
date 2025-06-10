@@ -140,6 +140,14 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 [medium.com/@marclandy.me](https://medium.com/@marclandy.me/about) profile
 
 <details>
+<summary><strong> 👉 Architecture Practice</strong></summary>
+
+| Article Category link |
+|-----------------------|
+|[Architecture Practice](https://medium.com/@marclandy.me/list/architecture-practice-35fbc170845d)|
+</details>  
+
+<details>
 <summary><strong> 👉 Communication and Collaboration services</strong></summary>
 
 | Article Category link |
@@ -158,25 +166,36 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 
 <details>
 <summary><strong> 👉 Cloud Integration services</strong></summary>
-  
+
+| Article Category link |
+|-----------------------|
+|[Cloud Integration services](https://medium.com/@marclandy.me/list/cloud-integration-services-5a7feb18d491) |
 </details>
 
 <details>
 <summary><strong> 👉 Infrastructure, Data Center Hosting, and Remote site services</strong></summary>
-
+| Article Category link |
+|-----------------------|
+|[Infrastructure, Data Center Hosting, and Remote site services]()|
 </details>
 
 <details>
 <summary><strong> 👉 Automation - Infrastructure, Cloud, Network, and Server</strong></summary>
-
+| Article Category link |
+|-----------------------|
+|[Automation - Infrastructure, Cloud, Network, and Server]()|
 </details>
 
 <details>
 <summary><strong> 👉 Cyber security and Identity management services</strong></summary>
-
+| Article Category link |
+|-----------------------|
+|[Cyber security and Identity management services]()|
 </details>
 
 <details>
 <summary><strong> 👉 IT Policies and Standards</strong></summary>
-
+| Article Category link |
+|-----------------------|
+|[IT Policies and Standards]()|
 </details>  
