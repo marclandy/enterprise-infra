@@ -144,7 +144,7 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 
 | Article Category link |
 |-----------------------|
-| [Communication and Collaboration services](https://medium.com/@marclandy.me/list/communication-and-collaboration-services-acc3ab81a47a)) |
+| [Communication and Collaboration services](https://medium.com/@marclandy.me/list/communication-and-collaboration-services-acc3ab81a47a) |
 
 </details>
 
