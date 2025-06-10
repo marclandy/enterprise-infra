@@ -76,7 +76,7 @@ See appendix below for full project tables.
 
 ## Conclusion
 
-The role of Network Architecture is evolving, but it remains essential. I **enable business outcomes**, **reduce architectural risk**, and **ensure every digital initiative has a reliable foundation**—all while bridging the edge, the core, and the cloud.
+The role of Network Architecture is evolving, but it remains essential. I **enable business outcomes**, **reduce architectural risk**, and **ensure every digital initiative has a reliable foundation**, all while bridging the edge, the core, and the cloud.
 
 ---
 
