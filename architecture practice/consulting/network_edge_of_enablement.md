@@ -151,6 +151,9 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 <details>
 <summary><strong> 👉 IT/OT Convergence or Segmentation services</strong></summary>
 
+| Article Category link |
+|-----------------------|
+| [IT/OT Convergence or Segmentation services](https://medium.com/@marclandy.me/list/itot-convergence-or-segmentation-services-cf606697a960) |
 </details>
 
 <details>
