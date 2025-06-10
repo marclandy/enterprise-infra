@@ -143,7 +143,8 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 <summary><strong> 👉 Communication and Collaboration services</strong></summary>
 
 | Article Category link |
-[Microsoft Communication & Collaboration](https://medium.com/@marclandy.me/microsoft-communication-collaboration-e7478aab2af8)
+|-----------------------|
+| [Microsoft Communication & Collaboration](https://medium.com/@marclandy.me/microsoft-communication-collaboration-e7478aab2af8) |
 
 </details>
 
