@@ -176,6 +176,7 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 
 <details>
 <summary><strong> 👉 Infrastructure, Data Center Hosting, and Remote site services</strong></summary>
+
 | Article Category link |
 |-----------------------|
 | [Infrastructure, Data Center Hosting, and Remote site services](https://medium.com/@marclandy.me/list/infrastructure-data-center-hosting-and-remote-site-services-063c154fb27c) |
@@ -184,6 +185,7 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 
 <details>
 <summary><strong> 👉 Automation - Infrastructure, Cloud, Network, and Server</strong></summary>
+
 | Article Category link |
 |-----------------------|
 |[Automation - Infrastructure, Cloud, Network, and Server](coming soon...tba)|
@@ -192,6 +194,7 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 
 <details>
 <summary><strong> 👉 Cyber security and Identity management services</strong></summary>
+
 | Article Category link |
 |-----------------------|
 | [Cyber security and Identity management services](https://medium.com/@marclandy.me/list/cyber-security-and-identity-management-services-450925523195) |
@@ -200,7 +203,9 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 
 <details>
 <summary><strong> 👉 IT Policies and Standards</strong></summary>
+
 | Article Category link |
 |-----------------------|
-|[IT Policies and Standards](coming soon...tba)|
+| [IT Policies and Standards](coming soon...tba) |
+
 </details>  
