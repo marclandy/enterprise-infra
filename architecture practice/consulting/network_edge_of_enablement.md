@@ -162,6 +162,7 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 | Article Category link |
 |-----------------------|
 | [IT/OT Convergence or Segmentation services](https://medium.com/@marclandy.me/list/itot-convergence-or-segmentation-services-cf606697a960) |
+
 </details>
 
 <details>
@@ -170,32 +171,36 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 | Article Category link |
 |-----------------------|
 |[Cloud Integration services](https://medium.com/@marclandy.me/list/cloud-integration-services-5a7feb18d491) |
+
 </details>
 
 <details>
 <summary><strong> 👉 Infrastructure, Data Center Hosting, and Remote site services</strong></summary>
 | Article Category link |
 |-----------------------|
-|[Infrastructure, Data Center Hosting, and Remote site services]()|
+| [Infrastructure, Data Center Hosting, and Remote site services](https://medium.com/@marclandy.me/list/infrastructure-data-center-hosting-and-remote-site-services-063c154fb27c) |
+
 </details>
 
 <details>
 <summary><strong> 👉 Automation - Infrastructure, Cloud, Network, and Server</strong></summary>
 | Article Category link |
 |-----------------------|
-|[Automation - Infrastructure, Cloud, Network, and Server]()|
+|[Automation - Infrastructure, Cloud, Network, and Server](coming soon...tba)|
+
 </details>
 
 <details>
 <summary><strong> 👉 Cyber security and Identity management services</strong></summary>
 | Article Category link |
 |-----------------------|
-|[Cyber security and Identity management services]()|
+| [Cyber security and Identity management services](https://medium.com/@marclandy.me/list/cyber-security-and-identity-management-services-450925523195) |
+
 </details>
 
 <details>
 <summary><strong> 👉 IT Policies and Standards</strong></summary>
 | Article Category link |
 |-----------------------|
-|[IT Policies and Standards]()|
+|[IT Policies and Standards](coming soon...tba)|
 </details>  
