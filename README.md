@@ -7,7 +7,7 @@ scale enterprise technology.
 [*Network: At the Edge of Enablement*](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/consulting/network_edge_of_enablement.md)
 
 ## What’s Next
-> My [*medium.com*](https://medium.com/@marclandy.me) page contains short articles on most of my core *Network & Infrastructure* capabilities.
+> My [*medium.com*](https://medium.com/@marclandy.me/lists) page contains short articles on most of my core *Network & Infrastructure* capabilities.
 
 Start exploring *technical reviews, options analysis, solutions, architecture practice artefacts*, here in this github repo. 
 
