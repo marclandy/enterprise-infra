@@ -135,9 +135,9 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 
 ---
 
-## Network & Infrastructure Architecture Medium.com articles 
+## Network & Infrastructure Architecture Medium.com articles, 
 
-[medium.com/@marclandy.me](https://medium.com/@marclandy.me/about) profile
+all category view | [medium about profile](https://medium.com/@marclandy.me/lists) 
 
 <details>
 <summary><strong> 👉 Architecture Practice</strong></summary>
