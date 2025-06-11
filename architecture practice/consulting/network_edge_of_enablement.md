@@ -188,7 +188,7 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 
 | Article Category link |
 |-----------------------|
-|[Automation - Infrastructure, Cloud, Network, and Server](coming soon...tba)|
+| [Automation - Infrastructure, Cloud, Network, and Server](https://medium.com/@marclandy.me/list/automation-infrastructure-cloud-network-and-server-404527298944) |
 
 </details>
 
