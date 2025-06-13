@@ -157,7 +157,7 @@ expand, per capability
 
 | Article Category link |
 |-----------------------|
-|[Network and Connectivity]([https://medium.com/@marclandy.me/list/architecture-practice-35fbc170845d])|
+|[Network and Connectivity](https://medium.com/@marclandy.me/list/network-and-connectivity-services-4927fa329ab5)|
 </details>  
 
 <details>
