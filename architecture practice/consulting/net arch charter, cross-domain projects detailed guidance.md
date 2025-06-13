@@ -1,7 +1,6 @@
 # Detailed Network Architecture Guidance
-by Project Type
 
-Guidance document designed to provide direction based on encountered projects from the field with common scenarios. 
+Guidance document designed to provide direction based on projects from the field. 
 - This document is to be used as a guide only. 
 - Establishing customer requirements per project is paramount to ensuring great outcomes are achieved for the enterpise projects teams. 
 
