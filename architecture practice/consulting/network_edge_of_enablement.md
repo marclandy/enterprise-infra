@@ -106,7 +106,7 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 
 👉[refer to contribution matrix](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/consulting/net%20arch%20charter,%20cross-domain%20projects,%20overview.md#cross-domain-projects--contribution-matrix)
 
-| Project Name | Typical Role | Why You're Needed |
+| Project Name | Typical Role | Why Net Arch is Needed |
 |--------------|---------------|-------------------|
 | Cyber Security Programs | Contributor | Microsegmentation, SASE integration |
 | IAM & Certificate Platforms | Consultant | Secure device access, NAC, PKI infra |
