@@ -1,5 +1,7 @@
+## Network Architecture 
+
 <details>
-<summary> <strong> Key Network Architecture Principles Across All Projects: </strong></summary>
+<summary> <strong> Key Principles Across All Projects: </strong></summary>
   
 | Principles | Description | 
 |------------|-------------|
@@ -12,7 +14,7 @@
   
 </details>  
 
-### Network Architect Cross-Domain Project Contribution Matrix
+### Cross-Domain Project Contribution Matrix
 
 | Project Name | Typical Role | Why You're Needed | Network Architect Contribution Items |
 |--------------|--------------|-------------------|-------------------------------------|
