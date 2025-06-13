@@ -16,7 +16,7 @@
 
 ### Cross-Domain Projects : Contribution Matrix
 
-| Project Name | Typical Role | Why You're Needed | Network Architect Contribution Items |
+| Project Name | Typical Role | Why Net Arch is Needed | Network Architect Contribution Items |
 |--------------|--------------|-------------------|-------------------------------------|
 | **Cyber Security Programs** | Contributor | Microsegmentation, SASE integration | • Design network segmentation strategy and VLAN/VXLAN schemes<br/>• Define firewall placement and security zones architecture<br/>• Assess current network for zero-trust readiness<br/>• Plan SASE edge connectivity and SD-WAN integration<br/>• Review network access control policies and enforcement points<br/>• Design secure network monitoring and logging infrastructure<br/>• Validate bandwidth requirements for security tools and encryption overhead |
 | **IAM & Certificate Platforms** | Consultant | Secure device access, NAC, PKI infra | • Design NAC deployment architecture and switch port configurations<br/>• Plan certificate distribution infrastructure and SCEP/CMP protocols<br/>• Assess network readiness for 802.1X authentication<br/>• Design secure RADIUS/LDAP connectivity paths<br/>• Plan network isolation for non-compliant devices<br/>• Review DNS and PKI infrastructure placement<br/>• Design secure management networks for certificate authorities |
