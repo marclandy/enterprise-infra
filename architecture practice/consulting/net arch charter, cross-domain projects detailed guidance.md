@@ -90,8 +90,6 @@ Corporate Core: 10.0.0.0/8
 
 </details>  
 
-***
-
 <details>
 <summary><strong> 2. IAM & Certificate Platforms (Microsoft Cloud PKI + Cisco ISE) </strong></summary>
   
@@ -142,8 +140,6 @@ Root CA: Offline (air-gapped)
 
 </details>  
 
----
-
 <details>
 <summary><strong> 3. SaaS Migrations (O365 Focus) </strong></summary>
 
@@ -182,8 +178,6 @@ Hub Sites: Concentrated breakout
 
 </details>  
 
----
-
 <details>
 <summary><strong> 4. DevOps & Container Platforms </strong></summary>
 
@@ -214,9 +208,12 @@ Kubernetes Cluster Network Design:
 - New "Container Platform Network Architecture" standard
 - Integration with existing "Application Deployment Standards"
 
+</details> 
+
 ---
 
-## 5. Integration Platforms (ESB/API)
+<details>
+<summary><strong> 5. Integration Platforms (ESB/API) </strong></summary>
 
 ### API Gateway Network Placement & DMZ Architecture
 
@@ -310,7 +307,8 @@ On-Premises DC ←→ AWS (Direct Connect)
 
 ---
 
-## 7. Data Platform Initiatives (Databricks + AWS + Azure)
+<details>
+<summary><strong> 7. Data Platform Initiatives (Databricks + AWS + Azure) </strong></summary>
 
 ### Multi-Cloud Data Architecture Network Design
 
@@ -380,9 +378,10 @@ AS 65001 (Primary DC) ←→ AS 65002 (DR DC)
 - New "Enterprise Data Platform Network Architecture" standard
 - "Multi-Cloud Data Governance" network security section
 
----
+</details>
 
-## 8. Observability & ITOM Uplift (Cloud-Native: DataDog + New Relic + Sumo Logic)
+<details>
+<summary><strong> ## 8. Observability & ITOM Uplift (Cloud-Native: DataDog + New Relic + Sumo Logic) </strong></summary>
 
 ### Multi-Tenant Monitoring Architecture
 
@@ -467,5 +466,5 @@ OOB Management: 192.168.100.0/22
 - **New Relic:** HTTPS/443, collector.newrelic.com
 - **Sumo Logic:** HTTPS/443, multiple regional endpoints
 
----
+</details>
 
