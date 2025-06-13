@@ -87,6 +87,7 @@ This is especially vital for enterprises undergoing rapid expansion, M&A, or OT/
 | **Fully Managed** | External partner handles orchestration, support, SLAs |
 | **Co-Managed** | Enterprise manages policies; partner operates network fabric |
 | **Self-Managed + Orchestration-as-a-Service** | Internal team runs stack with external orchestration support |
+
 source: service models adapted from [Coevolve](https://www.coevolve.com/wp-content/uploads/2023/04/Managed_vs_co_managed_diagram-768x768.png)
 
 ## 9. Use Cases
