@@ -138,7 +138,7 @@ This proposal enables enterprises to abstract service delivery complexity, autom
 
 ### **Enterprise Connectivity Needs Across Domains**
 
-| **Connectivity Domain** | **Customer Requirement** | **Products / Services** | **Professional Services Scope** | **Operational/Managed Services Needs** |
+| **Connectivity Domain** | **Customer Requirement** | **Products / Services** | **Professional Services Scope** | **Operational/Managed Services Needs (TBA)** |
 | --- | --- | --- | --- | --- |
 | **Telcos** | Global underlay, last mile, private MPLS/Internet links | • Ethernet, MPLS, Internet  
 • DIA  
