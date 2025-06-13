@@ -106,7 +106,7 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 
 👉[refer to, net arch contribution matrix](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/consulting/net%20arch%20charter,%20cross-domain%20projects,%20overview.md#cross-domain-projects--contribution-matrix)
            
-            [project guidance](https://github.com/marclandy/enterprise-infra/blob/f671561d85c32769a001038d4e77311219d97f36/architecture%20practice/consulting/net%20arch%20charter%2C%20cross-domain%20projects%20detailed%20guidance.md)
+[project guidance](https://github.com/marclandy/enterprise-infra/blob/f671561d85c32769a001038d4e77311219d97f36/architecture%20practice/consulting/net%20arch%20charter%2C%20cross-domain%20projects%20detailed%20guidance.md)
 
 | Project Name | Typical Role | Why Net Arch is Needed |
 |--------------|---------------|-------------------|
