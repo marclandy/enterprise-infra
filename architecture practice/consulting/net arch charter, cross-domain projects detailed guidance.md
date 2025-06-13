@@ -1,4 +1,5 @@
-# Detailed Network Architecture Guidance by Project Type
+# Detailed Network Architecture Guidance
+by Project Type
 
 Guidance document designed to provide direction based on encountered projects from the field with common scenarios. 
 - This document is to be used as a guide only. 
