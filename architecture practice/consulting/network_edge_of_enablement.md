@@ -104,10 +104,6 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 <details>
 <summary><strong> Cross-Domain Projects – Typically Support, Consult to & Elevate</strong></summary>
 
-👉[refer to, net arch contribution matrix](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/consulting/net%20arch%20charter,%20cross-domain%20projects,%20overview.md#cross-domain-projects--contribution-matrix)
-           
-[project guidance](https://github.com/marclandy/enterprise-infra/blob/f671561d85c32769a001038d4e77311219d97f36/architecture%20practice/consulting/net%20arch%20charter%2C%20cross-domain%20projects%20detailed%20guidance.md)
-
 | Project Name | Typical Role | Why Net Arch is Needed |
 |--------------|---------------|-------------------|
 | Cyber Security Programs | Contributor | Microsegmentation, SASE integration |
@@ -118,6 +114,9 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 | EUC/VDI Modernisation | Support | Network latency, profile tuning |
 | Data Platform Initiatives | Support | Peering, IP range mgmt, transit encryption |
 | Observability & ITOM Uplift | Contributor | Infra telemetry, SNMP, syslog, CMDB feeds |
+- [net arch contribution matrix](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/consulting/net%20arch%20charter,%20cross-domain%20projects,%20overview.md#cross-domain-projects--contribution-matrix)
+           
+- [project guidance](https://github.com/marclandy/enterprise-infra/blob/f671561d85c32769a001038d4e77311219d97f36/architecture%20practice/consulting/net%20arch%20charter%2C%20cross-domain%20projects%20detailed%20guidance.md)
 
 </details>
 
