@@ -151,6 +151,15 @@ expand, per capability
 |[Architecture Practice](https://medium.com/@marclandy.me/list/architecture-practice-35fbc170845d)|
 </details>  
 
+
+<details>
+<summary><strong> 👉 Network and Connectivity services </strong></summary>
+
+| Article Category link |
+|-----------------------|
+|[Network and Connectivity]([https://medium.com/@marclandy.me/list/architecture-practice-35fbc170845d])|
+</details>  
+
 <details>
 <summary><strong> 👉 Communication and Collaboration services</strong></summary>
 
