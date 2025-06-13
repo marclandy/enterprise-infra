@@ -113,12 +113,6 @@ This is especially vital for enterprises undergoing rapid expansion, M&A, or OT/
 - **Mining**: Secure ZTNA access for remote contractors during exploration
 - **Manufacturing**: Connecting new production lines during global joint ventures
 
-### What Comes Next: Where Coevolve-Type Models Expand
-
-- Integrating public IX/CX (e.g., Megaport) with private cloud underlays
-- Enabling service chaining across independent orchestration stacks
-- Providing API governance for security domains, telemetry, and SLA metrics
-
 ## Strategic Model: Federated Orchestration for Global Enterprise Edge
 
 ```
@@ -135,6 +129,52 @@ This is especially vital for enterprises undergoing rapid expansion, M&A, or OT/
                           +-------------+
 ```
 
+### **Enterprise Connectivity Needs Across Domains**
+
+| **Connectivity Domain** | **Customer Requirement** | **Products / Services** | **Professional Services Scope** | **Operational/Managed Services Needs** |
+| --- | --- | --- | --- | --- |
+| **Telcos** | Global underlay, last mile, private MPLS/Internet links | • Ethernet, MPLS, Internet  
+• DIA  
+• Layer 2/3 circuits | • WAN architecture  
+• Circuit design  
+• Diversity planning | • Circuit monitoring  
+• SLA enforcement  
+• Trouble ticketing  
+• Provider management |
+| **SD-WAN** | Overlay abstraction, app-aware routing, resiliency | • Cisco Viptela, Fortinet, Aruba, Silver Peak  
+• Co-managed appliances | • SD-WAN design & migration  
+• QoS policy modeling  
+• BGP/MPLS overlay design | • Device config mgmt  
+• App telemetry  
+• Failover mgmt  
+• Zero-touch provisioning |
+| **SASE** | Inline security at edge, policy convergence, remote users | • Zscaler, Netskope, Prisma Access, Cato, Versa | • SASE architecture design  
+• Integration with IDP (Azure AD, Okta)  
+• Traffic steering logic | • Policy updates  
+• User access management  
+• Threat analytics  
+• Tunnel monitoring |
+| **Cloud (CSP)** | Tenant-to-tenant, DC-cloud, B2B/B2C flows, native routing | • AWS TGW, Azure vWAN, GCP NCC  
+• Direct Connect/ExpressRoute  
+• Cloud Routers | • VNet/VPC design  
+• Cloud interconnect strategy  
+• BGP & IP address design | • Peering validation  
+• Inter-region path health  
+• Cost & usage optimization |
+| **SaaS** | Optimized access, traffic steering, identity-aware routing | • Microsoft 365, Salesforce, Workday acceleration via SASE or SD-WAN | • SaaS path optimization  
+• Conditional access policies  
+• DLP/SWG/Proxy integrations | • App experience telemetry  
+• Threat analytics  
+• DNS/IP filtering |
+| **MCN Strategy** | Unified model, federation of control, orchestration layer | • Coevolve, Expereo, Megaport, Equinix Fabric  
+• Federated API Gateways | • Federated orchestrator design  
+• Inter-domain policy modeling  
+• Lifecycle automation planning | • Unified NOC/SOC  
+• SLA visibility across domains  
+• Multi-provider automation gateway |
+
+Table X: **Federated Orchestration as a Service**. It provides a **multi-dimensional view** linking enterprise **business connectivity needs** with **technology**, **design**, and **run-model considerations**.
+
 ## Appendix B: Cato vs. Coevolve — Orchestration Responsibility Matrix
 
 | Capability | Cato Networks | Coevolve / Federated Orchestrator |
@@ -148,6 +188,10 @@ This is especially vital for enterprises undergoing rapid expansion, M&A, or OT/
 | SLA / Telemetry Federation | Partial (within Cato fabric only) | ✔ Full observability across domains |
 | Federated API Governance | ✖ Limited / Internal APIs | ✔ Supports multi-domain automation |
 
+---
+
+* * *
+
 ## References
 
 MCN 4 Towers concept: 
@@ -156,6 +200,4 @@ MCN 4 Towers concept:
 - 3) Inter-Cloud Tenant + DC/Site/Remote Access,
 - 4) Complex & Business-Critical Application flows. 
 - Concept adapted from Kyndryl, Robert DeWeese.
----
 
-**End of Document**
