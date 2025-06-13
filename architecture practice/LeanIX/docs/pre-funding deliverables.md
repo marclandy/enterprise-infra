@@ -1,5 +1,5 @@
 
-# 🧭 Pre-Funding Deliverables and How They Map to LeanIX Capabilities
+# Pre-Funding Deliverables and How They Map to LeanIX Capabilities
 
 This guide outlines how key pre-funding architectural deliverables align with LeanIX capabilities and features. It helps enterprise and solution architects understand how to uplift and automate their workflow using LeanIX.
 
