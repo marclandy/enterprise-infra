@@ -4,7 +4,9 @@
 
 ## 1. Executive Summary
 
-The following Service Architecture Pattern outlines a future-ready model for enabling federated orchestration across global connectivity providers, cloud platforms, enterprise WANs, and security fabrics. It is designed to support large enterprises undergoing digital and data transformation, particularly those with globally distributed operations, M&A activity, and a mix of IT/OT workloads. The pattern emphasizes software-defined, API-driven service composition and delivery, integrating traditional telco capabilities (e.g., BT, Orange) with interconnect specialists (e.g., Equinix, Megaport) and cloud-native service fabric providers (e.g., Cato, Zscaler, Coevolve).
+The following Service Architecture Pattern outlines a future-ready model for enabling federated orchestration across global connectivity providers, cloud platforms, enterprise WANs, and security fabrics. It is designed to support large enterprises undergoing digital and data transformation, particularly those with globally distributed operations, M&A activity, and a mix of IT/OT workloads. 
+
+The pattern emphasizes software-defined, API-driven service composition and delivery, integrating traditional telco capabilities (e.g., BT, Orange) with interconnect specialists (e.g., Equinix, Megaport) and cloud-native service fabric providers (e.g., Cato, Zscaler, Coevolve).
 
 ## 2. Business Drivers
 
