@@ -44,6 +44,19 @@ The pattern emphasizes software-defined, API-driven service composition and deli
 - **Federated Orchestration Layer**: Policy engine, telemetry, and API coordination across domains
 - **ZTNA for B2B/3rd Party Access**: Role- and risk-based access control with full audit visibility
 
+## The Opportunity — Full-Scope MCN Orchestration 
+
+While existing solutions provide integrated overlays and security controls, most do not orchestrate the full physical and logical path: from enterprise edge to CSP tenant, through IX/CX fabrics and cloud routers, to SaaS front doors or data pipelines.
+
+This federated model highlights a clear opportunity:
+
+- Stitching connectivity services across providers
+- Providing secure, policy-based remote access
+- Dynamically brokering underlay and overlay capacity
+
+This is especially vital for enterprises undergoing rapid expansion, M&A, or OT/IT convergence.
+
+
 ## 6. Logical Architecture Overview
 
 ```
@@ -85,29 +98,21 @@ The pattern emphasizes software-defined, API-driven service composition and deli
 
 ## 9. Recommendations for Next Steps
 
-1. Map existing provider and platform relationships (Telco, IX/CX, Cloud)
-2. Identify orchestration silos (network, cloud, security, identity)
-3. Conduct a PoC with a provider like Coevolve or Expereo
-4. Develop a Federated Service Catalog and standard API interface set
-5. Establish governance around SLA, security policy, and identity roles across domains
+1. Establish customer connectivity requirements across, Telcos, SD-WAN, SASE, cloud, SaaS.
+2. Map existing provider and platform relationships (Telco, IX/CX, Cloud)
+3. Identify orchestration silos (network, cloud, security, identity)
+4. Conduct a PoC with a provider ( Coevolve or Expereo )
+5. Develop a Federated Service Catalog and standard API interface set
+6. Establish governance around SLA, security policy, and identity roles across domains
+7. Assess Network Automation Strategy. Revise/refresh the enterprise network roadmap, as per this proposal (including an evaluation of *Intent-Driven Automation*).
 
-## Conclusion: Your Federated Orchestrator Proposal Makes Sense
+## Conclusion: Federated Orchestrator Proposal Makes Sense
 
 This model acknowledges the policy-plane convergence achieved by companies like Cato—consolidating SD-WAN, SSE, and ZTNA into a unified, managed service. However, enterprise-scale needs such as industrial M&A, remote OT control, and global SaaS optimization demand deeper orchestration across IX fabrics, CSP edge presence, and telco underlay coordination. Independent players like Coevolve have the neutrality and flexibility to deliver this model at scale—especially when combined with infrastructure players like Equinix or Megaport.
 
-Your proposal enables enterprises to abstract service delivery complexity, automate site-to-cloud-to-partner provisioning, and bring network, security, and cloud stakeholders under a federated operating envelope. This isn't a reinvention of SD-WAN—it's the logical next phase: dynamic, intent-driven, and API-first connectivity that behaves more like DevOps pipelines than legacy WAN provisioning workflows.
+This proposal enables enterprises to abstract service delivery complexity, automate site-to-cloud-to-partner provisioning, and bring network, security, and cloud stakeholders under a federated operating envelope. This isn't a reinvention of SD-WAN—it's the logical next phase: dynamic, intent-driven, and API-first connectivity that behaves more like DevOps pipelines than legacy WAN provisioning workflows.
 
-## Appendix A: The Opportunity — Full-Scope MCN Orchestration
-
-While existing solutions provide integrated overlays and security controls, most do not orchestrate the full physical and logical path: from enterprise edge to CSP tenant, through IX/CX fabrics and cloud routers, to SaaS front doors or data pipelines.
-
-This federated model highlights a clear opportunity:
-
-- Stitching connectivity services across providers
-- Providing secure, policy-based remote access
-- Dynamically brokering underlay and overlay capacity
-
-This is especially vital for enterprises undergoing rapid expansion, M&A, or OT/IT convergence.
+## Appendix: 
 
 ### Use Cases for Industrial Customers
 
@@ -115,7 +120,7 @@ This is especially vital for enterprises undergoing rapid expansion, M&A, or OT/
 - **Mining**: Secure ZTNA access for remote contractors during exploration
 - **Manufacturing**: Connecting new production lines during global joint ventures
 
-## Strategic Model: Federated Orchestration for Global Enterprise Edge
+### Strategic Model: Federated Orchestration for Global Enterprise Edge
 
 ```
 +---------------------------+     +---------------------------+
@@ -177,7 +182,14 @@ This is especially vital for enterprises undergoing rapid expansion, M&A, or OT/
 
 Table X: **Federated Orchestration as a Service**. It provides a **multi-dimensional view** linking enterprise **business connectivity needs** with **technology**, **design**, and **run-model considerations**.
 
-## Appendix B: Cato vs. Coevolve — Orchestration Responsibility Matrix
+### Global Products to Investigate as part of this proposal
+
+- Cloud-Native WAN-as-a-Service
+- Global Internet Services:
+- Managed Network-as-a-Service (MNaaS):
+- SD-WAN and SASE Solutions:
+
+### Vendor Comparison — Orchestration Responsibility Matrix: Cato vs. Coevolve
 
 | Capability | Cato Networks | Coevolve / Federated Orchestrator |
 |------------|---------------|-----------------------------------|
@@ -190,11 +202,13 @@ Table X: **Federated Orchestration as a Service**. It provides a **multi-dimensi
 | SLA / Telemetry Federation | Partial (within Cato fabric only) | ✔ Full observability across domains |
 | Federated API Governance | ✖ Limited / Internal APIs | ✔ Supports multi-domain automation |
 
----
+### Intent-driven automation
 
-* * *
+**Itential and Selector partnership investigation**
+- deliver real-time, closed-loop automation for enterprise and service provider infrastructure teams
+- investigate the combined capability : "By combining real-time event detection and root cause identification from Selector with policy-driven orchestration and automated remediation from Itential, teams can now detect, diagnose, and resolve issues across hybrid environments automatically — with no manual intervention required."
 
-## References
+### References
 
 MCN 4 Towers concept: 
 - 1) Enterprise Landing Zone,
@@ -203,3 +217,6 @@ MCN 4 Towers concept:
 - 4) Complex & Business-Critical Application flows. 
 - Concept adapted from Kyndryl, Robert DeWeese.
 
+* * *
+
+---
