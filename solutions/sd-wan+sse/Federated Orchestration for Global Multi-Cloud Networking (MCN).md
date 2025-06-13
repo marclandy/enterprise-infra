@@ -44,7 +44,7 @@ The pattern emphasizes software-defined, API-driven service composition and deli
 - **Federated Orchestration Layer**: Policy engine, telemetry, and API coordination across domains
 - **ZTNA for B2B/3rd Party Access**: Role- and risk-based access control with full audit visibility
 
-## The Opportunity — Full-Scope MCN Orchestration 
+## 6. The Opportunity — Full-Scope MCN Orchestration 
 
 While existing solutions provide integrated overlays and security controls, most do not orchestrate the full physical and logical path: from enterprise edge to CSP tenant, through IX/CX fabrics and cloud routers, to SaaS front doors or data pipelines.
 
@@ -57,7 +57,7 @@ This federated model highlights a clear opportunity:
 This is especially vital for enterprises undergoing rapid expansion, M&A, or OT/IT convergence.
 
 
-## 6. Logical Architecture Overview
+## 7. Logical Architecture Overview
 
 ```
 +---------------------------+     +---------------------------+
@@ -80,7 +80,7 @@ This is especially vital for enterprises undergoing rapid expansion, M&A, or OT/
                                   +---------------------------+
 ```
 
-## 7. Operating Model Options
+## 8. Operating Model Options
 
 | Model | Description |
 |-------|-------------|
@@ -88,7 +88,7 @@ This is especially vital for enterprises undergoing rapid expansion, M&A, or OT/
 | **Co-Managed** | Enterprise manages policies; partner operates network fabric |
 | **Self-Managed + Orchestration-as-a-Service** | Internal team runs stack with external orchestration support |
 
-## 8. Use Cases
+## 9. Use Cases
 
 - **M&A Onboarding**: Rapid integration of acquired entities into existing cloud and WAN environments
 - **Remote OT & SCADA Access**: Secure and optimized paths for telemetry and control systems
@@ -96,7 +96,7 @@ This is especially vital for enterprises undergoing rapid expansion, M&A, or OT/
 - **Multi-Cloud Peering**: Seamless transport across CSP tenants for distributed workloads
 - **SaaS Acceleration**: Performance optimization for Microsoft 365, Salesforce, Zoom, etc.
 
-## 9. Recommendations for Next Steps
+## 10. Recommendations for Next Steps
 
 1. Establish customer connectivity requirements across, Telcos, SD-WAN, SASE, cloud, SaaS.
 2. Map existing provider and platform relationships (Telco, IX/CX, Cloud)
