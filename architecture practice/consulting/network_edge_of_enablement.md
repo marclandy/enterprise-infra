@@ -104,6 +104,8 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 <details>
 <summary><strong> 👉 Cross-Domain Projects – Typically Support, Consult to & Elevate</strong></summary>
 
+[refer to contribution matrix](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/consulting/net%20arch%20charter,%20cross-domain%20projects,%20overview.md#cross-domain-projects--contribution-matrix)
+
 | Project Name | Typical Role | Why You're Needed |
 |--------------|---------------|-------------------|
 | Cyber Security Programs | Contributor | Microsegmentation, SASE integration |
