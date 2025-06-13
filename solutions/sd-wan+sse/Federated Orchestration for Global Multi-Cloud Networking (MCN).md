@@ -136,7 +136,7 @@ This proposal enables enterprises to abstract service delivery complexity, autom
                           +-------------+
 ```
 
-### **Enterprise Connectivity Needs Across Domains**
+### **Enterprise Connectivity Needs | Delivery View**
 
 | **Connectivity Domain** | **Customer Requirement** | **Products / Services** | **Professional Services Scope** | **Operational/Managed Services Needs (TBA)** |
 | --- | --- | --- | --- | --- |
