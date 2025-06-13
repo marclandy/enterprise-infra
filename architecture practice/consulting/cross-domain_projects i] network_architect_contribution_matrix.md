@@ -1,7 +1,5 @@
 <details>
-<summary><strong> 👉
-## Key Network Architecture Principles Across All Projects:
-</strong></summary>
+<summary> Key Network Architecture Principles Across All Projects: </summary>
   
 | Principles | Description | 
 |------------|-------------|
