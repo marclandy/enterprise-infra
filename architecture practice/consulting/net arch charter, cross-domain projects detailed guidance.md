@@ -210,8 +210,6 @@ Kubernetes Cluster Network Design:
 
 </details> 
 
----
-
 <details>
 <summary><strong> 5. Integration Platforms (ESB/API) </strong></summary>
 
@@ -234,8 +232,6 @@ Internet → External DMZ → Internal DMZ → Application Network
 - **Zone C:** Backend integration services
 
 </details>  
-
----
 
 <details>
 <summary><strong> 6. EUC/VDI Modernisation (Azure AVD + Citrix + AWS WorkSpaces) </strong></summary>
@@ -304,8 +300,6 @@ On-Premises DC ←→ AWS (Direct Connect)
 - Update "End User Computing Standard" with multi-cloud networking section
 
 </details>  
-
----
 
 <details>
 <summary><strong> 7. Data Platform Initiatives (Databricks + AWS + Azure) </strong></summary>
@@ -381,7 +375,7 @@ AS 65001 (Primary DC) ←→ AS 65002 (DR DC)
 </details>
 
 <details>
-<summary><strong> ## 8. Observability & ITOM Uplift (Cloud-Native: DataDog + New Relic + Sumo Logic) </strong></summary>
+<summary><strong> 8. Observability & ITOM Uplift (Cloud-Native: DataDog + New Relic + Sumo Logic) </strong></summary>
 
 ### Multi-Tenant Monitoring Architecture
 
