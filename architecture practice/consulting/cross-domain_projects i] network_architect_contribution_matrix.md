@@ -1,3 +1,19 @@
+<details>
+<summary><strong> 👉
+## Key Network Architecture Principles Across All Projects:
+</strong></summary>
+  
+| Principles | Description | 
+|------------|-------------|
+| **Security-First Design:** | Every project should incorporate network security controls from the ground up, not as an afterthought. |
+| **Scalability Planning:** | Design network solutions that can grow with business needs and handle projected traffic volumes. |
+| **Resilience & Redundancy:** | Ensure network designs include appropriate failover mechanisms and eliminate single points of failure. |
+| **Performance Optimization:** | Consider latency, bandwidth, and QoS requirements specific to each application or service. |
+| **Operational Excellence:** | Design networks that are monitorable, manageable, and supportable by operations teams. |
+| **Standards Compliance:** | Ensure all network designs align with enterprise architecture standards and regulatory requirements. |
+  
+</details>  
+
 # Network Architect Cross-Domain Project Contribution Matrix
 
 | Project Name | Typical Role | Why You're Needed | Network Architect Contribution Items |
@@ -11,16 +27,3 @@
 | **Data Platform Initiatives** | Support | Peering, IP range mgmt, transit encryption | • Design data center interconnect architecture<br/>• Plan IP address management and subnet allocation strategies<br/>• Design network encryption for data in transit<br/>• Plan network peering arrangements and BGP routing<br/>• Assess bandwidth requirements for large data transfers<br/>• Design network isolation for sensitive data workloads<br/>• Plan network monitoring for data flow visibility |
 | **Observability & ITOM Uplift** | Contributor | Infra telemetry, SNMP, syslog, CMDB | • Design centralized logging and telemetry collection architecture<br/>• Plan SNMP monitoring infrastructure and polling strategies<br/>• Design syslog forwarding and aggregation topology<br/>• Plan network discovery and asset inventory automation<br/>• Design monitoring network isolation and out-of-band management<br/>• Plan bandwidth allocation for monitoring traffic<br/>• Review network device configuration management integration |
 
-## Key Network Architecture Principles Across All Projects:
-
-**Security-First Design:** Every project should incorporate network security controls from the ground up, not as an afterthought.
-
-**Scalability Planning:** Design network solutions that can grow with business needs and handle projected traffic volumes.
-
-**Resilience & Redundancy:** Ensure network designs include appropriate failover mechanisms and eliminate single points of failure.
-
-**Performance Optimization:** Consider latency, bandwidth, and QoS requirements specific to each application or service.
-
-**Operational Excellence:** Design networks that are monitorable, manageable, and supportable by operations teams.
-
-**Standards Compliance:** Ensure all network designs align with enterprise architecture standards and regulatory requirements.
