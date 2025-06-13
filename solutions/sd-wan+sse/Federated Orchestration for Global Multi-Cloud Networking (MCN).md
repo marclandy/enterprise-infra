@@ -68,14 +68,14 @@ This is especially vital for enterprises undergoing rapid expansion, M&A, or OT/
              v                                 v
 +---------------------------+     +---------------------------+
 | IX/CX Fabric (Megaport,   |<--->| Cloud Interconnect (CSPs) |
-| Equinix, ConsoleConnect)  |     | AWS DX, Azure Peering,   |
+| Equinix, ConsoleConnect)  |     | AWS DX, Azure Peering,    |
 +---------------------------+     | GCP                       |
              |                    +---------------------------+
              v                                 |
-+---------------------------+                 v
++---------------------------+                  v
 | Telco / Circuit Underlay  |<--->+---------------------------+
 | (BT, Orange, AT&T)        |     | Federated Orchestration   |
-+---------------------------+     | Hub (e.g., Coevolve,     |
++---------------------------+     | Hub (e.g., Coevolve,      |
                                   | Custom NOC)               |
                                   +---------------------------+
 ```
