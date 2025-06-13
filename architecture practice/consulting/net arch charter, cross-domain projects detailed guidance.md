@@ -92,8 +92,9 @@ Corporate Core: 10.0.0.0/8
 
 ---
 
-## 2. IAM & Certificate Platforms (Microsoft Cloud PKI + Cisco ISE)
-
+<details>
+<summary><strong> 2. IAM & Certificate Platforms (Microsoft Cloud PKI + Cisco ISE) </strong></summary>
+  
 ### NAC Deployment Architecture & Switch Port Configurations
 
 **802.1X Deployment Phases:**
@@ -139,9 +140,12 @@ Root CA: Offline (air-gapped)
 - PKI Infrastructure Standard: Add network isolation requirements
 - Certificate Lifecycle Standard: Include network-based distribution methods
 
+</details>  
+
 ---
 
-## 3. SaaS Migrations (O365 Focus)
+<details>
+<summary><strong> 3. SaaS Migrations (O365 Focus) </strong></summary>
 
 ### Internet Breakout Strategy & Local Egress Points
 
@@ -176,9 +180,12 @@ Hub Sites: Concentrated breakout
 - Teams meetings: 500Kbps-8Mbps per participant
 - OneDrive sync: Burst to 80% available bandwidth
 
+</details>  
+
 ---
 
-## 4. DevOps & Container Platforms
+<details>
+<summary><strong> 4. DevOps & Container Platforms </strong></summary>
 
 ### Container Networking (CNI) Strategy
 
@@ -229,9 +236,12 @@ Internet → External DMZ → Internal DMZ → Application Network
 - **Zone B:** Internal API endpoints (corporate applications)
 - **Zone C:** Backend integration services
 
+</details>  
+
 ---
 
-## 6. EUC/VDI Modernisation (Azure AVD + Citrix + AWS WorkSpaces)
+<details>
+<summary><strong> 6. EUC/VDI Modernisation (Azure AVD + Citrix + AWS WorkSpaces) </strong></summary>
 
 ### Low-Latency Network Paths for VDI Traffic
 
@@ -295,6 +305,8 @@ On-Premises DC ←→ AWS (Direct Connect)
 **Standards Updates Required:**
 - New "Virtual Desktop Infrastructure Network Standard"
 - Update "End User Computing Standard" with multi-cloud networking section
+
+</details>  
 
 ---
 
