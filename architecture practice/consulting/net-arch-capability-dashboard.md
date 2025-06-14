@@ -20,7 +20,7 @@ ml-medium.com, arch & design-articles
 | **Infrastructure, Data Center Hosting, and Remote site services** | [Solution Architecture — Web Application Firewall (WAF) and DDoS Protection](https://medium.com/@marclandy.me/solution-architecture-web-application-firewall-waf-and-ddos-protection-1101bf6cac31) |
 | " " | [Endpoint Reference Architecture & Solution Design](https://medium.com/@marclandy.me/endpoint-reference-architecture-solution-design-7a9074cb9cf2) |
 | " " | [EUC Reference Architecture](https://medium.com/@marclandy.me/euc-reference-architecture-83286cb1c359) |
-| " " | [Application Delivery | EUC](https://medium.com/@marclandy.me/application-delivery-euc-5b4112bcb081) |
+| " " | [Application Delivery - EUC](https://medium.com/@marclandy.me/application-delivery-euc-5b4112bcb081) |
 | " " | [Enterprise DNS Management](https://medium.com/@marclandy.me/enterprise-dns-management-fe5efafa1b33) |
 | " " | [Single Sign-On (SSO) options in an Enterprise Customer Environment with On-Prem F5 LTM & GTM and…](https://medium.com/@marclandy.me/sso-option-in-an-enterprise-customer-environment-with-on-prem-f5-ltm-gtm-and-adfs-67c3af079f93) |
 | " " | [Enterprise uplift to SD-WAN many-to-many model (i.e. transition to SSE readiness)](https://medium.com/@marclandy.me/enterprise-uplift-to-sd-wan-many-to-many-model-i-e-transition-to-sse-readiness-6337f2d7a18b) |
