@@ -33,12 +33,15 @@ Network Architecture is no longer confined to cabling and uptime. I operate at a
 
 ## Where I Sit in the Architecture Stack
 
-Work closely with:
+<details>
+<summary><strong> Work closely with, </strong></summary>
 - Security Architects: to enforce trust zones, SSE, microsegmentation
 - Cloud & Platform Architects: to land workloads securely and predictably
 - Data & Application Architects: to ensure data flows and latency profiles are respected
 - IAM Architects: to support device identity, network-based access, and certificate services
 - OT Engineers: to bridge traditionally isolated plant networks with modern IT capabilities
+
+</details>
 
 ---
 
@@ -59,6 +62,7 @@ Note - I am increasingly taking on more Infrastructure scope as when the need ar
 - Enterprise ALZ Customisation package
 - Enterprise Cloud PKI use-case automation
 - Productising ZTNA, 802.1x and Conditional Access controls integration
+
 ---
 
 ## Typical Projects I Lead
