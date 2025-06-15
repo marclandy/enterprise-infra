@@ -19,7 +19,7 @@
 
 ## Why This Matters
 
-Network Architecture is no longer confined to cabling and uptime. 
+Network Architecture is no longer confined to cabling and uptime.<br> 
 I operate at a critical junction, **where digital enablement meets enterprise control**.<br> 
 
 My work enables:
