@@ -112,7 +112,7 @@
 
 ---
 
-### ml-github-repo
+### my github repo
 
 <details>
 <summary><strong> Architecture Practise </strong></summary>
