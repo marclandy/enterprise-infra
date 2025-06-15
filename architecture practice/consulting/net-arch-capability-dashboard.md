@@ -114,7 +114,9 @@
 
 ### ml-github-repo
 
-#### Architecture Practise
+<details>
+<summary><strong> Architecture Practise </strong></summary>
+ 
 | Github link | Value | Benefit |
 |------------:|:------|:--------|
 | [Deliverables-Prefunding](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/LeanIX/docs/pre-funding%20deliverables.md)| Structured governance framework | Reduces project risk and ensures alignment |
@@ -123,7 +125,10 @@
 | [ICT Assessments](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/customer-ict-assessment/ict-assessment-readme.md)| Systematic evaluation methodology | Identifies gaps and optimization opportunities |
 | [Network Arch Key Principles](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/consulting/net%20arch%20charter%2C%20cross-domain%20projects%2C%20overview.md)| Strategic design foundation | Ensures scalable and consistent architecture |
 
-#### Network Architecture : Projects Typically Led
+</details>
+
+<details>
+<summary><strong> Network Architecture : Projects Typically Led </strong></summary>
 
 | Category | Github link | Value | Benefit |
 |---------:|------------:|:------|:--------|
@@ -136,7 +141,10 @@
 |ZTNA/Secure Access Architecture|[ NAC Cisco ISE RW ](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/Cisco%20ISE/cisco%20ise%20technical%20review.md)| ISE implementation assessment | Identifies optimization and security gaps |
 |ZTNA/Secure Access Architecture|[Aruba ClearPass NAC Configuration and Operational Guide](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/solutions/wireless/nac/Aruba%20ClearPass%20NAC%20Configuration%20and%20Operational%20Guide.md)| Multi-vendor NAC capability | Provides vendor-agnostic security solutions |
 
-#### Cross-Domain Projects : Typically Support, Consult to & Elevate
+</details>
+
+<details>
+<summary><strong> Cross-Domain Projects : Typically Support, Consult to & Elevate </strong></summary>
 
 | Category | Github link | Value | Benefit |
 |---------:|------------:|:------|:--------|
@@ -149,8 +157,11 @@
 |IAM|[PKI Digital Certificate Management Standard v1.0](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/deliverables/infrastructure%20standards/PKI-Digital%20Certificate%20Management%20Standard%20v1.0.md)| Certificate lifecycle governance | Ensures security and operational efficiency |
 |EUC/VDI Modernisation|[Microsoft Intune](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/collaborations%20and%20comms/Microsoft%20Intune.md)| Device management strategy | Improves security and user experience |
 
-#### Infrastructure Architecture : Secondary Projects 
+</details>
 
+<details>
+<summary><strong> Infrastructure Architecture : Secondary Projects </strong></summary>
+ 
 | Category | Github link | Value | Benefit |
 |---------:|------------:|:------|:--------|
 |Enterprise Landing-Zone Builds|[ALZ Network Design SAD](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/deliverables/enterprise%20alz/Enterprise%20Alz%20Network%20Design%20SAD.md)| Cloud foundation architecture | Accelerates secure cloud adoption |
@@ -159,3 +170,5 @@
 |Ent-Landing-Zone:Compute and Storage Refresh|[AWS EC2 Decision Framework](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/deliverables/infrastructure%20standards/aws_ec2_decision%20framework.md)| Cloud compute optimization | Reduces costs and improves performance |
 |Disaster Recovery Refresh|[Backup & DR Technical Design Framework](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/Enterprise%20Backup%20and%20DR/Hybrid%20Infrastructure-Technical%20Design%20Framework.md)| Business continuity strategy | Ensures resilience and compliance |
 |Infra Modernisation|[Virtualization Knowledge Framework WP](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/virtualisation/Hyper-V%2C%20VMware%20ESX.md)| Virtualization expertise | Optimizes infrastructure efficiency |
+
+</details>
