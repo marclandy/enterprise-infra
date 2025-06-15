@@ -124,14 +124,6 @@ Guidance expectations:
 
 [Strategic areas of ALZ Consulting](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/deliverables/enterprise%20alz/Strategic%20Areas%20of%20ALZ%20Consulting%20Value.md)
 
----
-
-## Common Cross-Domain Projects I Support
-
-See appendix below for full project tables.
-
----
-
 ## Conclusion
 
 The role of Network Architecture is evolving, but it remains essential. I **enable business outcomes**, **reduce architectural risk**, and **ensure every digital initiative has a reliable foundation**, all while bridging the edge, the core, and the cloud.
