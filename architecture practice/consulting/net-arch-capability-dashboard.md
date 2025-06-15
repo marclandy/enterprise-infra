@@ -5,6 +5,8 @@
 <details>
 <summary><strong> 👉 Network Architecture – Projects Typically Led</strong></summary>
 
+</details>
+
 <details>
 <summary><strong> Communication and Collaboration services </strong></summary>
 
@@ -15,7 +17,7 @@
 
 </details>
 
-</details>
+
 
 
 | Category | Medium Article Link | Value |
