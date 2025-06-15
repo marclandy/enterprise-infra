@@ -83,9 +83,10 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 ## Appendix: 
 
 ### Expand for Full Project Tables
+- one-page dashboard view: download [pptx](https://github.com/marclandy/enterprise-infra/blob/b81f9aeb170ddc7899a1c826a3275451625d5900/architecture%20practice/consulting/ML-Technology-Capabilities-Delivered-v0.1.pptx)
 
 <details>
-<summary><strong> 👉 Network Architecture – Projects Typically Led</strong></summary>
+<summary><strong> Network Architecture – Projects Typically Led</strong></summary>
 
 | Project Name | Typical Scope/Trigger | Role Type |
 |--------------|------------------------|-----------|
@@ -127,7 +128,7 @@ Objectives:
 </details>
 
 <details>
-<summary><strong> 👉 Infrastructure Architecture – Secondary Projects Typically Led</strong></summary>
+<summary><strong> Infrastructure Architecture – Secondary Projects Typically Led</strong></summary>
 - My next full-time roles, I'd look to expand my Infrastructure capability to complete all items below.
 
 | Project Name | Typical Scope/Trigger | Role Type |
