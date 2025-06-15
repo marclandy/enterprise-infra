@@ -19,8 +19,10 @@
 
 ## Why This Matters
 
-Network Architecture is no longer confined to cabling and uptime. I operate at a critical junction, **where digital enablement meets enterprise control**. My work enables:
+Network Architecture is no longer confined to cabling and uptime. 
+I operate at a critical junction, **where digital enablement meets enterprise control**.<br> 
 
+My work enables:
 - **Secure, performant access** to cloud, apps, and data.
 - **Operational resilience** across distributed and remote environments.
 - **Transformation programs** like M&A, hybrid cloud, and IT/OT convergence.
