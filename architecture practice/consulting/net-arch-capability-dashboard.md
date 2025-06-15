@@ -15,7 +15,7 @@
 </details>
 
 <details>
-<summary><strong> Communication and Collaboration services </strong></summary>
+<summary><strong> IT/OT Convergence or Segmentation services </strong></summary>
 
 | Category | Medium Article Link | Value |
 |----------|--------------------|-------------------------------------|
