@@ -15,7 +15,7 @@
 ▫ ***Balance*** local decision-making with global alignment, contributing to federated enterprise models where autonomy and consistency must coexist.<br>
 ▫ ***Produce*** high-quality architecture artefacts on time, supporting effective delivery and stakeholder confidence through the project lifecycle.<br>
 
----
+--
 
 ## Why This Matters
 
@@ -30,7 +30,7 @@ My work enables:
 - **Technology lifecycle stewardship** to avoid risk and cost blowout.
 - **Harnessing emerging technology** to create market differentiation and digital advantage.
 
----
+--
 
 ## Where I Sit in the Architecture Stack
 
