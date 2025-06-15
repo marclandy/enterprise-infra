@@ -1,14 +1,14 @@
 
-<details>
-<summary><strong> 👉 Network Architecture – Projects Typically Led</strong></summary>
-
 # Enterprise – Network Architecture
 *ml-medium.com, arch & design-articles*
 
 <details>
+<summary><strong> 👉 Network Architecture – Projects Typically Led</strong></summary>
+
+<details>
 <summary><strong> Communication and Collaboration services </strong></summary>
 | Category | Medium Article Link | Value |
-|----------|--------------------:|:-------------------------------------|
+|----------|--------------------|-------------------------------------|
 | **Communication and Collaboration services** | [Microsoft Communication & Collaboration](https://medium.com/@marclandy.me/microsoft-communication-collaboration-e7478aab2af8) | M365 ecosystem integration - Critical for modern hybrid workforce enablement |
 
 </details>
