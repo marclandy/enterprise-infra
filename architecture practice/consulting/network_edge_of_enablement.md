@@ -105,14 +105,6 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 <details>
 <summary><strong> Cross-Domain Projects – Typical Consulting guidance to elevate program and product led initiatives </strong></summary>
 
-Objectives:
-- These customer engagements are smaller projects, each with negotiable levels of committment designed to govern the project scope items & ensure delivery outcomes.
-- support a diverse range of domains, tailoring deliverables to sutiable the project phase & set of requirements, refer to the breakdown below;
-- the linked pages, expand on the summary table below, assiting Project Managers with assessing [resourcing](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/consulting/net%20arch%20charter,%20cross-domain%20projects,%20overview.md#cross-domain-projects--contribution-matrix), based on the scope & project team can get an idea of [discussion points](https://github.com/marclandy/enterprise-infra/blob/f671561d85c32769a001038d4e77311219d97f36/architecture%20practice/consulting/net%20arch%20charter%2C%20cross-domain%20projects%20detailed%20guidance.md).
-Guidance expectations:  
-- [Net Arch Contribution Matrix](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/consulting/net%20arch%20charter,%20cross-domain%20projects,%20overview.md#cross-domain-projects--contribution-matrix)      
-- [Adaptable Project Guidance](https://github.com/marclandy/enterprise-infra/blob/f671561d85c32769a001038d4e77311219d97f36/architecture%20practice/consulting/net%20arch%20charter%2C%20cross-domain%20projects%20detailed%20guidance.md)
-  
 | Project Name | Typical Role | Why Net Arch is Needed |
 |--------------|---------------|-------------------|
 | Cyber Security Programs | Contributor | Microsegmentation, SASE integration |
@@ -124,6 +116,15 @@ Guidance expectations:
 | Data Platform Initiatives | Support | Peering, IP range mgmt, transit encryption |
 | Observability & ITOM Uplift | Contributor | Infra telemetry, SNMP, syslog, CMDB feeds |
 
+Objectives:
+- These customer engagements are smaller projects, each with negotiable levels of committment designed to govern the project scope items & ensure delivery outcomes.
+- support a diverse range of domains, tailoring deliverables to sutiable the project phase & set of requirements, refer to the breakdown below;
+- the linked pages, expand on the summary table below, assiting Project Managers with assessing [resourcing](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/consulting/net%20arch%20charter,%20cross-domain%20projects,%20overview.md#cross-domain-projects--contribution-matrix), based on the scope & project team can get an idea of [discussion points](https://github.com/marclandy/enterprise-infra/blob/f671561d85c32769a001038d4e77311219d97f36/architecture%20practice/consulting/net%20arch%20charter%2C%20cross-domain%20projects%20detailed%20guidance.md).
+
+Guidance expectations:  
+- [Net Arch Contribution Matrix](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/consulting/net%20arch%20charter,%20cross-domain%20projects,%20overview.md#cross-domain-projects--contribution-matrix)      
+- [Adaptable Project Guidance](https://github.com/marclandy/enterprise-infra/blob/f671561d85c32769a001038d4e77311219d97f36/architecture%20practice/consulting/net%20arch%20charter%2C%20cross-domain%20projects%20detailed%20guidance.md)
+  
 </details>
 
 <details>
