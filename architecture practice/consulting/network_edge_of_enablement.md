@@ -146,6 +146,6 @@ Objectives:
 
 ---
 
-## Network & Infrastructure Architecture Medium.com articles, 
+## Network & Infrastructure : *Medium.com* architecture & design articles, 
 
-all category view | [medium about profile](https://medium.com/@marclandy.me/lists) 
+all category view | [*medium about profile*](https://medium.com/@marclandy.me/lists) 
