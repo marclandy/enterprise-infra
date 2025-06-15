@@ -35,6 +35,7 @@ Network Architecture is no longer confined to cabling and uptime. I operate at a
 
 <details>
 <summary><strong> Work closely with, </strong></summary>
+
 - Security Architects: to enforce trust zones, SSE, microsegmentation
 - Cloud & Platform Architects: to land workloads securely and predictably
 - Data & Application Architects: to ensure data flows and latency profiles are respected
