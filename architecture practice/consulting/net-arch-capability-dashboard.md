@@ -3,7 +3,7 @@
 *ml-medium.com, arch & design-articles*
 
 <details>
-<summary><strong> 👉 Network Architecture – Projects Typically Led</strong></summary>
+<summary><strong> Network Architecture – Projects Typically Led</strong></summary>
 
 <details>
 <summary><strong> Communication and Collaboration services </strong></summary>
@@ -14,18 +14,25 @@
 
 </details>
 
+<details>
+<summary><strong> Communication and Collaboration services </strong></summary>
+
+| Category | Medium Article Link | Value |
+|----------|--------------------|-------------------------------------|
+| **IT/OT Convergence or Segmentation services** | [Modern Enterprise Campus Design, 802.1x isn't going away](https://medium.com/@marclandy.me/modern-enterprise-campus-design-79d8d33c47c5) | Zero Trust campus access; Balances security with operational efficiency |
+| " " | [Campus design — wireless and wired](https://medium.com/@marclandy.me/campus-design-wireless-and-wired-1ae9ddf626fb) | Converged infrastructure design; Reduces complexity and operational overhead |
+| " " | [Zero Trust in Wi-Fi networking and secure device onboarding](https://medium.com/@marclandy.me/zero-trust-in-wi-fi-networking-and-secure-device-onboarding-f9c19b58d6d5) | BYOD/IoT security at scale; Modern wireless Zero Trust implementation |
+| " " | [Retail Wi-Fi Standard](https://medium.com/@marclandy.me/retail-wi-fi-standard-9470830a82af) | Customer experience optimization; Multi-site public Wi-Fi architecture |
+| " " | [Mid-Tier Enterprise with existing Cisco SD-WAN & Palo Alto FWs look to Aruba SD-Branch for Campus](https://medium.com/@marclandy.me/mid-tier-enterprise-with-existing-cisco-sd-wan-palo-alto-fws-look-to-aruba-sd-branch-for-campus-4a84aa36dbe9) | Multi-vendor integration expertise; Pragmatic technology transformation |
+| " " | [Cisco ACI Technical Review](https://medium.com/@marclandy.me/cisco-aci-technical-review-f3f7314b3e51) | SDN investment evaluation; Strategic data center technology assessment |
+
 </details>
 
 
-| Category | Medium Article Link | Value |
-|----------|--------------------:|:-------------------------------------|
-| **Communication and Collaboration services** | [Microsoft Communication & Collaboration](https://medium.com/@marclandy.me/microsoft-communication-collaboration-e7478aab2af8) | M365 ecosystem integration - Critical for modern hybrid workforce enablement |
-| **IT/OT Convergence or Segmentation services** | [Modern Enterprise Campus Design, 802.1x isn't going away](https://medium.com/@marclandy.me/modern-enterprise-campus-design-79d8d33c47c5) | Zero Trust campus access - Balances security with operational efficiency |
-| " " | [Campus design — wireless and wired](https://medium.com/@marclandy.me/campus-design-wireless-and-wired-1ae9ddf626fb) | Converged infrastructure design - Reduces complexity and operational overhead |
-| " " | [Zero Trust in Wi-Fi networking and secure device onboarding](https://medium.com/@marclandy.me/zero-trust-in-wi-fi-networking-and-secure-device-onboarding-f9c19b58d6d5) | BYOD/IoT security at scale - Modern wireless Zero Trust implementation |
-| " " | [Retail Wi-Fi Standard](https://medium.com/@marclandy.me/retail-wi-fi-standard-9470830a82af) | Customer experience optimization - Multi-site public Wi-Fi architecture |
-| " " | [Mid-Tier Enterprise with existing Cisco SD-WAN & Palo Alto FWs look to Aruba SD-Branch for Campus](https://medium.com/@marclandy.me/mid-tier-enterprise-with-existing-cisco-sd-wan-palo-alto-fws-look-to-aruba-sd-branch-for-campus-4a84aa36dbe9) | Multi-vendor integration expertise - Pragmatic technology transformation |
-| " " | [Cisco ACI Technical Review](https://medium.com/@marclandy.me/cisco-aci-technical-review-f3f7314b3e51) | SDN investment evaluation - Strategic data center technology assessment |
+
+</details>
+
+
 | **Cloud Integration services** | [Cross-Hyperscaler Network Connectivity (AWS ↔ Azure)](https://medium.com/@marclandy.me/cross-hyperscaler-network-connectivity-aws-azure-d2a62d7fe2f2) | Multi-cloud networking mastery - Avoids vendor lock-in, optimizes costs |
 | " " | [Modernisation of Enterprise Cloud Network & Infrastructure Landscape \| HLA](https://medium.com/@marclandy.me/modernisation-of-enterprise-cloud-network-infrastructure-landscape-hla-8e6085fca16e) | Infrastructure transformation roadmaps - Strategic modernization planning |
 | " " | [The Towers of Multi-Cloud Network](https://medium.com/@marclandy.me/the-towers-of-multi-cloud-network-8aa3dbdb4d1f) | Standardized cloud patterns - Scalable, repeatable connectivity solutions |
