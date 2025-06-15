@@ -28,6 +28,18 @@
 
 </details>
 
+<details>
+<summary><strong> Cloud Integration services </strong></summary>
+
+| Medium Article Link | Value |
+|---------------------|-------------------------------------|
+| [Cross-Hyperscaler Network Connectivity (AWS ↔ Azure)](https://medium.com/@marclandy.me/cross-hyperscaler-network-connectivity-aws-azure-d2a62d7fe2f2) | Multi-cloud networking mastery - Avoids vendor lock-in, optimizes costs |
+| [Modernisation of Enterprise Cloud Network & Infrastructure Landscape \| HLA](https://medium.com/@marclandy.me/modernisation-of-enterprise-cloud-network-infrastructure-landscape-hla-8e6085fca16e) | Infrastructure transformation roadmaps - Strategic modernization planning |
+| [The Towers of Multi-Cloud Network](https://medium.com/@marclandy.me/the-towers-of-multi-cloud-network-8aa3dbdb4d1f) | Standardized cloud patterns - Scalable, repeatable connectivity solutions |
+| [Public IaaS/PaaS Hub-and-Spoke](https://medium.com/@marclandy.me/public-iaas-paas-hub-and-spoke-721e6dce1c6a) | Cloud-native networking - Cost-effective, enterprise-scale architectures |
+| [Cloud Workload & Platform Assessment](https://medium.com/@marclandy.me/cloud-workload-platform-assessment-74426ff95fea) | Migration strategy optimization - Workload placement and cost alignment |
+| [Cloud Disaster Recovery Strategy](https://medium.com/@marclandy.me/cloud-disaster-recovery-strategy-55b5bc739a59) | Business continuity assurance - Cloud-based resilience and compliance |
+
 </details>
 
 
