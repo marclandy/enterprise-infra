@@ -63,28 +63,6 @@ Note - I am increasingly taking on more Infrastructure scope as when the need ar
 
 ## Typical Projects I Lead
 
-See appendix below for per domain view or 
-
-[Strategic areas of ALZ Consulting](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/deliverables/enterprise%20alz/Strategic%20Areas%20of%20ALZ%20Consulting%20Value.md)
-
----
-
-## Common Cross-Domain Projects I Support
-
-See appendix below for full project tables.
-
----
-
-## Conclusion
-
-The role of Network Architecture is evolving, but it remains essential. I **enable business outcomes**, **reduce architectural risk**, and **ensure every digital initiative has a reliable foundation**, all while bridging the edge, the core, and the cloud.
-
----
-
-## Appendix: 
-
-### Expand for Full Project Tables
-
 <details>
 <summary><strong> Network Architecture – Projects Typically Led</strong></summary>
 
@@ -144,8 +122,24 @@ Guidance expectations:
 
 </details>
 
+[Strategic areas of ALZ Consulting](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/deliverables/enterprise%20alz/Strategic%20Areas%20of%20ALZ%20Consulting%20Value.md)
+
 ---
 
-## Network & Infrastructure : *Medium.com* architecture & design articles, 
+## Common Cross-Domain Projects I Support
+
+See appendix below for full project tables.
+
+---
+
+## Conclusion
+
+The role of Network Architecture is evolving, but it remains essential. I **enable business outcomes**, **reduce architectural risk**, and **ensure every digital initiative has a reliable foundation**, all while bridging the edge, the core, and the cloud.
+
+---
+
+## Appendix: 
+
+### Network & Infrastructure : *Medium.com* architecture & design articles, 
 
 all category view | [*medium about profile*](https://medium.com/@marclandy.me/lists) 
