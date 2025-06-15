@@ -122,7 +122,7 @@
 | [ICT Assessments](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/customer-ict-assessment/ict-assessment-readme.md)| <> | <> |
 | [Network Arch Key Principles](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/consulting/net%20arch%20charter%2C%20cross-domain%20projects%2C%20overview.md)| <> | <> |
 
-#### ml-github-repo: Network Architecture – Projects Typically Led
+#### Network Architecture – Projects Typically Led
 
 | Category | Github link | Value | Benefit |
 |---------:|------------:|:------|:--------|
@@ -135,7 +135,7 @@
 |Net:ZTNA/Secure Access Architecture|[ NAC Cisco ISE RW ](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/Cisco%20ISE/cisco%20ise%20technical%20review.md)| <> | <> |
 |Net:ZTNA/Secure Access Architecture|[Aruba ClearPass NAC Configuration and Operational Guide](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/solutions/wireless/nac/Aruba%20ClearPass%20NAC%20Configuration%20and%20Operational%20Guide.md)| <> | <> |
 
-#### ml-github-repo: Cross-Domain Projects – Typically Support, Consult to & Elevate
+#### Cross-Domain Projects – Typically Support, Consult to & Elevate
 
 | Category | Github link | Value | Benefit |
 |---------:|------------:|:------|:--------|
@@ -148,7 +148,7 @@
 |Cross-Domain:IAM|[PKI Digital Certificate Management Standard v1.0](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/deliverables/infrastructure%20standards/PKI-Digital%20Certificate%20Management%20Standard%20v1.0.md)| <> | <> |
 |Cross-Domain:EUC/VDI Modernisation|[Microsoft Intune](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/collaborations%20and%20comms/Microsoft%20Intune.md)| <> | <> |
 
-#### ml-github-repo: Infrastructure Architecture – Projects Typically Led
+#### Infrastructure Architecture – Projects Typically Led
 
 | Category | Github link | Value | Benefit |
 |---------:|------------:|:------|:--------|
