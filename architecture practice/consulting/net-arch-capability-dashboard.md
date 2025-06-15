@@ -4,7 +4,7 @@
 
 <details>
 <summary><strong> Network Architecture – Projects Typically Led</strong></summary>
-
+👉 Select the network capability of interest from the list below; 
 <details>
 <summary><strong> Communication and Collaboration services </strong></summary>
 
@@ -16,7 +16,6 @@
 
 <details>
 <summary><strong> IT/OT Convergence or Segmentation services </strong></summary>
-
 | Category | Medium Article Link | Value |
 |----------|--------------------|-------------------------------------|
 | **IT/OT Convergence or Segmentation services** | [Modern Enterprise Campus Design, 802.1x isn't going away](https://medium.com/@marclandy.me/modern-enterprise-campus-design-79d8d33c47c5) | Zero Trust campus access; Balances security with operational efficiency |
@@ -27,8 +26,6 @@
 | " " | [Cisco ACI Technical Review](https://medium.com/@marclandy.me/cisco-aci-technical-review-f3f7314b3e51) | SDN investment evaluation; Strategic data center technology assessment |
 
 </details>
-
-
 
 </details>
 
