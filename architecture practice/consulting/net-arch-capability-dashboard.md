@@ -8,9 +8,9 @@
 <details>
 <summary><strong> Communication and Collaboration services </strong></summary>
 
-| Category | Medium Article Link | Value |
-|----------|--------------------|-------------------------------------|
-| **Communication and Collaboration services** | [Microsoft Communication & Collaboration](https://medium.com/@marclandy.me/microsoft-communication-collaboration-e7478aab2af8) | M365 ecosystem integration Critical for modern hybrid workforce enablement |
+| Medium Article Link | Value |
+|---------------------|-------------------------------------|
+| [Microsoft Communication & Collaboration](https://medium.com/@marclandy.me/microsoft-communication-collaboration-e7478aab2af8) | M365 ecosystem integration Critical for modern hybrid workforce enablement |
 
 </details>
 
@@ -19,7 +19,7 @@
 
 | Medium Article Link | Value |
 |---------------------|-------------------------------------|
-| **IT/OT Convergence or Segmentation services** | [Modern Enterprise Campus Design, 802.1x isn't going away](https://medium.com/@marclandy.me/modern-enterprise-campus-design-79d8d33c47c5) | Zero Trust campus access; Balances security with operational efficiency |
+| [Modern Enterprise Campus Design, 802.1x isn't going away](https://medium.com/@marclandy.me/modern-enterprise-campus-design-79d8d33c47c5) | Zero Trust campus access; Balances security with operational efficiency |
 | [Campus design — wireless and wired](https://medium.com/@marclandy.me/campus-design-wireless-and-wired-1ae9ddf626fb) | Converged infrastructure design; Reduces complexity and operational overhead |
 | [Zero Trust in Wi-Fi networking and secure device onboarding](https://medium.com/@marclandy.me/zero-trust-in-wi-fi-networking-and-secure-device-onboarding-f9c19b58d6d5) | BYOD/IoT security at scale; Modern wireless Zero Trust implementation |
 | [Retail Wi-Fi Standard](https://medium.com/@marclandy.me/retail-wi-fi-standard-9470830a82af) | Customer experience optimization; Multi-site public Wi-Fi architecture |
