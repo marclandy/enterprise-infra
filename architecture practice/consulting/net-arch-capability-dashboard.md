@@ -1,8 +1,8 @@
 
 # Enterprise – Network Architecture
-*1/ ml medium.com, arch & design-articles*
+*1/ ml medium.com, arch & design-articles* 👇
 
-*2/ ml github repo, contains network, cross-domain and infrastructure capability artefacts*
+*2/ ml github repo, contains network, cross-domain and infrastructure capability artefacts* 👇
 - pre-funding deliverables; whitepapers, 
 - deliverables; business-case, solution architecture deliverable; high-level designs; design frameworks; options papers; guidance artefacts
 - as the main repo readme, automation products to support select use-case will be finalised as all [three](https://github.com/marclandy/enterprise-infra/tree/marclandy-integration#whats-next) are currently in development. 
