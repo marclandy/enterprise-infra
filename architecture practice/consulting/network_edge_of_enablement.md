@@ -5,7 +5,7 @@
 ## Marc Landy – Enterprise Network Architect
 
 **Overarching Objective:**<br>		
-&nbsp;&nbsp; ▫ I use the power of synthesizing Enterprise Architecture models to bridge an organisations business strategy with technical execution to ensure cost centers are viewed as digital strategic enablers.<br>
+&nbsp;&nbsp; ▫ I use the power of [ synthesizing Enterprise Architecture models ](https://medium.com/@marclandy.me/list/architecture-practice-35fbc170845d) to bridge an organisations business strategy with technical execution to ensure cost centers are viewed as digital strategic enablers.<br>
 
 **Purpose:**<br>						
 &nbsp;&nbsp; ▫ This charter defines the architectural value and strategic capability that Network [ *delivers* ]( https://github.com/marclandy/enterprise-infra/blob/cc569da1f34197d25de3acfd46dcbd451cf79a5c/architecture%20practice/consulting/net-arch-capability-dashboard.md ) within complex enterprise programs, particularly across large-scale, regulated, and hybrid environments.<br>
