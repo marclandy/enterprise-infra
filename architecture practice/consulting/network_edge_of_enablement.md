@@ -15,8 +15,6 @@
 ▫ ***Balance*** local decision-making with global alignment, contributing to federated enterprise models where autonomy and consistency must coexist.<br>
 ▫ ***Produce*** high-quality architecture artefacts on time, supporting effective delivery and stakeholder confidence through the project lifecycle.<br>
 
---
-
 ## Why This Matters
 
 ▫ Network Architecture is no longer confined to cabling and uptime.<br> 
@@ -29,8 +27,6 @@ My work enables:
 - **Policy enforcement** at the network level in support of Zero Trust.
 - **Technology lifecycle stewardship** to avoid risk and cost blowout.
 - **Harnessing emerging technology** to create market differentiation and digital advantage.
-
---
 
 ## Where I Sit in the Architecture Stack
 
@@ -64,8 +60,6 @@ Note - I am increasingly taking on more Infrastructure scope as when the need ar
 - Enterprise ALZ Customisation package
 - Enterprise Cloud PKI use-case automation
 - Productising ZTNA, 802.1x and Conditional Access controls integration
-
----
 
 ## Typical Projects I Lead
 
