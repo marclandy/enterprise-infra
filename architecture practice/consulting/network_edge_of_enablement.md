@@ -62,7 +62,8 @@ Note - I am increasingly taking on more Infrastructure scope as when the need ar
 
 ## Typical Projects I Lead
 
-See appendix below for full project tables.
+See appendix below for per domain view or 
+- full project tables, one-page dashboard view: download [pptx](https://github.com/marclandy/enterprise-infra/blob/b81f9aeb170ddc7899a1c826a3275451625d5900/architecture%20practice/consulting/ML-Technology-Capabilities-Delivered-v0.1.pptx)
 
 [Strategic areas of ALZ Consulting](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/deliverables/enterprise%20alz/Strategic%20Areas%20of%20ALZ%20Consulting%20Value.md)
 
@@ -83,7 +84,6 @@ The role of Network Architecture is evolving, but it remains essential. I **enab
 ## Appendix: 
 
 ### Expand for Full Project Tables
-- one-page dashboard view: download [pptx](https://github.com/marclandy/enterprise-infra/blob/b81f9aeb170ddc7899a1c826a3275451625d5900/architecture%20practice/consulting/ML-Technology-Capabilities-Delivered-v0.1.pptx)
 
 <details>
 <summary><strong> Network Architecture – Projects Typically Led</strong></summary>
