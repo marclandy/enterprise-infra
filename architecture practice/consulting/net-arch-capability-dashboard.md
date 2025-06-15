@@ -1,6 +1,7 @@
 
 # Enterprise – Network Architecture
 *1/ ml medium.com, arch & design-articles*
+
 *2/ ml github repo, contains network, cross-domain and infrastructure capability artefacts*
 - pre-funding deliverables; whitepapers, 
 - deliverables; business-case, solution architecture deliverable; high-level designs; design frameworks; options papers; guidance artefacts
