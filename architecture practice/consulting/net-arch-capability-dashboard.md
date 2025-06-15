@@ -9,7 +9,7 @@
 <summary><strong> Communication and Collaboration services </strong></summary>
 
 | Medium Article Link | Value |
-|---------------------|-------------------------------------|
+|--------------------:|:------------------------------------|
 | [Microsoft Communication & Collaboration](https://medium.com/@marclandy.me/microsoft-communication-collaboration-e7478aab2af8) | M365 ecosystem integration Critical for modern hybrid workforce enablement |
 
 </details>
