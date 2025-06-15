@@ -32,41 +32,76 @@
 <summary><strong> Cloud Integration services </strong></summary>
 
 | Medium Article Link | Value |
-|---------------------|-------------------------------------|
-| [Cross-Hyperscaler Network Connectivity (AWS ↔ Azure)](https://medium.com/@marclandy.me/cross-hyperscaler-network-connectivity-aws-azure-d2a62d7fe2f2) | Multi-cloud networking mastery - Avoids vendor lock-in, optimizes costs |
-| [Modernisation of Enterprise Cloud Network & Infrastructure Landscape \| HLA](https://medium.com/@marclandy.me/modernisation-of-enterprise-cloud-network-infrastructure-landscape-hla-8e6085fca16e) | Infrastructure transformation roadmaps - Strategic modernization planning |
-| [The Towers of Multi-Cloud Network](https://medium.com/@marclandy.me/the-towers-of-multi-cloud-network-8aa3dbdb4d1f) | Standardized cloud patterns - Scalable, repeatable connectivity solutions |
-| [Public IaaS/PaaS Hub-and-Spoke](https://medium.com/@marclandy.me/public-iaas-paas-hub-and-spoke-721e6dce1c6a) | Cloud-native networking - Cost-effective, enterprise-scale architectures |
-| [Cloud Workload & Platform Assessment](https://medium.com/@marclandy.me/cloud-workload-platform-assessment-74426ff95fea) | Migration strategy optimization - Workload placement and cost alignment |
-| [Cloud Disaster Recovery Strategy](https://medium.com/@marclandy.me/cloud-disaster-recovery-strategy-55b5bc739a59) | Business continuity assurance - Cloud-based resilience and compliance |
+|--------------------:|:------------------------------------|
+| [Cross-Hyperscaler Network Connectivity (AWS ↔ Azure)](https://medium.com/@marclandy.me/cross-hyperscaler-network-connectivity-aws-azure-d2a62d7fe2f2) | Multi-cloud networking mastery; Avoids vendor lock-in, optimizes costs |
+| [Modernisation of Enterprise Cloud Network & Infrastructure Landscape \| HLA](https://medium.com/@marclandy.me/modernisation-of-enterprise-cloud-network-infrastructure-landscape-hla-8e6085fca16e) | Infrastructure transformation roadmaps; Strategic modernization planning |
+| [The Towers of Multi-Cloud Network](https://medium.com/@marclandy.me/the-towers-of-multi-cloud-network-8aa3dbdb4d1f) | Standardized cloud patterns; Scalable, repeatable connectivity solutions |
+| [Public IaaS/PaaS Hub-and-Spoke](https://medium.com/@marclandy.me/public-iaas-paas-hub-and-spoke-721e6dce1c6a) | Cloud-native networking; Cost-effective, enterprise-scale architectures |
+| [Cloud Workload & Platform Assessment](https://medium.com/@marclandy.me/cloud-workload-platform-assessment-74426ff95fea) | Migration strategy optimization; Workload placement and cost alignment |
+| [Cloud Disaster Recovery Strategy](https://medium.com/@marclandy.me/cloud-disaster-recovery-strategy-55b5bc739a59) | Business continuity assurance; Cloud-based resilience and compliance |
 
 </details>
 
+<details>
+<summary><strong> Infrastructure, Data Center Hosting, and Remote site services </strong></summary>
 
-| **Cloud Integration services** | [Cross-Hyperscaler Network Connectivity (AWS ↔ Azure)](https://medium.com/@marclandy.me/cross-hyperscaler-network-connectivity-aws-azure-d2a62d7fe2f2) | Multi-cloud networking mastery - Avoids vendor lock-in, optimizes costs |
-| " " | [Modernisation of Enterprise Cloud Network & Infrastructure Landscape \| HLA](https://medium.com/@marclandy.me/modernisation-of-enterprise-cloud-network-infrastructure-landscape-hla-8e6085fca16e) | Infrastructure transformation roadmaps - Strategic modernization planning |
-| " " | [The Towers of Multi-Cloud Network](https://medium.com/@marclandy.me/the-towers-of-multi-cloud-network-8aa3dbdb4d1f) | Standardized cloud patterns - Scalable, repeatable connectivity solutions |
-| " " | [Public IaaS/PaaS Hub-and-Spoke](https://medium.com/@marclandy.me/public-iaas-paas-hub-and-spoke-721e6dce1c6a) | Cloud-native networking - Cost-effective, enterprise-scale architectures |
-| " " | [Cloud Workload & Platform Assessment](https://medium.com/@marclandy.me/cloud-workload-platform-assessment-74426ff95fea) | Migration strategy optimization - Workload placement and cost alignment |
-| " " | [Cloud Disaster Recovery Strategy](https://medium.com/@marclandy.me/cloud-disaster-recovery-strategy-55b5bc739a59) | Business continuity assurance - Cloud-based resilience and compliance |
-| **Infrastructure, Data Center Hosting, and Remote site services** | [Solution Architecture — Web Application Firewall (WAF) and DDoS Protection](https://medium.com/@marclandy.me/solution-architecture-web-application-firewall-waf-and-ddos-protection-1101bf6cac31) | Application security architecture - Digital transformation threat protection |
-| " " | [Endpoint Reference Architecture & Solution Design](https://medium.com/@marclandy.me/endpoint-reference-architecture-solution-design-7a9074cb9cf2) | Modern device management - Diverse ecosystem security and compliance |
-| " " | [EUC Reference Architecture](https://medium.com/@marclandy.me/euc-reference-architecture-83286cb1c359) | Workplace experience optimization - Hybrid workforce technology enablement |
-| " " | [Application Delivery - EUC](https://medium.com/@marclandy.me/application-delivery-euc-5b4112bcb081) | Performance consistency - User experience across diverse access scenarios |
-| " " | [Enterprise DNS Management](https://medium.com/@marclandy.me/enterprise-dns-management-fe5efafa1b33) | Foundational service mastery - Critical infrastructure and security control |
-| " " | [Single Sign-On (SSO) options in an Enterprise Customer Environment with On-Prem F5 LTM & GTM and…](https://medium.com/@marclandy.me/sso-option-in-an-enterprise-customer-environment-with-on-prem-f5-ltm-gtm-and-adfs-67c3af079f93) | Legacy integration expertise - Seamless identity modernization continuity |
-| " " | [Enterprise uplift to SD-WAN many-to-many model (i.e. transition to SSE readiness)](https://medium.com/@marclandy.me/enterprise-uplift-to-sd-wan-many-to-many-model-i-e-transition-to-sse-readiness-6337f2d7a18b) | Future-ready WAN transformation - Strategic SSE preparation and evolution |
-| **Automation - Infrastructure, Cloud, Network, and Server** | [Multi-Cloud Networking (MCN) Part two…Automating the Cloud Infra-stack](https://medium.com/@marclandy.me/multi-cloud-networking-mcn-part-two-automating-the-cloud-infra-stack-bdfa920e78bc) | Infrastructure as Code - Scalable automation and operational consistency |
-| **Cyber security and Identity management services** | [Azure Conditional Access: Technical Review](https://medium.com/@marclandy.me/azure-conditional-access-technical-review-c22c76ed3b18) | Risk-based access control - Zero Trust policy implementation expertise |
-| " " | [Azure AD & Intune: conditional access deployment, part 1 of 2](https://medium.com/@marclandy.me/azure-ad-intune-conditional-access-deployment-part-1-of-2-6830ae6e86d6) | Microsoft security deployment - Practical M365 security optimization |
-| " " | [Hybrid AD Authentication & Enterprise Considerations](https://medium.com/@marclandy.me/hybrid-ad-authentication-enterprise-considerations-bd96368d3693) | Identity transformation planning - Complex hybrid architecture management |
-| " " | [Corporate IT ZTNA Blueprint integrated with Netskope's SSE platform](https://medium.com/@marclandy.me/corporate-it-ztna-blueprint-integrated-with-netskopes-sse-platform-f916adbd1290) | Enterprise ZTNA architecture - Remote access security modernization |
-| " " | [Security & Compliance across Enterprise Infrastructure estate](https://medium.com/@marclandy.me/cyber-security-and-identity-management-services-e662b6147348) | Holistic security governance - Cross-domain compliance and risk management |
-| " " | [Governing Entra ID security solutions: Windows, Storage, Backup & Patching](https://medium.com/@marclandy.me/governing-entra-id-security-solutions-windows-storage-backup-patching-205151a2a4fc) | Microsoft ecosystem security - Integrated identity and endpoint protection |
-| " " | [Microsoft Entra, Modern Identity & Access Solutions](https://medium.com/@marclandy.me/microsoft-entra-modern-identity-access-solutions-b5bee47a5aa1) | Next-gen identity platform - Contemporary workplace identity architecture |
-| " " | [Netskope Proxy Solution Options](https://medium.com/@marclandy.me/netskope-proxy-solution-options-b92ea3e97d35) | SSE platform expertise - Modern internet access security architecture |
-| **IT Policies and Standards** | [Multiple Digital & Cloud RACIs are required for enterprise customers to improve project outcomes](https://medium.com/@marclandy.me/multiple-digital-cloud-racis-are-required-for-enterprise-customers-to-improve-project-outcomes-8d82752e561f) | Governance framework design - Improves delivery predictability and outcomes |
-| **Architecture Practice** | [How can a Network architect deliver projects viewed as a strategic enabler vs…](https://medium.com/@marclandy.me/network-infrastructure-contribution-to-architecture-practice-e18a3271ac20) | Strategic business alignment - Positions technology as competitive advantage |
+| Medium Article Link | Value |
+|--------------------:|:------------------------------------|
+| [Solution Architecture — Web Application Firewall (WAF) and DDoS Protection](https://medium.com/@marclandy.me/solution-architecture-web-application-firewall-waf-and-ddos-protection-1101bf6cac31) | Application security architecture; Digital transformation threat protection |
+| [Endpoint Reference Architecture & Solution Design](https://medium.com/@marclandy.me/endpoint-reference-architecture-solution-design-7a9074cb9cf2) | Modern device management; Diverse ecosystem security and compliance |
+| [EUC Reference Architecture](https://medium.com/@marclandy.me/euc-reference-architecture-83286cb1c359) | Workplace experience optimization; Hybrid workforce technology enablement |
+| [Application Delivery - EUC](https://medium.com/@marclandy.me/application-delivery-euc-5b4112bcb081) | Performance consistency; User experience across diverse access scenarios |
+| [Enterprise DNS Management](https://medium.com/@marclandy.me/enterprise-dns-management-fe5efafa1b33) | Foundational service mastery; Critical infrastructure and security control |
+| [Single Sign-On (SSO) options in an Enterprise Customer Environment with On-Prem F5 LTM & GTM and…](https://medium.com/@marclandy.me/sso-option-in-an-enterprise-customer-environment-with-on-prem-f5-ltm-gtm-and-adfs-67c3af079f93) | Legacy integration expertise; Seamless identity modernization continuity |
+| [Enterprise uplift to SD-WAN many-to-many model (i.e. transition to SSE readiness)](https://medium.com/@marclandy.me/enterprise-uplift-to-sd-wan-many-to-many-model-i-e-transition-to-sse-readiness-6337f2d7a18b) | Future-ready WAN transformation; Strategic SSE preparation and evolution |
+
+</details>
+
+<details>
+<summary><strong> Automation - Infrastructure, Cloud, Network, and Server </strong></summary>
+
+| Medium Article Link | Value |
+|--------------------:|:------------------------------------|
+| [Multi-Cloud Networking (MCN) Part two…Automating the Cloud Infra-stack](https://medium.com/@marclandy.me/multi-cloud-networking-mcn-part-two-automating-the-cloud-infra-stack-bdfa920e78bc) | Infrastructure as Code; Scalable automation and operational consistency |
+
+</details>
+
+<details>
+<summary><strong> Cyber security and Identity management services </strong></summary>
+
+| Medium Article Link | Value |
+|--------------------:|:------------------------------------|
+| [Azure Conditional Access: Technical Review](https://medium.com/@marclandy.me/azure-conditional-access-technical-review-c22c76ed3b18) | Risk-based access control; Zero Trust policy implementation expertise |
+| [Azure AD & Intune: conditional access deployment, part 1 of 2](https://medium.com/@marclandy.me/azure-ad-intune-conditional-access-deployment-part-1-of-2-6830ae6e86d6) | Microsoft security deployment; Practical M365 security optimization |
+| [Hybrid AD Authentication & Enterprise Considerations](https://medium.com/@marclandy.me/hybrid-ad-authentication-enterprise-considerations-bd96368d3693) | Identity transformation planning; Complex hybrid architecture management |
+| [Corporate IT ZTNA Blueprint integrated with Netskope's SSE platform](https://medium.com/@marclandy.me/corporate-it-ztna-blueprint-integrated-with-netskopes-sse-platform-f916adbd1290) | Enterprise ZTNA architecture; Remote access security modernization |
+| [Security & Compliance across Enterprise Infrastructure estate](https://medium.com/@marclandy.me/cyber-security-and-identity-management-services-e662b6147348) | Holistic security governance; Cross-domain compliance and risk management |
+| [Governing Entra ID security solutions: Windows, Storage, Backup & Patching](https://medium.com/@marclandy.me/governing-entra-id-security-solutions-windows-storage-backup-patching-205151a2a4fc) | Microsoft ecosystem security; Integrated identity and endpoint protection |
+| [Microsoft Entra, Modern Identity & Access Solutions](https://medium.com/@marclandy.me/microsoft-entra-modern-identity-access-solutions-b5bee47a5aa1) | Next-gen identity platform; Contemporary workplace identity architecture |
+| [Netskope Proxy Solution Options](https://medium.com/@marclandy.me/netskope-proxy-solution-options-b92ea3e97d35) | SSE platform expertise; Modern internet access security architecture |
+
+</details>
+
+<details>
+<summary><strong> IT Policies and Standards </strong></summary>
+
+| Medium Article Link | Value |
+|--------------------:|:------------------------------------|
+| [Multiple Digital & Cloud RACIs are required for enterprise customers to improve project outcomes](https://medium.com/@marclandy.me/multiple-digital-cloud-racis-are-required-for-enterprise-customers-to-improve-project-outcomes-8d82752e561f) | Governance framework design; Improves delivery predictability and outcomes |
+
+</details>
+
+<details>
+<summary><strong> Architecture Practice </strong></summary>
+
+| Medium Article Link | Value |
+|--------------------:|:------------------------------------|
+
+| [How can a Network architect deliver projects viewed as a strategic enabler vs…](https://medium.com/@marclandy.me/network-infrastructure-contribution-to-architecture-practice-e18a3271ac20) | Strategic business alignment; Positions technology as competitive advantage |
+
+</details>
+
+</details>
 
 ---
 
