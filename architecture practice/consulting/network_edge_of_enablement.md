@@ -63,7 +63,7 @@ Note - I am increasingly taking on more Infrastructure scope as when the need ar
 ## Typical Projects I Lead
 
 See appendix below for per domain view or 
-- full project tables, **one-page** dashboard view: **download** [pptx](https://github.com/marclandy/enterprise-infra/blob/b81f9aeb170ddc7899a1c826a3275451625d5900/architecture%20practice/consulting/ML-Technology-Capabilities-Delivered-v0.1.pptx)
+- full project tables (head straight [my capability dashboard](https://github.com/marclandy/enterprise-infra/blob/cc569da1f34197d25de3acfd46dcbd451cf79a5c/architecture%20practice/consulting/net-arch-capability-dashboard.md), or **one-page** dashboard view: **download** [pptx](https://github.com/marclandy/enterprise-infra/blob/b81f9aeb170ddc7899a1c826a3275451625d5900/architecture%20practice/consulting/ML-Technology-Capabilities-Delivered-v0.1.pptx)
 
 [Strategic areas of ALZ Consulting](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/deliverables/enterprise%20alz/Strategic%20Areas%20of%20ALZ%20Consulting%20Value.md)
 
