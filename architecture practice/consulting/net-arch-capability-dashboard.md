@@ -122,39 +122,39 @@
 | [ICT Assessments](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/customer-ict-assessment/ict-assessment-readme.md)| <> | <> |
 | [Network Arch Key Principles](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/consulting/net%20arch%20charter%2C%20cross-domain%20projects%2C%20overview.md)| <> | <> |
 
-#### Network Architecture – Projects Typically Led
+#### Network Architecture : Projects Typically Led
 
 | Category | Github link | Value | Benefit |
 |---------:|------------:|:------|:--------|
-|Net:Ent WAN/SD-WAN Modernisation|[Federated Orchestration for Global Multi-Cloud Networking (MCN)](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/solutions/sd-wan%2Bsse/Federated%20Orchestration%20for%20Global%20Multi-Cloud%20Networking%20(MCN).md)| <> | <> |
-|Net:Ent WAN/SD-WAN Modernisation|[SSE Customer Requirements](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/solutions/sd-wan%2Bsse/SSE%20Customer%20Requirements.md)| <> | <> |
-|Net:Cloud Network Integration|[ER Technical Options Analysis](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/options%20analysis/azure/expressroute/ExpressRoute%20options.md)| <> | <> |
-|Net:Cloud Network Integration|[Azure Multi-region DR scenarios introduce DNS resolution complexities](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/CSP%20Improvement%20Tracking/Azure/Multi-region%20DR%20scenarios%20introduce%20DNS%20resolution%20complexities.md)| <> | <> |
-|Net:Cloud Network Integration|[SD-WAN and Firewall Solutions Within an Azure Hub-and-Spoke Architecture](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/options%20analysis/azure/sdwan-integration-in-hub-and-spoke-network/int-sd-wan-h%26s.md)| <> | <> |
-|Net:ZTNA/Secure Access Architecture|[Cisco ISE NAC Configuration and Operations Guide](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/solutions/wireless/nac/Cisco%20ISE%20NAC%20Configuration%20and%20Operations%20Guide.md)|
-|Net:ZTNA/Secure Access Architecture|[ NAC Cisco ISE RW ](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/Cisco%20ISE/cisco%20ise%20technical%20review.md)| <> | <> |
-|Net:ZTNA/Secure Access Architecture|[Aruba ClearPass NAC Configuration and Operational Guide](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/solutions/wireless/nac/Aruba%20ClearPass%20NAC%20Configuration%20and%20Operational%20Guide.md)| <> | <> |
+|Enterprise WAN/SD-WAN Modernisation|[Federated Orchestration for Global Multi-Cloud Networking (MCN)](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/solutions/sd-wan%2Bsse/Federated%20Orchestration%20for%20Global%20Multi-Cloud%20Networking%20(MCN).md)| <> | <> |
+|Enterprise WAN/SD-WAN Modernisation|[SSE Customer Requirements](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/solutions/sd-wan%2Bsse/SSE%20Customer%20Requirements.md)| <> | <> |
+|Cloud Network Integration|[ER Technical Options Analysis](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/options%20analysis/azure/expressroute/ExpressRoute%20options.md)| <> | <> |
+|Cloud Network Integration|[Azure Multi-region DR scenarios introduce DNS resolution complexities](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/CSP%20Improvement%20Tracking/Azure/Multi-region%20DR%20scenarios%20introduce%20DNS%20resolution%20complexities.md)| <> | <> |
+|Cloud Network Integration|[SD-WAN and Firewall Solutions Within an Azure Hub-and-Spoke Architecture](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/options%20analysis/azure/sdwan-integration-in-hub-and-spoke-network/int-sd-wan-h%26s.md)| <> | <> |
+|ZTNA/Secure Access Architecture|[Cisco ISE NAC Configuration and Operations Guide](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/solutions/wireless/nac/Cisco%20ISE%20NAC%20Configuration%20and%20Operations%20Guide.md)|
+|ZTNA/Secure Access Architecture|[ NAC Cisco ISE RW ](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/Cisco%20ISE/cisco%20ise%20technical%20review.md)| <> | <> |
+|ZTNA/Secure Access Architecture|[Aruba ClearPass NAC Configuration and Operational Guide](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/solutions/wireless/nac/Aruba%20ClearPass%20NAC%20Configuration%20and%20Operational%20Guide.md)| <> | <> |
 
-#### Cross-Domain Projects – Typically Support, Consult to & Elevate
+#### Cross-Domain Projects : Typically Support, Consult to & Elevate
 
 | Category | Github link | Value | Benefit |
 |---------:|------------:|:------|:--------|
 |Comms-Collab|[O365 Technical Design & Operations Framework](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/collaborations%20and%20comms/o365-day0%2C1%2C2-guide.md)| <> | <> |
-|Cross-Domain:Sec Program|[Threat preventation mechanisms](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/security/threat%20prevention/azure%20threat%20prevention%20mechanisms.md)| <> | <> |
-|Cross-Domain:Sec Program|[Cloud Sec CSPN SSPM DSPM OA](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/options%20analysis/cloud%20security%20capability/cloud%20security%20capability%20readme.md)| <> | <> |
-|Cross-Domain:IAM & Certificate Platforms|[ndes-vs-cloud-options OA](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/options%20analysis/certificates/ndes-vs-cloud-options.md)| <> | <> |
-|Cross-Domain:ALL|[projects detailed guidance](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/consulting/net%20arch%20charter%2C%20cross-domain%20projects%20detailed%20guidance.md)| <> | <> |
-|Cross-Domain:IAM|[PKI Certificate WP](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/whitepapers/enterprise%20pki%20whitepaper.md)| <> | <> |
-|Cross-Domain:IAM|[PKI Digital Certificate Management Standard v1.0](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/deliverables/infrastructure%20standards/PKI-Digital%20Certificate%20Management%20Standard%20v1.0.md)| <> | <> |
-|Cross-Domain:EUC/VDI Modernisation|[Microsoft Intune](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/collaborations%20and%20comms/Microsoft%20Intune.md)| <> | <> |
+|Security Program|[Threat preventation mechanisms](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/security/threat%20prevention/azure%20threat%20prevention%20mechanisms.md)| <> | <> |
+|Security Program|[Cloud Sec CSPN SSPM DSPM OA](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/options%20analysis/cloud%20security%20capability/cloud%20security%20capability%20readme.md)| <> | <> |
+|IAM & Certificate Platforms|[ndes-vs-cloud-options OA](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/options%20analysis/certificates/ndes-vs-cloud-options.md)| <> | <> |
+|ALL|[projects detailed guidance](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/consulting/net%20arch%20charter%2C%20cross-domain%20projects%20detailed%20guidance.md)| <> | <> |
+|IAM|[PKI Certificate WP](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/whitepapers/enterprise%20pki%20whitepaper.md)| <> | <> |
+|IAM|[PKI Digital Certificate Management Standard v1.0](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/deliverables/infrastructure%20standards/PKI-Digital%20Certificate%20Management%20Standard%20v1.0.md)| <> | <> |
+|EUC/VDI Modernisation|[Microsoft Intune](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/collaborations%20and%20comms/Microsoft%20Intune.md)| <> | <> |
 
-#### Infrastructure Architecture – Projects Typically Led
+#### Infrastructure Architecture : Secondary Projects 
 
 | Category | Github link | Value | Benefit |
 |---------:|------------:|:------|:--------|
-|Infra:LZ Builds|[ALZ Network Design SAD](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/deliverables/enterprise%20alz/Enterprise%20Alz%20Network%20Design%20SAD.md)| <> | <> |
-|Infra:LZ |[Strategic Areas of ALZ Consulting Value](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/deliverables/enterprise%20alz/Strategic%20Areas%20of%20ALZ%20Consulting%20Value.md)| <> | <> |
-|Infra:LZ |[ALZ Network Service Patterns Decision Workbook](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/deliverables/enterprise%20alz/Enterprise%20ALZ%20Network%20Service%20Patterns_Network%20Design%20Decision%20Workbook.md)| <> | <> |
-|Infra:Compute and Storage Refresh|[AWS EC2 Decision Framework](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/deliverables/infrastructure%20standards/aws_ec2_decision%20framework.md)| <> | <> |
-|Infra:Disaster Recovery Refresh|[Backup & DR Technical Design Framework](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/Enterprise%20Backup%20and%20DR/Hybrid%20Infrastructure-Technical%20Design%20Framework.md)| <> | <> |
-|Infra EUC/VDI Modernisation|[Virtualization Knowledge Framework WP](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/virtualisation/Hyper-V%2C%20VMware%20ESX.md)| <> | <> |
+|Enterprise Landing-Zone Builds|[ALZ Network Design SAD](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/deliverables/enterprise%20alz/Enterprise%20Alz%20Network%20Design%20SAD.md)| <> | <> |
+|Ent-Landing-Zone |[Strategic Areas of ALZ Consulting Value](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/deliverables/enterprise%20alz/Strategic%20Areas%20of%20ALZ%20Consulting%20Value.md)| <> | <> |
+|Ent-Landing-Zone |[ALZ Network Service Patterns Decision Workbook](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/deliverables/enterprise%20alz/Enterprise%20ALZ%20Network%20Service%20Patterns_Network%20Design%20Decision%20Workbook.md)| <> | <> |
+|Ent-Landing-Zone:Compute and Storage Refresh|[AWS EC2 Decision Framework](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/deliverables/infrastructure%20standards/aws_ec2_decision%20framework.md)| <> | <> |
+|Disaster Recovery Refresh|[Backup & DR Technical Design Framework](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/Enterprise%20Backup%20and%20DR/Hybrid%20Infrastructure-Technical%20Design%20Framework.md)| <> | <> |
+|Infra Modernisation|[Virtualization Knowledge Framework WP](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/virtualisation/Hyper-V%2C%20VMware%20ESX.md)| <> | <> |
