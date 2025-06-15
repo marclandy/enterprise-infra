@@ -127,7 +127,8 @@ Objectives:
 </details>
 
 <details>
-<summary><strong> 👉 Infrastructure Architecture – Projects Typically Led</strong></summary>
+<summary><strong> 👉 Infrastructure Architecture – Secondary Projects Typically Led</strong></summary>
+- My next full-time roles, I'd look to expand my Infrastructure capability to complete all items below.
 
 | Project Name | Typical Scope/Trigger | Role Type |
 |--------------|------------------------|-----------|
@@ -147,87 +148,3 @@ Objectives:
 ## Network & Infrastructure Architecture Medium.com articles, 
 
 all category view | [medium about profile](https://medium.com/@marclandy.me/lists) 
-
-OR
-
-expand, per capability
-
-<details>
-<summary><strong> 👉 Architecture Practice</strong></summary>
-
-| Article Category link |
-|-----------------------|
-|[Architecture Practice](https://medium.com/@marclandy.me/list/architecture-practice-35fbc170845d)|
-</details>  
-
-
-<details>
-<summary><strong> 👉 Network and Connectivity services </strong></summary>
-
-| Article Category link |
-|-----------------------|
-|[Network and Connectivity](https://medium.com/@marclandy.me/list/network-and-connectivity-services-4927fa329ab5)|
-</details>  
-
-<details>
-<summary><strong> 👉 Communication and Collaboration services</strong></summary>
-
-| Article Category link |
-|-----------------------|
-| [Communication and Collaboration services](https://medium.com/@marclandy.me/list/communication-and-collaboration-services-acc3ab81a47a) |
-
-</details>
-
-<details>
-<summary><strong> 👉 IT/OT Convergence or Segmentation services</strong></summary>
-
-| Article Category link |
-|-----------------------|
-| [IT/OT Convergence or Segmentation services](https://medium.com/@marclandy.me/list/itot-convergence-or-segmentation-services-cf606697a960) |
-
-</details>
-
-<details>
-<summary><strong> 👉 Cloud Integration services</strong></summary>
-
-| Article Category link |
-|-----------------------|
-|[Cloud Integration services](https://medium.com/@marclandy.me/list/cloud-integration-services-5a7feb18d491) |
-
-</details>
-
-<details>
-<summary><strong> 👉 Infrastructure, Data Center Hosting, and Remote site services</strong></summary>
-
-| Article Category link |
-|-----------------------|
-| [Infrastructure, Data Center Hosting, and Remote site services](https://medium.com/@marclandy.me/list/infrastructure-data-center-hosting-and-remote-site-services-063c154fb27c) |
-
-</details>
-
-<details>
-<summary><strong> 👉 Automation - Infrastructure, Cloud, Network, and Server</strong></summary>
-
-| Article Category link |
-|-----------------------|
-| [Automation - Infrastructure, Cloud, Network, and Server](https://medium.com/@marclandy.me/list/automation-infrastructure-cloud-network-and-server-404527298944) |
-
-</details>
-
-<details>
-<summary><strong> 👉 Cyber security and Identity management services</strong></summary>
-
-| Article Category link |
-|-----------------------|
-| [Cyber security and Identity management services](https://medium.com/@marclandy.me/list/cyber-security-and-identity-management-services-450925523195) |
-
-</details>
-
-<details>
-<summary><strong> 👉 IT Policies and Standards</strong></summary>
-
-| Article Category link |
-|-----------------------|
-| [IT Policies and Standards](coming soon...tba) |
-
-</details>  
