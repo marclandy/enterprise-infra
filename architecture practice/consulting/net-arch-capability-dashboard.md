@@ -17,14 +17,14 @@
 <details>
 <summary><strong> IT/OT Convergence or Segmentation services </strong></summary>
 
-| Category | Medium Article Link | Value |
-|----------|--------------------|-------------------------------------|
+| Medium Article Link | Value |
+|---------------------|-------------------------------------|
 | **IT/OT Convergence or Segmentation services** | [Modern Enterprise Campus Design, 802.1x isn't going away](https://medium.com/@marclandy.me/modern-enterprise-campus-design-79d8d33c47c5) | Zero Trust campus access; Balances security with operational efficiency |
-| " " | [Campus design — wireless and wired](https://medium.com/@marclandy.me/campus-design-wireless-and-wired-1ae9ddf626fb) | Converged infrastructure design; Reduces complexity and operational overhead |
-| " " | [Zero Trust in Wi-Fi networking and secure device onboarding](https://medium.com/@marclandy.me/zero-trust-in-wi-fi-networking-and-secure-device-onboarding-f9c19b58d6d5) | BYOD/IoT security at scale; Modern wireless Zero Trust implementation |
-| " " | [Retail Wi-Fi Standard](https://medium.com/@marclandy.me/retail-wi-fi-standard-9470830a82af) | Customer experience optimization; Multi-site public Wi-Fi architecture |
-| " " | [Mid-Tier Enterprise with existing Cisco SD-WAN & Palo Alto FWs look to Aruba SD-Branch for Campus](https://medium.com/@marclandy.me/mid-tier-enterprise-with-existing-cisco-sd-wan-palo-alto-fws-look-to-aruba-sd-branch-for-campus-4a84aa36dbe9) | Multi-vendor integration expertise; Pragmatic technology transformation |
-| " " | [Cisco ACI Technical Review](https://medium.com/@marclandy.me/cisco-aci-technical-review-f3f7314b3e51) | SDN investment evaluation; Strategic data center technology assessment |
+| [Campus design — wireless and wired](https://medium.com/@marclandy.me/campus-design-wireless-and-wired-1ae9ddf626fb) | Converged infrastructure design; Reduces complexity and operational overhead |
+| [Zero Trust in Wi-Fi networking and secure device onboarding](https://medium.com/@marclandy.me/zero-trust-in-wi-fi-networking-and-secure-device-onboarding-f9c19b58d6d5) | BYOD/IoT security at scale; Modern wireless Zero Trust implementation |
+| [Retail Wi-Fi Standard](https://medium.com/@marclandy.me/retail-wi-fi-standard-9470830a82af) | Customer experience optimization; Multi-site public Wi-Fi architecture |
+| [Mid-Tier Enterprise with existing Cisco SD-WAN & Palo Alto FWs look to Aruba SD-Branch for Campus](https://medium.com/@marclandy.me/mid-tier-enterprise-with-existing-cisco-sd-wan-palo-alto-fws-look-to-aruba-sd-branch-for-campus-4a84aa36dbe9) | Multi-vendor integration expertise; Pragmatic technology transformation |
+| [Cisco ACI Technical Review](https://medium.com/@marclandy.me/cisco-aci-technical-review-f3f7314b3e51) | SDN investment evaluation; Strategic data center technology assessment |
 
 </details>
 
