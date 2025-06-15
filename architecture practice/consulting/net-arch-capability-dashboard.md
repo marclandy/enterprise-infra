@@ -96,7 +96,6 @@
 
 | Medium Article Link | Value |
 |--------------------:|:------------------------------------|
-
 | [How can a Network architect deliver projects viewed as a strategic enabler vs…](https://medium.com/@marclandy.me/network-infrastructure-contribution-to-architecture-practice-e18a3271ac20) | Strategic business alignment; Positions technology as competitive advantage |
 
 </details>
