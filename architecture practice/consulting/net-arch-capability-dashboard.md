@@ -7,8 +7,7 @@
 - deliverables; business-case, solution architecture deliverable; high-level designs; design frameworks; options papers; guidance artefacts
 
 <details>
-<summary><strong> <h2> Network Architecture – Projects Typically Led </h2> </strong></summary>
-  
+<summary><strong><h2> Network Architecture – Projects Typically Led </h2></strong></summary>
 👉 Select the network capability of interest from the list below; 
 <details>
 <summary><strong> Communication and Collaboration services </strong></summary>
