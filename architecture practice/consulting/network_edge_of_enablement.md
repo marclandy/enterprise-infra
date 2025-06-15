@@ -51,6 +51,7 @@ Work closely with:
 | DC and Edge Infrastructure Design | High availability, modern LAN/WAN, wireless and compute strategies. |
 | Automation & Lifecycle | Infra-as-code, observability, and asset lifecycle management. |
 | IT/OT Convergence | Secure segmentation, visibility, and enablement of OT data paths. |
+- **full project tables** (head straight [_my capability dashboard_](https://github.com/marclandy/enterprise-infra/blob/cc569da1f34197d25de3acfd46dcbd451cf79a5c/architecture%20practice/consulting/net-arch-capability-dashboard.md), or **one-page** dashboard view: **download** [_pptx_](https://github.com/marclandy/enterprise-infra/blob/b81f9aeb170ddc7899a1c826a3275451625d5900/architecture%20practice/consulting/ML-Technology-Capabilities-Delivered-v0.1.pptx)
 
 Note - I am increasingly taking on more Infrastructure scope as when the need arises on customer site. 
 
@@ -63,7 +64,6 @@ Note - I am increasingly taking on more Infrastructure scope as when the need ar
 ## Typical Projects I Lead
 
 See appendix below for per domain view or 
-- **full project tables** (head straight [_my capability dashboard_](https://github.com/marclandy/enterprise-infra/blob/cc569da1f34197d25de3acfd46dcbd451cf79a5c/architecture%20practice/consulting/net-arch-capability-dashboard.md), or **one-page** dashboard view: **download** [_pptx_](https://github.com/marclandy/enterprise-infra/blob/b81f9aeb170ddc7899a1c826a3275451625d5900/architecture%20practice/consulting/ML-Technology-Capabilities-Delivered-v0.1.pptx)
 
 [Strategic areas of ALZ Consulting](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/deliverables/enterprise%20alz/Strategic%20Areas%20of%20ALZ%20Consulting%20Value.md)
 
