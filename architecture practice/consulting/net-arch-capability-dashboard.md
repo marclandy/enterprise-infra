@@ -50,8 +50,8 @@
 <details>
 <summary><strong> Infrastructure, Data Center Hosting, and Remote site services </strong></summary>
 
-| Medium Article Link | Value |
-|--------------------:|:------------------------------------|
+| Medium Article Link | Value | Benefit |
+|--------------------:|:------|:--------|
 | [Solution Architecture — Web Application Firewall (WAF) and DDoS Protection](https://medium.com/@marclandy.me/solution-architecture-web-application-firewall-waf-and-ddos-protection-1101bf6cac31) | Application security architecture; Digital transformation threat protection |
 | [Endpoint Reference Architecture & Solution Design](https://medium.com/@marclandy.me/endpoint-reference-architecture-solution-design-7a9074cb9cf2) | Modern device management; Diverse ecosystem security and compliance |
 | [EUC Reference Architecture](https://medium.com/@marclandy.me/euc-reference-architecture-83286cb1c359) | Workplace experience optimization; Hybrid workforce technology enablement |
@@ -65,8 +65,8 @@
 <details>
 <summary><strong> Automation - Infrastructure, Cloud, Network, and Server </strong></summary>
 
-| Medium Article Link | Value |
-|--------------------:|:------------------------------------|
+| Medium Article Link | Value | Benefit |
+|--------------------:|:------|:--------|
 | [Multi-Cloud Networking (MCN) Part two…Automating the Cloud Infra-stack](https://medium.com/@marclandy.me/multi-cloud-networking-mcn-part-two-automating-the-cloud-infra-stack-bdfa920e78bc) | Infrastructure as Code; Scalable automation and operational consistency |
 
 </details>
@@ -74,8 +74,8 @@
 <details>
 <summary><strong> Cyber security and Identity management services </strong></summary>
 
-| Medium Article Link | Value |
-|--------------------:|:------------------------------------|
+| Medium Article Link | Value | Benefit |
+|--------------------:|:------|:--------|
 | [Azure Conditional Access: Technical Review](https://medium.com/@marclandy.me/azure-conditional-access-technical-review-c22c76ed3b18) | Risk-based access control; Zero Trust policy implementation expertise |
 | [Azure AD & Intune: conditional access deployment, part 1 of 2](https://medium.com/@marclandy.me/azure-ad-intune-conditional-access-deployment-part-1-of-2-6830ae6e86d6) | Microsoft security deployment; Practical M365 security optimization |
 | [Hybrid AD Authentication & Enterprise Considerations](https://medium.com/@marclandy.me/hybrid-ad-authentication-enterprise-considerations-bd96368d3693) | Identity transformation planning; Complex hybrid architecture management |
@@ -90,8 +90,8 @@
 <details>
 <summary><strong> IT Policies and Standards </strong></summary>
 
-| Medium Article Link | Value |
-|--------------------:|:------------------------------------|
+| Medium Article Link | Value | Benefit |
+|--------------------:|:------|:--------|
 | [Multiple Digital & Cloud RACIs are required for enterprise customers to improve project outcomes](https://medium.com/@marclandy.me/multiple-digital-cloud-racis-are-required-for-enterprise-customers-to-improve-project-outcomes-8d82752e561f) | Governance framework design; Improves delivery predictability and outcomes |
 
 </details>
@@ -99,8 +99,8 @@
 <details>
 <summary><strong> Architecture Practice </strong></summary>
 
-| Medium Article Link | Value |
-|--------------------:|:------------------------------------|
+| Medium Article Link | Value | Benefit |
+|--------------------:|:------|:--------|
 | [How can a Network architect deliver projects viewed as a strategic enabler vs…](https://medium.com/@marclandy.me/network-infrastructure-contribution-to-architecture-practice-e18a3271ac20) | Strategic business alignment; Positions technology as competitive advantage |
 
 </details>
@@ -116,11 +116,11 @@
 #### Architecture Practise
 | Github link | Value | Benefit |
 |------------:|:------|:--------|
-| [Deliverables-Prefunding](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/LeanIX/docs/pre-funding%20deliverables.md)|
-| [LeanIX tool integration](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/LeanIX/LeanIX-HowTo.md)|
-| [Cyber Stnds AusGov](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/deliverables/aust%20gov/aust%20gov-readme.md)|
-| [ICT Assessments](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/customer-ict-assessment/ict-assessment-readme.md)|
-| [Network Arch Key Principles](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/consulting/net%20arch%20charter%2C%20cross-domain%20projects%2C%20overview.md)|
+| [Deliverables-Prefunding](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/LeanIX/docs/pre-funding%20deliverables.md)| <> | <> |
+| [LeanIX tool integration](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/LeanIX/LeanIX-HowTo.md)| <> | <> |
+| [Cyber Stnds AusGov](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/deliverables/aust%20gov/aust%20gov-readme.md)| <> | <> |
+| [ICT Assessments](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/customer-ict-assessment/ict-assessment-readme.md)| <> | <> |
+| [Network Arch Key Principles](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/consulting/net%20arch%20charter%2C%20cross-domain%20projects%2C%20overview.md)| <> | <> |
 
 #### ml-github-repo: Network Architecture – Projects Typically Led
 
