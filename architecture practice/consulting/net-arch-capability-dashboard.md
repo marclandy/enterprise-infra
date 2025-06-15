@@ -16,6 +16,7 @@
 
 <details>
 <summary><strong> IT/OT Convergence or Segmentation services </strong></summary>
+
 | Category | Medium Article Link | Value |
 |----------|--------------------|-------------------------------------|
 | **IT/OT Convergence or Segmentation services** | [Modern Enterprise Campus Design, 802.1x isn't going away](https://medium.com/@marclandy.me/modern-enterprise-campus-design-79d8d33c47c5) | Zero Trust campus access; Balances security with operational efficiency |
