@@ -8,7 +8,7 @@
 &nbsp;&nbsp; ▫ I use the power of [ synthesizing Enterprise Architecture models ](https://medium.com/@marclandy.me/list/architecture-practice-35fbc170845d) to bridge an organisations business strategy with technical execution to ensure cost centers are viewed as digital strategic enablers.<br>
 
 **Purpose:**<br>						
-&nbsp;&nbsp; ▫ This charter defines the architectural value and strategic capability that Network [ *delivers* ]( https://github.com/marclandy/enterprise-infra/blob/cc569da1f34197d25de3acfd46dcbd451cf79a5c/architecture%20practice/consulting/net-arch-capability-dashboard.md ) within complex enterprise programs, particularly across large-scale, regulated, and hybrid environments.<br>
+&nbsp;&nbsp; ▫ This charter defines the architectural value and strategic capability that Network [ *delivers* ]( https://github.com/marclandy/enterprise-infra/blob/ad172fe11097bcc45e696931ea4f33cd7dc34554/architecture%20practice/consulting/net-arch-capability-dashboard.md ) within complex enterprise programs, particularly across large-scale, regulated, and hybrid environments.<br>
 
 **Architecture Mandate:**<br>			
 ▫ ***Deliver*** business value through solutions that integrate People, Process and Technology, ensuring fit-for-purpose outcomes across the enterprise.<br>
@@ -52,7 +52,7 @@ My work enables:
 | DC and Edge Infrastructure Design | High availability, modern LAN/WAN, wireless and compute strategies. |
 | Automation & Lifecycle | Infra-as-code, observability, and asset lifecycle management. |
 | IT/OT Convergence | Secure segmentation, visibility, and enablement of OT data paths. |
-- **full project tables** (head straight [_my capability dashboard_](https://github.com/marclandy/enterprise-infra/blob/cc569da1f34197d25de3acfd46dcbd451cf79a5c/architecture%20practice/consulting/net-arch-capability-dashboard.md), or **download one-page** dashboard view: [_powerpoint_](https://github.com/marclandy/enterprise-infra/raw/refs/heads/marclandy-integration/architecture%20practice/consulting/ML-Technology-Capabilities-Delivered-v0.3.pptx)
+- **full project tables** (head straight [_my capability dashboard_](https://github.com/marclandy/enterprise-infra/blob/ad172fe11097bcc45e696931ea4f33cd7dc34554/architecture%20practice/consulting/net-arch-capability-dashboard.md), or **download one-page** dashboard view: [_powerpoint_](https://github.com/marclandy/enterprise-infra/raw/refs/heads/marclandy-integration/architecture%20practice/consulting/ML-Technology-Capabilities-Delivered-v0.3.pptx)
 
 Note - I am increasingly taking on more Infrastructure scope as when the need arises on customer site. 
 
