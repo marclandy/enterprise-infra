@@ -52,7 +52,7 @@ My work enables:
 | DC and Edge Infrastructure Design | High availability, modern LAN/WAN, wireless and compute strategies. |
 | Automation & Lifecycle | Infra-as-code, observability, and asset lifecycle management. |
 | IT/OT Convergence | Secure segmentation, visibility, and enablement of OT data paths. |
-- **full project tables** (head straight [_my capability dashboard_](https://github.com/marclandy/enterprise-infra/blob/cc569da1f34197d25de3acfd46dcbd451cf79a5c/architecture%20practice/consulting/net-arch-capability-dashboard.md), or **download one-page** dashboard view: [_powerpoint_](https://github.com/marclandy/enterprise-infra/blob/4ca7748efeb5e6f2cddcb8e9f53ee9ff1973d690/architecture%20practice/consulting/ML-Technology-Capabilities-Delivered-v0.3.pptx)
+- **full project tables** (head straight [_my capability dashboard_](https://github.com/marclandy/enterprise-infra/blob/cc569da1f34197d25de3acfd46dcbd451cf79a5c/architecture%20practice/consulting/net-arch-capability-dashboard.md), or **download one-page** dashboard view: [_powerpoint_](https://github.com/marclandy/enterprise-infra/raw/refs/heads/marclandy-integration/architecture%20practice/consulting/ML-Technology-Capabilities-Delivered-v0.3.pptx)
 
 Note - I am increasingly taking on more Infrastructure scope as when the need arises on customer site. 
 
