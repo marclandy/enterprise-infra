@@ -2,7 +2,7 @@
 
 > “My capability often sits at the edge of domains, where security, access, and enablement collide.”
 
-## Marc Landy – Enterprise Network Architect
+## Marc Landy – Network Architect
 
 **Overarching Objective:**<br>		
 &nbsp;&nbsp; ▫ I use the power of [ synthesizing Enterprise Architecture models ](https://medium.com/@marclandy.me/list/architecture-practice-35fbc170845d) to bridge an organisations business strategy with technical execution to ensure cost centers are viewed as digital strategic enablers.<br>
