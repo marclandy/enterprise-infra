@@ -1,6 +1,6 @@
 
 # Enterprise – Network Architecture
-*1/ My **medium.com** articles, scope: Architecture & Design 👇
+1/ My **medium.com** articles, scope: Architecture & Design 👇
 
 <details>
 <summary><strong>Network Architecture – Projects Typically Led </strong></summary>
