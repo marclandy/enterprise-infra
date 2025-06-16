@@ -1,5 +1,5 @@
 
-# Enterprise – Network Architecture
+# Network Architecture
 1/ My **medium.com** articles, scope: Architecture & Design 👇
 
 <details>
