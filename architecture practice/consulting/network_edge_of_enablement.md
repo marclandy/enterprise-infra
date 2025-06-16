@@ -107,7 +107,7 @@ Guidance expectations:
 
 <details>
 <summary><strong> Infrastructure Architecture – Secondary Projects Typically Led</strong></summary>
-- My next full-time roles, I'd look to expand my Infrastructure capability to complete all items below.
+- I'm looking to expand upon my Infrastructure capability to all the items below.
 
 | Project Name | Typical Scope/Trigger | Role Type |
 |--------------|------------------------|-----------|
