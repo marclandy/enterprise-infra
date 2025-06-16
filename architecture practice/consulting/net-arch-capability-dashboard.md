@@ -1,11 +1,6 @@
 
 # Enterprise – Network Architecture
-*1/ my **medium.com** articles, scope: arch & design 👇
-
-*2/ my **github** repo, contains network, cross-domain and infrastructure artefacts* 👇
-- pre-funding deliverables; whitepapers, 
-- deliverables; business-case, solution architecture deliverable; high-level designs; design frameworks; options papers; guidance artefacts
-- as the main repo readme, automation products to support select use-case will be finalised as all [three](https://github.com/marclandy/enterprise-infra/tree/marclandy-integration#whats-next) are currently in development. 
+*1/ My **medium.com** articles, scope: Architecture & Design 👇
 
 <details>
 <summary><strong>Network Architecture – Projects Typically Led </strong></summary>
@@ -112,7 +107,12 @@
 
 ---
 
-### my github repo
+### My Github repo
+
+*2/ my **github** repo, contains Network, Cross-Domain and Infrastructure artefacts* 👇
+- pre-funding deliverables; whitepapers, 
+- deliverables; business-case, solution architecture deliverable; high-level designs; design frameworks; options papers; guidance artefacts
+- as the main repo readme, automation products to support select use-case will be finalised as all [three](https://github.com/marclandy/enterprise-infra/tree/marclandy-integration#whats-next) are currently in development. 
 
 <details>
 <summary><strong> Architecture Practise </strong></summary>
