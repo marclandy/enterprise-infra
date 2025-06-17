@@ -9,6 +9,7 @@
 
 **Purpose:**<br>						
 &nbsp;&nbsp; ▫ This charter defines the architectural value and strategic capability that Network [ *delivers* ]( https://github.com/marclandy/enterprise-infra/blob/ad172fe11097bcc45e696931ea4f33cd7dc34554/architecture%20practice/consulting/net-arch-capability-dashboard.md ) within complex enterprise programs, particularly across large-scale, regulated, and hybrid environments.<br>
+&nbsp;&nbsp; ▫ Today, I am eager to leverage my comprehensive experience in a full-time role and be accountable for developing a multi-year roadmap & delivering key components. &nbsp;&nbsp; ▫ Secondly, to further develop across the Infrastructure domain and provide greater coverage across all areas of this domain (as per the breakdown below.)
 
 **Architecture Mandate:**<br>			
 ▫ ***Deliver*** business value through solutions that integrate People, Process and Technology, ensuring fit-for-purpose outcomes across the enterprise.<br>
