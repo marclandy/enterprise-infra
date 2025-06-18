@@ -1,10 +1,10 @@
 # Multi-Region DR Scenarios Introduce DNS Resolution Complexities
 
-## 🧾 Technical Executive Summary
+## Technical Executive Summary
 
 **GitHub**: [https://github.com/adstuart/azure-privatelink-multiregion](https://github.com/adstuart/azure-privatelink-multiregion)
 
-### ❗ Problem
+### Problem
 
 Azure Site Recovery (ASR) supports private connectivity via **Azure Private Link**.
 
@@ -12,7 +12,7 @@ However, **multi-region Disaster Recovery (DR)** introduces DNS resolution compl
 
 - Re-protect operations often **fail** because DNS cannot resolve Private Endpoints in the DR region.
 
-### ✅ Proposed Solution
+### Proposed Solution
 
 - Create **regional Private DNS Zones** per region (do not centralize).
 - Deploy Private Endpoints for:
@@ -27,11 +27,11 @@ However, **multi-region Disaster Recovery (DR)** introduces DNS resolution compl
 
 ---
 
-## 🔄 ASR with Multi-Region Private Link
+## ASR with Multi-Region Private Link
 
 **GitHub**: [https://github.com/adstuart/azure-privatelink-multiregion-siterecovery-asr](https://github.com/adstuart/azure-privatelink-multiregion-siterecovery-asr)
 
-### 📘 Summary
+### Summary
 
 This guide provides a **practical, IaC-based walkthrough** for implementing multi-region Private Link with Azure Site Recovery (ASR).
 
@@ -42,7 +42,7 @@ It addresses key failure modes—especially DNS misconfiguration—during:
 
 ---
 
-### 🧱 Key Architecture Components
+### Key Architecture Components
 
 - ASR Vaults with Private Endpoints in **both regions**
 - Blob Storage Private Endpoints in **both regions**
@@ -50,13 +50,13 @@ It addresses key failure modes—especially DNS misconfiguration—during:
 
 ---
 
-### 🖼️ Reference Architecture Diagram
+### Reference Architecture Diagram
 
 ![ASR Multi-Region Private Link Architecture](https://github.com/marclandy/mjl-azure-repo/blob/main/CSP%20Improvement%20Tracking/images/asr-privatelink-architecture.png)
 
 ---
 
-### 🧠 Key Lessons
+### Key Lessons
 
 - **Shared or cross-region DNS resolution is unreliable** in DR scenarios.
 - Always **create and bind DNS zones regionally**.
@@ -68,7 +68,7 @@ It addresses key failure modes—especially DNS misconfiguration—during:
 
 ---
 
-### 🛠️ Tools & Techniques
+### Tools & Techniques
 
 - GitHub repo includes **ARM/Bicep templates**
 - **Wireshark** and **NSLookup** validate name resolution paths
@@ -76,11 +76,11 @@ It addresses key failure modes—especially DNS misconfiguration—during:
 
 ---
 
-## 📎 Appendix: Summary of Each Architecture Option
+## Appendix: Summary of Each Architecture Option
 
 This section summarizes the architectural models discussed in [Adam Stuart's GitHub article](https://github.com/adstuart/azure-privatelink-multiregion) for managing Azure Private Link DNS integration across regions.
 
-### 🧩 Architecture Options Matrix
+### Architecture Options Matrix
 
 | **Approach** | **Optimal Private Link SDN Traffic Flows** | **Seamless BCDR During Region Down** | **Hybrid DNS Forwarding Support** | **Automation Complexity** |
 |--------------|--------------------------------------------|--------------------------------------|-----------------------------------|----------------------------|
@@ -91,7 +91,7 @@ This section summarizes the architectural models discussed in [Adam Stuart's Git
 
 ---
 
-### 🔑 Key Takeaways
+### Key Takeaways
 
 - **Option 1 is the recommended enterprise pattern**:
   - Each region is self-contained, ensuring **full resiliency** in DR.
