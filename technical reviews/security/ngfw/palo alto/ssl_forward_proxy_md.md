@@ -128,11 +128,11 @@ The Palo Alto SSL Forward Proxy provides essential visibility and control over e
 ### SSL Forward Proxy by Palo Alto NGFW
 
 Diagram:
--All 5 stages of the SSL Forward Proxy process
--The dual encryption sessions (Key 1 and Key 2)
--Multiple client types (Mobile, Remote Users, Branch/Retail)
--The NGFW acting as an intermediary
--Certificate handling and analysis
+- All 5 stages of the SSL Forward Proxy process
+- The dual encryption sessions (Key 1 and Key 2)
+- Multiple client types (Mobile, Remote Users, Branch/Retail)
+- The NGFW acting as an intermediary
+- Certificate handling and analysis
 
 5 Stages:
 - Client to Server: HTTPS request initiation
