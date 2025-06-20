@@ -125,6 +125,8 @@ The Palo Alto SSL Forward Proxy provides essential visibility and control over e
 
 ## Appendix : 
 
+### SSL Forward Proxy by Palo Alto NGFW
+
 ~~~
 sequenceDiagram
     participant Mobile as Mobile Device
