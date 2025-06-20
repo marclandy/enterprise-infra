@@ -124,4 +124,4 @@ The SSL Forward Proxy establishes two separate encrypted sessions:
 The Palo Alto SSL Forward Proxy provides essential visibility and control over encrypted traffic while maintaining security and performance. This 5-stage process enables organizations to inspect HTTPS traffic for threats while preserving end-to-end encryption through dual session keys. Proper implementation requires careful consideration of certificate management, performance impact, and compliance requirements.
 
 ---
-*Created from Palo Alto NGFW SSL Forward Proxy documentation and diagram analysis*
+*source: Palo Alto NGFW SSL Forward Proxy documentation and diagram analysis*
