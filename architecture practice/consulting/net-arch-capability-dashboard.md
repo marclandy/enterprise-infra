@@ -119,11 +119,12 @@
  
 | Github link | Value | Benefit |
 |------------:|:------|:--------|
+| [Architecture Practice Initiatives](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/consulting/arch-practice-initiatives.md)| Industry validated enhancements | Risk-Mitigation;Future-Proofing;Building industry networks |
+| [Network Arch Key Principles](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/consulting/net%20arch%20charter%2C%20cross-domain%20projects%2C%20overview.md)| Strategic design foundation | Ensures scalable and consistent architecture |
 | [Deliverables-Prefunding](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/LeanIX/docs/pre-funding%20deliverables.md)| Structured governance framework | Reduces project risk and ensures alignment |
+| [ICT Assessments](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/customer-ict-assessment/ict-assessment-readme.md)| Systematic evaluation methodology | Identifies gaps and optimization opportunities |
 | [LeanIX tool integration](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/LeanIX/LeanIX-HowTo.md)| Enterprise architecture automation | Accelerates decision-making and compliance |
 | [Cyber Stnds AusGov](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/deliverables/aust%20gov/aust%20gov-readme.md)| Regulatory compliance framework | Ensures adherence to government standards |
-| [ICT Assessments](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/customer-ict-assessment/ict-assessment-readme.md)| Systematic evaluation methodology | Identifies gaps and optimization opportunities |
-| [Network Arch Key Principles](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/consulting/net%20arch%20charter%2C%20cross-domain%20projects%2C%20overview.md)| Strategic design foundation | Ensures scalable and consistent architecture |
 
 </details>
 
