@@ -4,6 +4,68 @@
 
 The Palo Alto Next-Generation Firewall (NGFW) SSL Forward Proxy enables secure traffic inspection by acting as an intermediary between clients and servers. This process allows the firewall to decrypt, inspect, and re-encrypt SSL/TLS traffic for comprehensive security analysis while maintaining end-to-end encryption.
 
+## Process Flow Diagram
+
+```mermaid
+sequenceDiagram
+    participant Mobile as Mobile Device
+    participant RU as Remote Users
+    participant BR as Branch/Retail
+    participant NGFW as Palo Alto NGFW
+    participant Internet as Internet
+    participant Server as Gmail.com Server
+
+    Note over Mobile, Server: SSL Forward Proxy by Palo Alto NGFW
+    
+    rect rgb(240, 248, 255)
+        Note over Mobile, NGFW: Stage 1: Client to Server
+        Mobile->>NGFW: 1. HTTPS Request: "Hello www.gmail.com"
+        RU->>NGFW: HTTPS Request
+        BR->>NGFW: HTTPS Request
+    end
+
+    rect rgb(255, 248, 240)
+        Note over NGFW, Server: Stage 2: Firewall to Server
+        NGFW->>Server: 2. Firewall intercepts and proxies request to server
+        Note over NGFW: Firewall intercepts and<br/>now the Firewall Acting as Client to Server<br/>(Hello www.gmail.com)
+    end
+
+    rect rgb(248, 255, 248)
+        Note over Server, NGFW: Stage 3: Server Response
+        Server->>NGFW: 3. Server replies with "Server Hello" and its certificate
+        Note over NGFW, Server: Server to Firewall: Server Hello<br/>with Server's Certificate to<br/>Firewall
+    end
+
+    rect rgb(255, 240, 245)
+        Note over NGFW: Stage 4: Certificate Analysis
+        Note over NGFW: 4. Firewall inspects certificate and issues its own to client<br/>The firewall analyzes<br/>the server certificate<br/>and presents it to the<br/>client using another<br/>certificate and cipher
+    end
+
+    rect rgb(248, 248, 255)
+        Note over NGFW, Mobile: Stage 5: Client Handshake
+        NGFW->>Mobile: 5. Firewall completes handshake with client using proxied certificate
+        NGFW->>RU: Handshake completion
+        NGFW->>BR: Handshake completion
+    end
+
+    Note over Mobile, Server: Encrypted Session Key 1 Exchanged (Client-Firewall)
+    Note over NGFW, Server: Encrypted Session Key 2 Exchanged (Firewall-Server)
+    
+    Note over Mobile, Server: Secure traffic inspection enabled
+```
+5 Stages:
+- Client to Server: HTTPS request initiation
+- Firewall to Server: Interception and proxying
+- Server Response: Server Hello and certificate delivery
+- Certificate Analysis: Firewall inspection and certificate substitution
+- Client Handshake: Completion with proxied certificate
+
+Key Technical Details:
+- Dual encrypted sessions for complete traffic inspection
+- Certificate analysis and substitution process
+- The firewall's role change from proxy to client
+- Secure traffic inspection capabilities
+  
 ## Architecture Components
 
 ### Client Devices
@@ -133,19 +195,6 @@ Diagram:
 - Multiple client types (Mobile, Remote Users, Branch/Retail)
 - The NGFW acting as an intermediary
 - Certificate handling and analysis
-
-5 Stages:
-- Client to Server: HTTPS request initiation
-- Firewall to Server: Interception and proxying
-- Server Response: Server Hello and certificate delivery
-- Certificate Analysis: Firewall inspection and certificate substitution
-- Client Handshake: Completion with proxied certificate
-
-Key Technical Details:
-- Dual encrypted sessions for complete traffic inspection
-- Certificate analysis and substitution process
-- The firewall's role change from proxy to client
-- Secure traffic inspection capabilities
 
 ~~~
 sequenceDiagram
