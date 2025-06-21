@@ -1,4 +1,4 @@
-## Network Architecture 
+## IT Architecture 
 
 <details>
 <summary> <strong> Key Principles Across All Projects: </strong></summary>
