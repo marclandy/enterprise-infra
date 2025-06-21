@@ -1,9 +1,9 @@
 
-# Network Architecture
+# Network & Infrastructure Architecture
 1/ My **medium.com** articles, scope: Architecture & Design 👇
 
 <details>
-<summary><strong>Network Architecture – Projects Typically Led </strong></summary>
+<summary><strong>Network & Infrastructure Architecture – Projects Typically Led </strong></summary>
 
  👉 Select the network capability of interest from the list below; 
 <details>
