@@ -161,7 +161,7 @@
 </details>
 
 <details>
-<summary><strong> Infrastructure Architecture : *Secondary Projects* </strong></summary>
+<summary><strong> Infrastructure Architecture : Secondary Projects </strong></summary>
  
 | Category | Github link | Value | Benefit |
 |---------:|------------:|:------|:--------|
