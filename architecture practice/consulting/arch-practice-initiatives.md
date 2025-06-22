@@ -1,5 +1,5 @@
 
-## M|L: Network Architect : Architecture Practice examples
+## M|L: Contributions to Architecture Practice Initiatives / Improvements
 
 | Architecture Thought Leadership item no. | *Net Arch Supporting Artefacts link*  | *Artefact*                            | *Purpose*                |
 |----------------------------------|----------|------|----------------------------------------------------------------|
