@@ -1,5 +1,6 @@
 
-## M|L: Contributions to Architecture Practice Initiatives / Improvements
+## Contributions to Architecture Practice Initiatives
+- [validated by industry]
 
 | Architecture Thought Leadership item no. | *Net Arch Supporting Artefacts link*  | *Artefact*                            | *Improvement*                |   *Benefit* |
 |:----------------------------------|:----------|:------|----------------------------------------------------------------|-------|
