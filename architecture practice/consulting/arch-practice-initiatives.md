@@ -1,6 +1,6 @@
 
 ## Contributions to Architecture Practice Initiatives
-- [validated by industry]
+[ *validated by industry* ]
 
 | Architecture Thought Leadership item no. | *Net Arch Supporting Artefacts link*  | *Artefact*                            | *Improvement*                |   *Benefit* |
 |:----------------------------------|:----------|:------|----------------------------------------------------------------|-------|
