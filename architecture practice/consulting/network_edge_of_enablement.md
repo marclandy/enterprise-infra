@@ -32,7 +32,7 @@ My work enables:
 ## Where I Sit in the Architecture Stack
 
 <details>
-<summary><strong> Work closely with, </strong></summary>
+<summary><strong> Work closely with & my governance contribution to shared outcomes </strong></summary>
 
 - *Security Architects:* to enforce trust zones, SSE, microsegmentation
 - *Cloud & Platform Architects:* to land workloads securely and predictably
