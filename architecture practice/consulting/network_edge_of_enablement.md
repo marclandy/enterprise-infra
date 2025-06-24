@@ -114,7 +114,7 @@ Guidance expectations:
   "Cross-Domain Projects" has provided me with the foundations across technologies that<br> 
   are being delivered by other architect, engineers, e.g. EUC, Data platforms, Integration<br> 
   platforms. Supporting the project teams with network requirements to enable the delivery outcomes.<br> 
-- Next Steps: required on the job outcomes, offline positioning already clear
+- 👉 *Next Steps*: required on the job outcomes, offline positioning already clear
   
 | Project Name | Typical Scope/Trigger | Role Type |
 |--------------|------------------------|-----------|
