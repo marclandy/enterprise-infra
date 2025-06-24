@@ -108,13 +108,13 @@ Guidance expectations:
 
 <details>
 <summary><strong> Infrastructure Architecture – Secondary Projects Typically Led</strong></summary>
-- I'm looking to expand upon my Infrastructure capability to all the items below.<br>
-- Providing project and delivery governance as a Network Architect to Corporate IT and OT<br> 
+• I'm looking to expand upon my Infrastructure capability to all the items below.<br>
+• Providing project and delivery governance as a Network Architect to Corporate IT and OT<br> 
   organisation across technology programs covering the example project listed under the<br>
   "Cross-Domain Projects" has provided me with the foundations across technologies that<br> 
   are being delivered by other architect, engineers, e.g. EUC, Data platforms, Integration<br> 
   platforms. Supporting the project teams with network requirements to enable the delivery outcomes.<br> 
-- 👉 *Next Steps*: required on the job outcomes, offline positioning already clear
+• 👉 *Next Steps*: required on the job outcomes, offline positioning already clear
   
 | Project Name | Typical Scope/Trigger | Role Type |
 |--------------|------------------------|-----------|
