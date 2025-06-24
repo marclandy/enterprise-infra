@@ -64,8 +64,7 @@ Note - I am increasingly taking on more Infrastructure scope as when the need ar
 
 ## Typical Projects I Lead
 
-<details>
-<summary><strong> Network Architecture – Projects Typically Led</strong></summary>
+### Network Architecture – Projects Typically Led
 
 | Project Name | Typical Scope/Trigger | Role Type |
 |--------------|------------------------|-----------|
@@ -79,10 +78,7 @@ Note - I am increasingly taking on more Infrastructure scope as when the need ar
 | M&A Network Separation | LAN/WAN/Cloud transition design | Lead |
 | UC Network Readiness | Teams, Zoom, VoIP support across distributed WAN | Lead |
 
-</details>
-
-<details>
-<summary><strong> Cross-Domain Projects – Typical Consulting guidance to elevate program and product led initiatives </strong></summary>
+### Cross-Domain Projects – Typical Consulting guidance to elevate program and product led initiatives
 
 | Project Name | Typical Role | Why Net Arch is Needed |
 |--------------|---------------|-------------------|
@@ -104,17 +100,14 @@ Guidance expectations:
 - [Net Arch Contribution Matrix](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/consulting/net%20arch%20charter,%20cross-domain%20projects,%20overview.md#cross-domain-projects--contribution-matrix)      
 - [Adaptable Project Guidance](https://github.com/marclandy/enterprise-infra/blob/f671561d85c32769a001038d4e77311219d97f36/architecture%20practice/consulting/net%20arch%20charter%2C%20cross-domain%20projects%20detailed%20guidance.md)
   
-</details>
-
-<details>
-<summary><strong> Infrastructure Architecture – Secondary Projects Typically Led</strong></summary>
-• I'm looking to expand upon my Infrastructure capability to all the items below.<br>
-• Providing project and delivery governance as a Network Architect to Corporate IT and OT<br> 
+#### Infrastructure Architecture – Secondary Projects Typically Led
+- I'm looking to expand upon my Infrastructure capability to all the items below.<br>
+- Providing project and delivery governance as a Network Architect to Corporate IT and OT<br> 
   organisation across technology programs covering the example project listed under the<br>
   "Cross-Domain Projects" has provided me with the foundations across technologies that<br> 
   are being delivered by other architect, engineers, e.g. EUC, Data platforms, Integration<br> 
   platforms. Supporting the project teams with network requirements to enable the delivery outcomes.<br> 
-• 👉 *Next Steps*: required on the job outcomes, offline positioning already clear
+- 👉 *Next Steps*: required on the job outcomes, offline positioning already clear
   
 | Project Name | Typical Scope/Trigger | Role Type |
 |--------------|------------------------|-----------|
@@ -126,8 +119,6 @@ Guidance expectations:
 | Cloud Landing Zone Builds | Base infrastructure, identity, DNS, network | <> |
 | Site Exit / DC Exit | Infrastructure decommission, cloud migration | <> |
 | Lifecycle Management | Asset refresh, patching, supportability uplift | <> |
-
-</details>
 
 [Strategic areas of ALZ Consulting](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/deliverables/enterprise%20alz/Strategic%20Areas%20of%20ALZ%20Consulting%20Value.md)
 
