@@ -31,7 +31,7 @@
 
 ## Where I Sit in the Technology Landscape / Stack
 
-*Work closely with & my governance contribution to shared outcomes*
+*Work closely with the stakeholders below & my governance contribution to shared outcomes*
 
 - *Security Architects:* to enforce trust zones, SSE, microsegmentation
 - *Cloud & Platform Architects:* to land workloads securely and predictably
