@@ -43,7 +43,7 @@
 
 ## Capabilities Delivered
 
-via Enterprise architecture frameworks [TOGAF](tba), SABSA [map view](https://www.mindmeister.com/app/map/679185214), [design view](https://www.mindmeister.com/app/map/679185214?m=outline)
+via Enterprise architecture frameworks [TOGAF](tba), SABSA [map view](https://mm.tt/map/3753157711?t=icB5MnFZCg), [design view](https://www.mindmeister.com/app/map/679185214?m=outline)
 + other framework bought into scope to enhance the strategy / outcome.
 
 | Capability Area | Description |
