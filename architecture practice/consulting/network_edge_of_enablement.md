@@ -43,6 +43,9 @@
 
 ## Capabilities Delivered
 
+via Enterprise architecture frameworks [TOGAF](tba), SABSA [map view](https://www.mindmeister.com/app/map/679185214), [design view](https://www.mindmeister.com/app/map/679185214?m=outline)
++ other framework bought into scope to enhance the strategy / outcome.
+
 | Capability Area | Description |
 |------------------|-------------|
 | Multi-Cloud Network Architecture | Design and implement connectivity between DC, cloud, and edge. |
