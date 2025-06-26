@@ -1,1 +1,1 @@
-
+- first whitepaper skeleton can be based off my first whitepaper : pki-certificates_whitepaper(pre-funding).docx
