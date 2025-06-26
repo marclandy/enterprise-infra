@@ -43,7 +43,7 @@
 
 ## Capabilities Delivered
 
-via Enterprise architecture frameworks [TOGAF](tba), SABSA [map view](https://mm.tt/map/3753157711?t=icB5MnFZCg), [design view](https://www.mindmeister.com/app/map/679185214?m=outline), [Well-architected Multi-Cloud SABSA](https://jasonlayton.com/cybersecurity/4-2024/multi-cloud-architecture-x-sabsa)
+via Enterprise architecture frameworks [TOGAF](tba), SABSA [map view](https://mm.tt/map/3753157711?t=icB5MnFZCg), [design view](https://www.mindmeister.com/app/map/679185214?m=outline), [Well-architected Multi-Cloud SABSA](https://jasonlayton.com/cybersecurity/4-2024/multi-cloud-architecture-x-sabsa)<br>
 [Zero Trust Architecture: NIST 800-53 vs. MITRE ATT&CK](3fcd96c7a1/t/66c3e9f9a5f1a64ede1542dc/1724115461545/ZT_ISO_ATTACK_v1.svg), 
 + other framework bought into scope to enhance the strategy / outcome.
 
