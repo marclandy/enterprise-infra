@@ -9,19 +9,19 @@ Guidance document designed to provide direction based on projects from the field
 ## Enterprise Architecture Integration Summary
 
 **New Standards Required:**
-1. Zero Trust Network Architecture Standard
-2. Container Platform Network Architecture Standard  
-3. Virtual Desktop Infrastructure Network Standard
-4. Enterprise Data Platform Network Architecture Standard
-5. Multi-Tenant Observability Architecture Standard
+1. *Zero Trust Network Architecture* Standard
+2. *Container Platform Network* Architecture Standard  
+3. *Virtual Desktop Infrastructure Network* Standard
+4. *Enterprise Data Platform Network* Architecture Standard
+5. *Multi-Tenant Observability* Architecture Standard
 
 **Existing Standards Updates:**
-1. Enterprise Network Security Standard → Add microsegmentation
-2. PKI Infrastructure Standard → Add network isolation requirements  
-3. End User Computing Standard → Add multi-cloud VDI networking
-4. Enterprise Monitoring Standard → Add cloud-native requirements
+1. *Enterprise Network Security* Standard → Add microsegmentation
+2. *PKI Infrastructure* Standard → Add network isolation requirements  
+3. *End User Computing* Standard → Add multi-cloud VDI networking
+4. *Enterprise Monitoring* Standard → Add cloud-native requirements
 
-**Common Network Patterns Across All Projects:**
+👇 **Common Network Patterns Across All Projects:**
 - **Management Networks:** 192.168.100.0/22 (OOB) + 172.16.0.0/12 (In-band)
 - **DMZ Zones:** 10.100.0.0/16 
 - **Application Networks:** 10.0.0.0/8 with /16 per major system
@@ -33,7 +33,7 @@ Guidance document designed to provide direction based on projects from the field
 
 ### Network Segmentation Strategy & VLAN/VXLAN Schemes
 
-**Design Decision Framework:**
+**Design Decision Framework:** 
 - **Macro-segmentation:** Business unit/function-based (Finance, HR, Engineering)
 - **Micro-segmentation:** Application tier-based (Web, App, DB)
 - **Zero-trust zones:** Device trust levels (Managed, BYOD, Guest, IoT)
