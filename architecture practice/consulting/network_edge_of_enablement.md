@@ -33,11 +33,11 @@
 
 *Work closely with the stakeholders below & my governance contribution to shared outcomes*
 
-- **Security Architects:** to enforce trust zones, SSE, microsegmentation
-- **Cloud & Platform Architects:** to land workloads securely and predictably
-- **Data & Application Architects:** to ensure data flows and latency profiles are respected
-- **IAM Architects:** to support device identity, network-based access, and certificate services
-- **OT Engineers:** to bridge traditionally isolated plant networks with modern IT capabilities
+- **Security Architects :** to enforce trust zones, SSE, microsegmentation
+- **Cloud & Platform Architects :** to land workloads securely and predictably
+- **Data & Application Architects :** to ensure data flows and latency profiles are respected
+- **IAM Architects :** to support device identity, network-based access, and certificate services
+- **OT Engineers :** to bridge traditionally isolated plant networks with modern IT capabilities
 
 ---
 
