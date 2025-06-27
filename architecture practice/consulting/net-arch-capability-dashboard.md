@@ -110,7 +110,7 @@
 ### My Github repo
 
 *2/ my **github** repo, contains Network, Cross-Domain and Infrastructure artefacts* 👇 or **download|view one-page** dashboard view: [_powerpoint_](https://github.com/marclandy/enterprise-infra/raw/refs/heads/marclandy-integration/architecture%20practice/consulting/ML-Technology-Capabilities-Delivered-v0.3.pptx)
-- *pre-funding deliverables*; *whitepapers*, 
+- [*pre-funding deliverables*](https://github.com/marclandy/enterprise-private/blob/main/architecture%20practice/deliverables/pre-funding/pre-funding%20deliverables.md); *whitepapers*, 
 - deliverables; *business-case*, *solution architecture deliverable (SAD)*; *high-level design (HLD)*; *design frameworks*; *options papers*; *guidance artefacts*
 - as the main repo readme, *automation products* to support select use-case will be finalised as all [three](https://github.com/marclandy/enterprise-infra/tree/marclandy-integration#whats-next) are currently in development. 
 
