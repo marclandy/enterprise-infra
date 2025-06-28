@@ -1,8 +1,9 @@
 # Detailed Network Architecture Guidance
 
 Guidance document designed to provide direction based on projects from the field. 
-- This document is to be used as a guide only. 
-- Establishing customer requirements per project is paramount to ensuring great outcomes are achieved for the enterpise projects teams. 
+- This document is to be used as a guide only, displayed for the purposes of sample common guidance, of course the natural 
+- Process involve establish customer requirements per project, then provide guidance.
+- This ensures great outcomes are achieved. 
 
 ---
 
