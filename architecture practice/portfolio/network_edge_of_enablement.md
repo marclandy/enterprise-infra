@@ -29,7 +29,7 @@
 - **Technology lifecycle stewardship** to avoid risk and cost blowout.
 - **Harnessing emerging technology** to create market differentiation and digital advantage.
 
-## Where I Sit in the Technology Landscape / Stack
+## Where I Operate in the Technology Landscape
 
 *Work closely with the stakeholders below & my governance contribution to shared outcomes*
 
