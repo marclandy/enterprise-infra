@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Portfolio - Confidential Case Studies</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .container {
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            padding: 40px;
+            max-width: 600px;
+            width: 90%;
+            text-align: center;
+        }
+        
+        .security-notice {
+            background: #dc3545;
+            color: white;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            font-weight: bold;
+        }
+        
+        .access-form {
+            margin: 30px 0;
+        }
+        
+        .access-input {
+            width: 100%;
+            padding: 15px;
+            font-size: 16px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            margin: 10px 0;
+            box-sizing: border-box;
+        }
+        
+        .access-btn {
+            background: #28a745;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            font-size: 16px;
+            border-radius: 8px;
+            cursor: pointer;
+            margin: 10px 0;
+        }
+        
+        .access-btn:hover {
+            background: #218838;
+        }
+        
+        .case-studies {
+            display: none;
+            text-align: left;
+            margin-top: 30px;
+        }
+        
+        .case-study-card {
+            border: 2px solid #e9ecef;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 15px 0;
+            background: #f8f9fa;
+        }
+        
+        .case-study-card h3 {
+            color: #2c3e50;
+            margin-top: 0;
+        }
+        
+        .case-study-link {
+            background: #007bff;
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            display: inline-block;
+            margin-top: 10px;
+        }
+        
+        .case-study-link:hover {
+            background: #0056b3;
+            text-decoration: none;
+            color: white;
+        }
+        
+        .footer-note {
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #6c757d;
+            font-style: italic;
+        }
+        
+        .error-message {
+            color: #dc3545;
+            background: #f8d7da;
+            padding: 10px;
+            border-radius: 5px;
+            margin: 10px 0;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Professional Portfolio</h1>
+        <h2 style="color: #6c757d;">Confidential Case Studies & Strategic Analysis</h2>
+        
+        <div class="security-notice">
+            🔒 CONFIDENTIAL CONTENT - AUTHORIZED ACCESS ONLY
+        </div>
+        
+        <div id="accessGate">
+            <p>This portfolio contains confidential case studies and strategic analysis from enterprise consulting engagements. Access is restricted to hiring managers and authorized personnel.</p>
+            
+            <div class="access-form">
+                <input type="password" id="accessCode" class="access-input" placeholder="Enter access code" />
+                <br>
+                <button onclick="checkAccess()" class="access-btn">Access Portfolio</button>
+                <div id="errorMessage" class="error-message">Invalid access code. Please contact for assistance.</div>
+            </div>
+            
+            <div class="footer-note">
+                Access code provided during interview scheduling or available upon request via LinkedIn.
+            </div>
+        </div>
+        
+        <div id="caseStudies" class="case-studies">
+            <h2>Available Case Studies</h2>
+            
+            <div class="case-study-card">
+                <h3>🏢 AGIG Hybrid Identity Modernisation</h3>
+                <p><strong>Sector:</strong> Australian Energy Infrastructure</p>
+                <p><strong>Challenge:</strong> Multi-domain Active Directory consolidation strategy</p>
+                <p><strong>Approach:</strong> Discovery-first methodology vs. implementation-first risk analysis</p>
+                <p><strong>Value:</strong> $2M-6M+ cost avoidance through strategic questioning</p>
+                <a href="agig-case-study.html" class="case-study-link">View Case Study →</a>
+            </div>
+            
+            <!-- Template for additional case studies -->
+            <div class="case-study-card" style="opacity: 0.6;">
+                <h3>🔒 Additional Case Studies</h3>
+                <p><em>Additional confidential case studies available upon request during interview process</em></p>
+            </div>
+            
+            <div class="footer-note">
+                <strong>Confidentiality Notice:</strong> These materials contain proprietary business information and strategic analysis. Viewing constitutes agreement to maintain confidentiality.
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Multiple valid access codes for flexibility
+        const validCodes = [
+            'PORTFOLIO2025',
+            'INTERVIEW2025', 
+            'CONFIDENTIAL2025'
+        ];
+        
+        // Store access in session to avoid re-entry
+        if (sessionStorage.getItem('portfolioAccess') === 'granted') {
+            showPortfolio();
+        }
+        
+        function checkAccess() {
+            const enteredCode = document.getElementById('accessCode').value.toUpperCase();
+            const errorDiv = document.getElementById('errorMessage');
+            
+            if (validCodes.includes(enteredCode)) {
+                sessionStorage.setItem('portfolioAccess', 'granted');
+                showPortfolio();
+                errorDiv.style.display = 'none';
+            } else {
+                errorDiv.style.display = 'block';
+                document.getElementById('accessCode').value = '';
+            }
+        }
+        
+        function showPortfolio() {
+            document.getElementById('accessGate').style.display = 'none';
+            document.getElementById('caseStudies').style.display = 'block';
+        }
+        
+        // Allow Enter key to submit
+        document.getElementById('accessCode').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                checkAccess();
+            }
+        });
+        
+        // Security: Clear session on page unload (optional)
+        window.addEventListener('beforeunload', function() {
+            // Uncomment next line for extra security (requires re-entry each visit)
+            // sessionStorage.removeItem('portfolioAccess');
+        });
+    </script>
+</body>
+</html>

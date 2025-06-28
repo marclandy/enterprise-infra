@@ -4,9 +4,12 @@ Part of Endpoint Manager & O365 ecosystem
 
 ## Overview
 
-My primary interest relates to *device management, network enforcement, compliance integration, conditional access*, *and policy enforcement across hybrid environments*.
-
-## Relevance to Network & Infrastructure Architects:
+My primary interest relates to, 
+- *device management*, 
+- *network enforcement*, 
+- *compliance integration*, 
+- *conditional access*, 
+- *policy enforcement across hybrid environments*.
 
 | **Area** | **How Intune Applies** |
 |----------|------------------------|
@@ -18,7 +21,7 @@ My primary interest relates to *device management, network enforcement, complian
 | **Remote Operations** | Enables remote wipe, re-provisioning, and compliance recovery. |
 | **Security Baselines** | Align device configurations with security hardening guides (CIS/NIST). |
 
-# Microsoft Intune Features Overview
+# Microsoft Intune Overview (Network & Infra lens)
 
 <details>
 <summary><strong>Conditional Access & Network Enforcement (in conjunction with Entra ID / Azure AD)</strong></summary>
@@ -1195,5 +1198,10 @@ Use this matrix to:
 
 **Microsoft links:**
 
-[CyberAutomationX](https://github.com/CyberAutomationX)/[SecureAzCloud-Scripts](https://github.com/CyberAutomationX/SecureAzCloud-Scripts)
+[CyberAutomationX](https://github.com/CyberAutomationX)
 
+[SecureAzCloud-Scripts](https://github.com/CyberAutomationX/SecureAzCloud-Scripts)
+
+msft intune enrollment options, [PDF version](https://download.microsoft.com/download/e/6/2/e6233fdd-a956-4f77-93a5-1aa254ee2917/msft-intune-enrollment-options.pdf), [Visio version](https://download.microsoft.com/download/e/6/2/e6233fdd-a956-4f77-93a5-1aa254ee2917/msft-intune-enrollment-options.vsdx)
+
+[m365-zero-trust-deployment-plan](https://learn.microsoft.com/en-us/microsoft-365/security/microsoft-365-zero-trust?view=o365-worldwide)

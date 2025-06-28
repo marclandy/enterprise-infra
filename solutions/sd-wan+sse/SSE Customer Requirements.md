@@ -186,8 +186,37 @@ As enterprise security evolves, your **SSE platform should act as a strategic en
 
 **SSE Controls Mapping to NIST, ISO, ASD**
 
+## Appendix
+
+<details>
+<summary><strong>Enterprise DLP Transition Requirements Catalog</strong></summary>
+<br>
+  
+| #  | Requirement                                                                                          | Priority | Notes / Justification                                                                                      |
+|----|------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------|
+| 1  | Assess and map data flows across all users, apps, and locations                                      | Must     | Foundational for policy design and understanding of sensitive data exposure.                                |
+| 2  | Involve legal, HR, and data officers in the requirements process                                     | Must     | Ensures data usage policies reflect broader business and compliance needs.                                  |
+| 3  | Identify and prioritize high-risk use cases (e.g., unsanctioned SaaS, IaaS data movement)            | Must     | Essential for early mitigation and risk reduction.                                                          |
+| 4  | Ensure comprehensive coverage: in-use, at-rest, in-transit across all vectors                        | Must     | Guarantees holistic protection beyond network perimeter.                                                    |
+| 5  | Support endpoint DLP for offline and USB transfer protection                                         | Should   | Expands reach to unmanaged contexts.                                                                        |
+| 6  | Include cloud email DLP and SaaS collaboration protection (Slack, Teams)                             | Should   | Addresses a common exfiltration vector.                                                                     |
+| 7  | Leverage contextual awareness (identity, device, app instance, behavior) for enforcement             | Must     | Enables zero trust-based adaptive DLP decisions.                                                            |
+| 8  | Choose unified policy engine with central console and RBAC                                           | Must     | Reduces administrative overhead and response delays.                                                        |
+| 9  | Use machine learning, OCR, EDM, and image classifiers for data detection                             | Should   | Increases detection accuracy and reduces false positives.                                                   |
+| 10 | Integrate with SOAR and SIEM tools for automated incident response                                   | Should   | Enhances visibility and containment speed.                                                                  |
+| 11 | Enable user coaching and real-time policy violation awareness                                        | Could    | Educates users, reduces accidental violations.                                                               |
+| 12 | Preserve institutional DLP knowledge during migration (reuse policies/workflows where feasible)      | Must     | Ensures continuity and accelerates transition.                                                              |
+| 13 | Ensure coverage of both sanctioned and unsanctioned apps                                             | Must     | Prevents blind spots from shadow IT activity.                                                               |
+| 14 | Stick with effective point solutions temporarily (if needed), avoid policy sprawl                    | Could    | Transitional approach, especially with Microsoft DLP etc.                                                   |
+| 15 | Select a vendor with maturity, not just marketing hype                                               | Must     | Reduces risk of adopting unproven tech; Netskope highlighted as mature DLP option.                          |
+
+source : This catalog is derived from Chapter 5 of *Modern Data Loss Prevention (DLP) For Dummies – Netskope Special Edition*, reflecting key enterprise requirements for transitioning to a modern, cloud-delivered DLP platform.---
+
+</details>
+
 ---
 
+<<<<<<< HEAD
 ## Appendix
 
 <details>
@@ -218,6 +247,8 @@ source : This catalog is derived from Chapter 5 of *Modern Data Loss Prevention 
 
 ---
 
+=======
+>>>>>>> origin/main
 <details>
 <summary><strong>ZTNA VPN Replacement Requirements Table</strong></summary>
 <br>
@@ -236,6 +267,7 @@ source : This catalog is derived from Chapter 5 of *Modern Data Loss Prevention 
 | 10 | Effective Admin Tools     | Intuitive management portal with visibility, alerting, and policy management.            | Simplify operations and reduce time-to-resolution for security events and access requests.           | Role-based admin portal; alert workflows; change auditing; self-service capabilities.|
 
 </details>
+<<<<<<< HEAD
 
 <details>
 <summary><strong>Analysing Corp IT Traffic Flows</strong></summary>
@@ -245,3 +277,5 @@ source : This catalog is derived from Chapter 5 of *Modern Data Loss Prevention 
   
 </details>
 
+=======
+>>>>>>> origin/main
