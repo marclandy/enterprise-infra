@@ -9,13 +9,13 @@ Foundational Standards + minor updates:
 
 New Standards Required:
 P1:
-Zero Trust Network Architecture Standard
-Container Platform Network Architecture Standard
-Virtual Desktop Infrastructure Network Standard
-Enterprise Data Platform Network Architecture Standard
-Multi-Tenant Observability Architecture Standard
+- Zero Trust Network Architecture Standard
+- Container Platform Network Architecture Standard
+- Virtual Desktop Infrastructure Network Standard
+- Enterprise Data Platform Network Architecture Standard
+- Multi-Tenant Observability Architecture Standard
 P2:
-Data Architecture - scope, to be advised
+- Data Architecture - scope, to be advised
 
 Common Network Patterns Across All Projects:
 - Management Networks: 192.168.100.0/22 (OOB) + 172.16.0.0/12 (In-band)
