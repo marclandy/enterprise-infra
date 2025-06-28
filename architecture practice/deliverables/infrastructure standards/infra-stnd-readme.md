@@ -1,7 +1,7 @@
 
 ## Planning portfolio network & infrastructure standards
 
-Fondational Standards + minor updates:
+Foundational Standards + minor updates:
 - Enterprise Network Security Standard → Add microsegmentation
 - PKI Infrastructure Standard → Add network isolation requirements
 - End User Computing Standard → Add multi-cloud VDI networking
