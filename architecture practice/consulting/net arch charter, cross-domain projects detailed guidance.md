@@ -1,9 +1,9 @@
 # Detailed Network Architecture Guidance
 
 Guidance document designed to provide direction based on projects from the field. 
-- This document is to be used as a guide only, displayed for the purposes of sample common guidance, of course the natural 
-- Process involve establish customer requirements per project, then provide guidance.
-- This ensures great outcomes are achieved. 
+- Purpose: acts as sample common guidance only. 
+- Process involve establishing customer requirements per project, then provide guidance.
+- Ensures great outcomes are achieved. 
 
 ---
 
