@@ -10,7 +10,8 @@ version: 0.3
 
 # MCN Foundation Cloud Network Pattern v0.3
 purpose: Enterprise Decision Framework<br>
-referenced document: [Enterprise uplift to SD-WAN many-to-many model (i.e. transition to SSE readiness)](https://medium.com/@marclandy.me/enterprise-uplift-to-sd-wan-many-to-many-model-i-e-transition-to-sse-readiness-6337f2d7a18b)
+referenced document: [Enterprise uplift to SD-WAN many-to-many model (i.e. transition to SSE readiness)](https://medium.com/@marclandy.me/enterprise-uplift-to-sd-wan-many-to-many-model-i-e-transition-to-sse-readiness-6337f2d7a18b)<br>
+related documents: [sd-wan and sse artefacts](https://github.com/marclandy/enterprise-infra/tree/marclandy-integration/solutions/sd-wan%2Bsse)
 
 ## Document History
 
