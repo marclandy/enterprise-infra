@@ -1,5 +1,6 @@
 ## Contributions to Architecture Practice Initiatives
 [Architecture Thought Leadership : *validated by industry*]
+[My Architecture Governance Framework (derived from..)](https://github.com/marclandy/enterprise-infra/blob/ml-port/architecture%20practice/The%20Practice%20of%20Architecture_Governance%20Structures.pdf)
 
 | **Item No.** | **Initiative/Title** | **Challenge → Solution → Impact** | **Artefact (link)** | **Status** | **Industry Validation** |
 |--------------|---------------------|----------------------------------|-------------------|------------|----------------------|
