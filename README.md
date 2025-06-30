@@ -3,7 +3,7 @@ This GitHub portfolio demonstrates how I approach enterprise, network and cloud 
 - industry case studies, business-aligned white papers, automation prototypes, and
 - decision frameworks that aim to inform, simplify, and scale enterprise technology.
 
-> Explore my strategic architecture value via, 👉 [*Network: At the Edge of Enablement*](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/architecture%20practice/consulting/network_edge_of_enablement.md)
+> Explore my strategic architecture value via, 👉 [*Network: At the Edge of Enablement*](https://github.com/marclandy/enterprise-infra/blob/ml-port/architecture%20practice/portfolio/network_edge_of_enablement.md)
 
 ## What’s Next
 > My [*medium.com*](https://medium.com/@marclandy.me/lists) page contains short articles on most of my core *Network & Infrastructure* capabilities.
