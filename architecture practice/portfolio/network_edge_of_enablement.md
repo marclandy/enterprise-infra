@@ -54,7 +54,7 @@ via Enterprise architecture frameworks [TOGAF](tba), SABSA [map view](https://mm
 | DC and Edge Infrastructure Design | High availability, modern LAN/WAN, wireless and compute strategies. |
 | Automation & Lifecycle | Infra-as-code, observability, and asset lifecycle management. |
 | IT/OT Convergence | Secure segmentation, visibility, and enablement of OT data paths. |
-- **full project tables** (head straight [_my capability dashboard_](https://github.com/marclandy/enterprise-infra/blob/ad172fe11097bcc45e696931ea4f33cd7dc34554/architecture%20practice/consulting/net-arch-capability-dashboard.md), or **download one-page** dashboard view: [_powerpoint_](https://github.com/marclandy/enterprise-infra/raw/refs/heads/marclandy-integration/architecture%20practice/consulting/ML-Technology-Capabilities-Delivered-v0.3.pptx)
+- **full project tables** (head straight [_my capability dashboard_](https://github.com/marclandy/enterprise-infra/blob/ml-port/architecture%20practice/portfolio/arch-capability-dashboard.md), or **download one-page** dashboard view: [_powerpoint_](https://github.com/marclandy/enterprise-infra/blob/ml-port/architecture%20practice/portfolio/ML-Technology-Capabilities-Delivered-v0.3.pptx)
 
 Note - I am increasingly taking on more Infrastructure scope as when the need arises on customer site. 
 
