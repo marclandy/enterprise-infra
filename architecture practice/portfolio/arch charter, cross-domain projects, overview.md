@@ -14,7 +14,8 @@
   
 </details>  
 
-### Cross-Domain Projects : Contribution Matrix
+### Architecture Consulting 
+- Strategic project governance and cross-domain advisory
 
 | Project Name | Typical Role | Why Net Arch is Needed | Network Architect Contribution Items |
 |--------------|--------------|-------------------|-------------------------------------|
