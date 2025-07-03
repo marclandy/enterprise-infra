@@ -10,3 +10,6 @@ Status
 - Creating HLD/SAD skeletons and design inputs for vendor consumption       | Status: 31-05-25, v0.1 SAD deliverable.
 - Cloud governance narratives that marry internal policy with ALZ structure |
 - Deploying Azure Landing Zones with the Terraform Accelerator              | Status: 11-06-25, exploring this process & automation
+
+building-azure-right-a-practical-checklist-for-infrastructure-landing-zones
+- https://techcommunity.microsoft.com/blog/AzureInfrastructureBlog/building-azure-right-a-practical-checklist-for-infrastructure-landing-zones/4409975
