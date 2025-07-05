@@ -63,6 +63,14 @@ My primary interest relates to,
 <details>
 <summary><strong>Network and Connectivity Configuration</strong></summary>
 
+*Objective*
+-Enable secure, user-transparent connectivity to enterprise resources across corporate, home, and public networks, minimizing lateral movement, and enforcing per-app access and least-privilege principles via:
+- Managed Wi-Fi access
+- Certificate-based authentication
+- Split/full tunnel VPNs
+- Per-app VPNs for BYOD
+- Proxy and isolation enforcement for data protection
+
 | Feature | Description |
 |---------|-------------|
 | Wi-Fi profiles with certificate auth | Wi-Fi profiles with certificate-based auth (EAP-TLS, PEAP, etc.) |
