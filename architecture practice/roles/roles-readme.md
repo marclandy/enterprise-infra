@@ -55,3 +55,47 @@ Certification Preparation and Career Path
 - Guidance on career paths and job opportunities in IAM roles.
 - Networking opportunities and community engagement for IAM professionals.
 source: Sayed M -> https://www.linkedin.com/posts/sayedmayana_sp-activity-7346673862627000320-G42E
+
+%% Quadrant diagram for IT Architect roles
+flowchart TB
+    %% Define quadrants
+    subgraph Business-Focused [Business-Focused]
+        BA(Business Architect)
+        EA(Enterprise Architect)
+        CA(Chief Architect)
+    end
+
+    subgraph Developer-Focused [Developer-Focused]
+        SA(Software Architect)
+        AA(Application Architect)
+        DA(Data Architect)
+    end
+
+    subgraph Vendor-Focused [Vendor-Focused]
+        SolA(Solution Architect)
+        TA(Technical Architect)
+    end
+
+    subgraph Operations-Focused [Operations-Focused]
+        ClA(Cloud Architect)
+        SecA(Security Architect)
+        NA(Network Architect)
+    end
+
+    %% Data Architect overlaps
+    DA -- overlaps --> BA
+    DA -- overlaps --> SA
+    DA -- overlaps --> ClA
+    DA -- overlaps --> SolA
+
+    %% Color coding (legend)
+    classDef business fill:#FFD700,stroke:#333,stroke-width:2px;
+    classDef developer fill:#87CEEB,stroke:#333,stroke-width:2px;
+    classDef vendor fill:#90EE90,stroke:#333,stroke-width:2px;
+    classDef operations fill:#FFB6C1,stroke:#333,stroke-width:2px;
+
+    class BA,EA,CA business;
+    class SA,AA,DA developer;
+    class SolA,TA vendor;
+    class ClA,SecA,NA operations;
+    
