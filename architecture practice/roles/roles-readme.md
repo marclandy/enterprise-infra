@@ -56,6 +56,7 @@ Certification Preparation and Career Path
 - Networking opportunities and community engagement for IAM professionals.
 source: Sayed M -> https://www.linkedin.com/posts/sayedmayana_sp-activity-7346673862627000320-G42E
 
+```mermaid
 %% Quadrant diagram for IT Architect roles
 flowchart TB
     %% Define quadrants
@@ -98,4 +99,4 @@ flowchart TB
     class SA,AA,DA developer;
     class SolA,TA vendor;
     class ClA,SecA,NA operations;
-    
+ ```   
