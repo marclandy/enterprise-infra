@@ -11,10 +11,4 @@ Architecture Thought Leadership : **validated by industry*<br>
 | **005** | **Third-Party Risk Management (TPRM) Framework** | Complex infrastructure projects (prisons/justice facilities) with siloed governance between building authorities and end-user departments → Strategic TPRM framework integrating cross-organizational accountability and technical requirement alignment → Taxpayer cost avoidance (millions), reduced project delivery risk, enhanced security compliance for critical facilities | **[TPRM Framework](https://github.com/marclandy/enterprise-infra/blob/ml-port/architecture%20practice/images/TPRM.jpg)** | Implementation Phase | NIST/ISO 27001 Aligned |
 
 ---
-old TPRM entry -- Complex infrastructure projects with multiple contractors creating governance gaps and financial exposure<br> → Systematic TPRM assessment framework with vendor evaluation criteria and governance structure integration<br> → Potential cost avoidance of $X million, improved project delivery timelines, enhanced security posture
-### Register Enhancement Notes:
-- **Hyperlinked Keywords**: Key terms link to detailed articles/documentation
-- **Challenge-Solution-Impact Flow**: Clear narrative showing strategic thinking
-- **Multiple Artifact Support**: Each initiative can reference multiple supporting documents
-- **Industry Validation**: Demonstrates thought leadership credibility
-- **Status Tracking**: Shows ongoing value delivery and implementation progress
+005 TPRM entry -- Complex infrastructure projects with multiple contractors creating governance gaps and financial exposure<br> → Systematic TPRM assessment framework with vendor evaluation criteria and governance structure integration<br> → Potential cost avoidance of $X million, improved project delivery timelines, enhanced security posture
