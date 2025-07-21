@@ -241,7 +241,7 @@ source : This catalog is derived from Chapter 5 of *Modern Data Loss Prevention 
 <summary><strong>Analysing Corp IT Traffic Flows</strong></summary>
 <br>  
 
-![internet native transformation](https://github.com/marclandy/enterprise-infra/blob/marclandy-integration/solutions/sd-wan%2Bsse/images/internet-native%20transformation.PNG)
-  
+![internet native transformation](https://github.com/marclandy/enterprise-infra/blob/ml-port/solutions/sd-wan+sse/images/internet-native%20transformation.PNG)
+                                  
 </details>
 
