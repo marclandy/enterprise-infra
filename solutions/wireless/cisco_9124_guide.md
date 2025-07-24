@@ -1,7 +1,5 @@
 # Cisco 9124 Antenna Guide
 
-*Posted by IPTel Solutions | July 21, 2025*
-
 ## Overview
 
 Cisco has released the external 9124 variant access point, featuring a powerful three-radio configuration designed for demanding outdoor environments. This AP includes one 2.4GHz radio and dual 5GHz radios, making it particularly well-suited for mesh deployments where you can maintain a dedicated 5GHz backhaul while serving clients on a separate 5GHz radio.
@@ -124,5 +122,4 @@ The Cisco 9124 is a highly capable, multi-radio access point specifically engine
 - High-density client environments requiring robust performance
 
 ---
-
-*For complex deployments involving mesh networks or specialized antenna configurations, professional Wi-Fi design consultation is recommended to ensure optimal performance and coverage.*
+*Posted by IPTel Solutions | July 21, 2025*
