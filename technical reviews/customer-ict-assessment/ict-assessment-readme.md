@@ -1,4 +1,4 @@
-🌐 Network Assessment with Maturity Levels
+Network Assessment with Maturity Levels
 | **Network Domain**    | **Assessment Question (Current State)**                                                               | **Customer Input (Current)** | **Current Maturity Level (1–5)** | **Assessment Question (Future State)**                                                                 | **Customer Input (Future)** | **Desired Maturity Level (1–5)** |
 |------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------|----------------------------------|----------------------------------------------------------------------------------------------------------|------------------------------|-----------------------------------|
 | DNS                   | How is DNS currently secured and monitored in your environment?                                        |                               |                                  | What improvements could better protect and monitor DNS as a critical service?                           |                              |                                   |
@@ -11,7 +11,7 @@
 | VPN                   | How is secure remote access currently handled for users and third parties?                            |                               |                                  | What improvements could support more secure, scalable, and user-friendly access in a hybrid model?     |                              |                                   |
 ---
 
-🔐 Security Assessment with Maturity Levels
+Security Assessment with Maturity Levels
 | **Security Domain**   | **Assessment Question (Current State)**                                                                 | **Customer Input (Current)** | **Current Maturity Level (1–5)** | **Assessment Question (Future State)**                                                                 | **Customer Input (Future)** | **Desired Maturity Level (1–5)** |
 |------------------------|----------------------------------------------------------------------------------------------------------|-------------------------------|----------------------------------|----------------------------------------------------------------------------------------------------------|------------------------------|-----------------------------------|
 | Identity & Access     | How are user identities authenticated, authorised, and audited today?                                   |                               |                                  | What future improvements in identity governance or adaptive access do you aim to implement?            |                              |                                   |
@@ -24,7 +24,7 @@
 | Governance & Risk      | What processes support security risk management, audits, and compliance reporting today?                |                               |                                  | What capabilities (e.g., automated compliance checks, GRC tools) would elevate your security posture?  |                              |                                   |
 ---
 
-📞 Unified Communications (UC) Assessment with Maturity Levels
+Unified Communications (UC) Assessment with Maturity Levels
 | **UC Domain**          | **Assessment Question (Current State)**                                                                 | **Customer Input (Current)** | **Current Maturity Level (1-5)** | **Assessment Question (Future State)**                                                                 | **Customer Input (Future)** | **Desired Maturity Level (1-5)** |
 |------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------|----------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------|-----------------------------------|
 | Voice Infrastructure   | How resilient and modern is your current enterprise voice infrastructure (on-prem, hybrid, cloud)?     |                               |                                  | What would an ideal enterprise voice setup look like for your business in terms of scalability and availability? |                              |                                   |
@@ -37,7 +37,7 @@
 | Platform Integration   | How well does your UC platform integrate with productivity tools like Microsoft 365 or Salesforce?       |                               |                                  | What workflows or integrations would you like to automate across UC and business platforms?             |                              |                                   |
 ---
 
-🖥️ Infrastructure Assessment with Maturity Levels
+Infrastructure Assessment with Maturity Levels
 | **Infrastructure Domain**    | **Assessment Question (Current State)**                                                             | **Customer Input (Current)** | **Current Maturity Level (1-5)** | **Assessment Question (Future State)**                                                                  | **Customer Input (Future)** | **Desired Maturity Level (1-5)** |
 |------------------------------|------------------------------------------------------------------------------------------------------|-------------------------------|----------------------------------|----------------------------------------------------------------------------------------------------------|------------------------------|-----------------------------------|
 | Data Centre Architecture     | How modern and modular is your current data centre network and server architecture?                 |                               |                                  | What changes would support a more scalable, fabric-based or software-defined data centre?              |                              |                                   |
@@ -50,8 +50,8 @@
 | Sustainability & Efficiency  | What efforts are underway to improve energy efficiency or optimise infrastructure footprint?         |                               |                                  | What future sustainability practices or metrics (e.g., PUE, carbon offsets) do you plan to implement?   |                              |                                   |
 ---
 
-🧭 Maturity Model Legend
-### 🔢 Maturity Levels Explained
+Maturity Model Legend
+### Maturity Levels Explained
 
 | **Level** | **Label**     | **Description**                                                                                   |
 |-----------|----------------|---------------------------------------------------------------------------------------------------|
