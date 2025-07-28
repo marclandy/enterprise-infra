@@ -62,6 +62,3 @@
 | 5         | Optimised      | Continuous improvement culture; automation and integration drive proactive and adaptive security. |
 
 ---
-
-DNS Domain
-- https://hdit.com.au/test-your-domain-now/
