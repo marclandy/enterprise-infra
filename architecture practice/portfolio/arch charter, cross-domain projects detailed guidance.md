@@ -21,7 +21,7 @@ Guidance document designed to provide direction based on projects from the field
 3. *End User Computing* Standard → Add multi-cloud VDI networking
 4. *Enterprise Monitoring* Standard → Add cloud-native requirements
 
-👇 **Common Network Patterns Across All Projects:**
+**Common Network Patterns Across All Projects:**
 - **Management Networks:** 192.168.100.0/22 (OOB) + 172.16.0.0/12 (In-band)
 - **DMZ Zones:** 10.100.0.0/16 
 - **Application Networks:** 10.0.0.0/8 with /16 per major system
