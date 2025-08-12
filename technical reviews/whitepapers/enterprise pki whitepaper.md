@@ -148,10 +148,7 @@ Cloud workloads—such as containerized applications, serverless functions, and 
 
 ## Scenario: Access Flow Sequence – Cert Perspective
 
-<details>
-<summary> <strong> User Journey: Accessing Corporate SaaS Application via ZTNA </strong></summary>
-
-<br>
+User Journey: Accessing Corporate SaaS Application via ZTNA
 
 ```
 ┌──────────────────────────────────────────────────┐
@@ -202,6 +199,5 @@ Cloud workloads—such as containerized applications, serverless functions, and 
 - **TLS cert**: Application traffic security (WAF termination + optional backend mTLS)
 - **S/MIME cert**: Email encryption/signing (Outlook/Exchange)
 - **Agent cert**: Authenticated telemetry channels (SIEM/logging)
-</details>
 
 ---
