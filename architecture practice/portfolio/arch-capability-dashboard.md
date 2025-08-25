@@ -1,11 +1,11 @@
 
 # Network & Infrastructure Architecture
-1/ My **medium.com** articles, scope: Architecture & Design 👇
+1/ My **medium.com** articles, scope: Architecture & Design
 
 <details>
 <summary><strong>Network & Infrastructure Architecture </strong></summary>
 
- 👉 Select the network capability of interest from the list below; 
+ Select the network capability of interest from the list below; 
 <details>
 <summary><strong> Communication and Collaboration services </strong></summary>
 
@@ -109,7 +109,7 @@
 
 ### My Github repo
 
-*2/ my **github** repo, contains Network, Cross-Domain and Infrastructure artefacts* 👇 or **download|view one-page** dashboard view: [_powerpoint_](https://github.com/marclandy/enterprise-infra/raw/refs/heads/marclandy-integration/architecture%20practice/consulting/ML-Technology-Capabilities-Delivered-v0.3.pptx)
+*2/ my **github** repo, contains Network, Cross-Domain and Infrastructure artefacts* 👇 or **download|view one-page** dashboard view: [_powerpoint_](https://github.com/marclandy/enterprise-infra/raw/refs/heads/ml-port/architecture%20practice/portfolio/ML-Technology-Capabilities-Delivered-v0.3.pptx)
 - [*pre-funding deliverables*](https://github.com/marclandy/enterprise-private/blob/main/architecture%20practice/deliverables/pre-funding/pre-funding%20deliverables.md); *whitepapers*, 
 - deliverables; *business-case*, *solution architecture deliverable (SAD)*; *high-level design (HLD)*; *design frameworks*; *options papers*; *guidance artefacts*
 - as the main repo readme, *automation products* to support select use-case will be finalised as all [three](https://github.com/marclandy/enterprise-infra/tree/marclandy-integration#whats-next) are currently in development. 
