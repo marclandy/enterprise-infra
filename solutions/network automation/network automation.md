@@ -28,4 +28,6 @@ Go Serverless on Azure – Building Solutions with Azure Functions
 Getting Started on Google Cloud – Building Solutions with GCE
 Containerize on Google Cloud – Building Solutions with GKE
 
+Coding
+<img width="423" height="281" alt="image" src="https://github.com/user-attachments/assets/a59fd1a2-d756-4a62-9663-dec2f05e3a5d" />
 
