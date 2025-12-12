@@ -131,7 +131,7 @@
 <details>
 <summary><strong> Network Architecture : Projects Typically Led </strong></summary>
 
-| Category | Github link | Value | Benefit |
+| Category | URL link | Value | Benefit |
 |---------:|------------:|:------|:--------|
 |Enterprise WAN/SD-WAN Modernisation|[Federated Orchestration for Global Multi-Cloud Networking (MCN)](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/solutions/sd-wan%2Bsse/Federated%20Orchestration%20for%20Global%20Multi-Cloud%20Networking%20(MCN).md)| Multi-cloud connectivity strategy | Reduces complexity and operational overhead |
 |Enterprise WAN/SD-WAN Modernisation|[SSE Customer Requirements](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/solutions/sd-wan%2Bsse/SSE%20Customer%20Requirements.md)| Security service edge framework | Improves security posture and user experience |
@@ -147,7 +147,7 @@
 <details>
 <summary><strong> Cross-Domain Projects : Typically Support, Consult to & Elevate </strong></summary>
 
-| Category | Github link | Value | Benefit |
+| Category | URL link | Value | Benefit |
 |---------:|------------:|:------|:--------|
 |Data Platform| [Linkedin-Post: 𝗙𝗶𝘃𝗲 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 𝗘𝘃𝗲𝗿𝘆 𝗖𝗧𝗢 𝗦𝗵𝗼𝘂𝗹𝗱 𝗔𝘀𝗸 𝗧𝗵𝗲𝗶𝗿 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁 𝗔𝗯𝗼𝘂𝘁 𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀](https://www.linkedin.com/posts/marclandy_%F0%9D%97%99%F0%9D%97%B6%F0%9D%98%83%F0%9D%97%B2-%F0%9D%97%A4%F0%9D%98%82%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB%F0%9D%98%80-%F0%9D%97%98%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%86-%F0%9D%97%96-activity-7402174507689418752-oDV3) | Defining Network/Infrastructure Architect's Value in Data-Enabled projects | Cluster Networking Optimization; Data Ingestion Performance; Cost Governance |
 |Comms-Collab|[O365 Technical Design & Operations Framework](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/collaborations%20and%20comms/o365-day0%2C1%2C2-guide.md)| Collaboration platform optimization | Improves productivity and user adoption |
@@ -164,7 +164,7 @@
 <details>
 <summary><strong> Infrastructure Architecture : Secondary Projects </strong></summary>
  
-| Category | Github link | Value | Benefit |
+| Category | URL link | Value | Benefit |
 |---------:|------------:|:------|:--------|
 |Enterprise Landing-Zone Builds|[ALZ Network Design SAD](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/deliverables/enterprise%20alz/Enterprise%20Alz%20Network%20Design%20SAD.md)| Cloud foundation architecture | Accelerates secure cloud adoption |
 |Ent-Landing-Zone |[Strategic Areas of ALZ Consulting Value](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/architecture%20practice/deliverables/enterprise%20alz/Strategic%20Areas%20of%20ALZ%20Consulting%20Value.md)| Value-driven consulting approach | Maximizes ROI and business outcomes |
