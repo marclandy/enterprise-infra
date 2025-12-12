@@ -149,6 +149,7 @@
 
 | Category | Github link | Value | Benefit |
 |---------:|------------:|:------|:--------|
+|Data Platform| | Defining Network/Infrastructure Architect's Value in Data-Enabled projects | Cluster Networking Optimization; Data Ingestion Performance; Cost Governance |
 |Comms-Collab|[O365 Technical Design & Operations Framework](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/collaborations%20and%20comms/o365-day0%2C1%2C2-guide.md)| Collaboration platform optimization | Improves productivity and user adoption |
 |Security Program|[Threat preventation mechanisms](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/security/threat%20prevention/azure%20threat%20prevention%20mechanisms.md)| Cloud security architecture | Reduces threat exposure and incidents |
 |Security Program|[Cloud Sec CSPN SSPM DSPM OA](https://github.com/marclandy/enterprise-infra/blob/aa2cf4aeb29351dbd48b47e84d8867108eafd591/technical%20reviews/options%20analysis/cloud%20security%20capability/cloud%20security%20capability%20readme.md)| Security posture management | Enhances visibility and compliance |
