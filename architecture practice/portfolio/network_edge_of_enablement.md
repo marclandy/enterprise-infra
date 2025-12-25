@@ -56,7 +56,7 @@ via Enterprise architecture frameworks
 | DC and Edge Infrastructure Design | High availability, modern LAN/WAN, wireless and compute strategies. |
 | Automation & Lifecycle | Infra-as-code, observability, and asset lifecycle management. |
 | IT/OT Convergence | Secure segmentation, visibility, and enablement of OT data paths. |
-- **full project tables** (head straight [_my capability dashboard_](https://github.com/marclandy/enterprise-infra/blob/ml-port/architecture%20practice/portfolio/arch-capability-dashboard.md), or **download one-page** dashboard view: [_powerpoint_](https://github.com/marclandy/enterprise-infra/blob/ml-port/architecture%20practice/portfolio/ML-Technology-Capabilities-Delivered-v0.3.pptx)
+- **full project tables** (head straight [_my capability dashboard_](https://github.com/marclandy/enterprise-infra/blob/ml-port/architecture%20practice/portfolio/arch-capability-dashboard.md)
 
 Note - I am increasingly taking on more Infrastructure scope as when the need arises on customer site. 
 
