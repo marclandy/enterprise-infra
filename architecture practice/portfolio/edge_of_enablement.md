@@ -1,4 +1,4 @@
-# Network: At the Edge of Enablement
+# At the Edge of Enablement
 
 > *My capability often sits at the edge of domains, where security, access, and enablement collide.*
 
@@ -8,7 +8,7 @@
 &nbsp;&nbsp; ▫ I use the power of [ synthesizing Enterprise Architecture models ](https://medium.com/@marclandy.me/list/architecture-practice-35fbc170845d) to bridge an organisations business strategy with technical execution to ensure cost centers are viewed as digital strategic enablers.<br>
 
 **Purpose:**<br>						
-&nbsp;&nbsp; ▫ This charter defines the architectural value and strategic capability that Network [ *delivers* ](https://github.com/marclandy/enterprise-infra/blob/ml-port/architecture%20practice/portfolio/arch-capability-dashboard.md) within complex enterprise programs, particularly across large-scale, regulated, and hybrid environments.<br>
+&nbsp;&nbsp; ▫ This charter defines the architectural value and strategic capability [ *delivers* ](https://github.com/marclandy/enterprise-infra/blob/ml-port/architecture%20practice/portfolio/arch-capability-dashboard.md) within complex enterprise programs, particularly across large-scale, regulated, and hybrid environments.<br>
 &nbsp;&nbsp; ▫ Today, I am eager to leverage my comprehensive experience in a full-time role and be accountable for developing a multi-year roadmap & delivering key components<br>                                                               &nbsp;&nbsp; ▫ Secondly, to further develop & provide full coverage across the Infrastructure domain (as per the breakdown below)<br>
 
 **Architecture Mandate:**<br>			
