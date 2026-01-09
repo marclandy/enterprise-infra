@@ -1,4 +1,4 @@
-# Detailed Network Architecture Guidance
+# Detailed Architecture Guidance
 
 Guidance document designed to provide direction based on projects from the field. 
 - This document is to be used as a guide only. 
