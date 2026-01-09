@@ -10,7 +10,3 @@ This GitHub portfolio demonstrates how I approach enterprise, network and cloud 
 
 Start exploring *technical reviews, options analysis, solutions, architecture practice artefacts*, here in this github repo. 
 
-Noting my *automation solutions* below (**coming soon**...🛠️);
-- 1/ *Enterprise Azure Landing Zone Customisation package* : deployment and governance artefacts
-- 2/ *Enterprise Cloud PKI use-case automation* : integration patterns for enterprise certificate services
-- 3/ *Productising ZTNA, 802.1x and Conditional Access controls integration* : integration across identity and network enforcement layers
