@@ -133,6 +133,6 @@ The role of Network Solution Architecture is evolving, but it remains essential.
 
 ## Appendix: 
 
-### Network & Infrastructure : *Medium.com* architecture & design articles, 
+### Platform's : *Medium.com* architecture & design articles, 
 
-all category view | [*medium about profile*](https://medium.com/@marclandy.me/lists) 
+all category view | [*medium about profile*](https://medium.com/@marclandy.me/list/platform-architecture-fdd6cea51758)) 
