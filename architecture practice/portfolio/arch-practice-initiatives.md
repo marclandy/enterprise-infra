@@ -1,6 +1,5 @@
 ## Contributions to Architecture Practice Initiatives
 Architecture Thought Leadership : **validated by industry*<br>
-- [My Architecture Governance Framework](https://github.com/marclandy/enterprise-infra/blob/ml-port/architecture%20practice/The%20Practice%20of%20Architecture_Governance%20Structures.pdf) | *EA community endorsed*
 
 | **Item No.** | **Initiative/Title** | **Challenge → Solution → Impact** | **Artefact (link)** | **Status** | **Industry Validation** |
 |--------------|---------------------|----------------------------------|-------------------|------------|----------------------|
@@ -11,4 +10,6 @@ Architecture Thought Leadership : **validated by industry*<br>
 | **005** | **Third-Party Risk Management (TPRM) Framework** | Complex infrastructure projects (prisons/justice facilities) with siloed governance between building authorities and end-user departments <br>→ Strategic TPRM framework integrating cross-organizational accountability and technical requirement alignment <br>→ Potential cost avoidance of $X million, improved project delivery timelines, enhanced security posture | **[TPRM Framework](https://github.com/marclandy/enterprise-infra/blob/ml-port/architecture%20practice/images/TPRM.jpg)** | Implementation Phase | NIST/ISO 27001 Aligned |
 | **006** | **Domain Capability Maturity Map** | Recent improvement : Pre-Finance → Domain Capability Assessment-Maturity before (insert Platform Thinking) Global IT Strategy & Requirement | DM - Private Deliverable | Pre-Finance | TBA |
 ---
+**Methodology & Governance** *As an Independent Platform Architect, I utilise a vetted governance framework to ensure infrastructure and integration projects are delivered with consistency and long-term scalability. This framework serves as the blueprint for my practice*:
+- [My Architecture Governance Framework](https://github.com/marclandy/enterprise-infra/blob/ml-port/architecture%20practice/The%20Practice%20of%20Architecture_Governance%20Structures.pdf) | *EA community endorsed*
 
