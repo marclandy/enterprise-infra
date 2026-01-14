@@ -1,5 +1,5 @@
 ## Contributions to Architecture Practice Initiatives
-Architecture Thought Leadership : **validated by industry*<br>
+Architecture Thought Leadership : *validated by industry*<br>
 
 | **Item No.** | **Initiative/Title** | **Challenge → Solution → Impact** | **Artefact (link)** | **Status** | **Industry Validation** |
 |--------------|---------------------|----------------------------------|-------------------|------------|----------------------|
