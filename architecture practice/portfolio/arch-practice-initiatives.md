@@ -1,15 +1,38 @@
 ## Contributions to Architecture Practice Initiatives
 Architecture Thought Leadership : *validated by industry*<br>
 
-| **Item No.** | **Initiative/Title** | **Challenge → Solution → Impact** | **Artefact (link)** | **Status** | **Industry Validation** |
-|--------------|---------------------|----------------------------------|-------------------|------------|----------------------|
-| **001** | **EA Practice Charter Adoption** | Network Architects operating in silos<br> → Formal alignment to Enterprise Architecture Practice engagement model<br> → Tailored architecture delivering "Good Architecture" and bridging trust between Business and Technology orgs | <details><summary> <strong> Reminder, use of EA Practice Charter </strong></summary><br>![MJL-Endorsed-Idea-by-industry-EA](https://github.com/marclandy/enterprise-infra/blob/94ba422535f6dee7a982f71972adfa4ef24ffb9c/architecture%20practice/images/mjl-net%20arch%20contribution%20to%20arch%20practice%20governance.PNG)</details> | Implemented | **EA Community Endorsed** |
-| **002** | **Integrated EA Models Framework** | Network/Infrastructure architects disconnected from business context<br> → **[Integrated thinking approach](https://medium.com/@marclandy.me/network-infrastructure-contribution-to-architecture-practice-e18a3271ac20)** leveraging all four EA models (Business, Capability, Operating, VCCE)<br> → Greater ARB approval success rate and measurable business impact | <details><summary> <strong> Integrated thinking re: EA Models </strong></summary><br>![MJL-Endorsed-Idea-by-industry-EA](https://github.com/marclandy/enterprise-infra/blob/055bbbe19b983875f149a9e83f0a62b27901547d/architecture%20practice/images/mjl-net%20arch-what%20is%20a%20capability%20map%20and%20why%20does%20the%20business%20need%20it.PNG)</details> | Active | **EA Community Endorsed** |
-| **003** | **LeanIX Strategic Engagement** | Manual architecture documentation creating delivery delays<br> → Leveraging LeanIX platform to streamline strategy and project engagement processes<br> → Accelerated deliverable creation and improved stakeholder alignment | **[LeanIX Implementation Guide](link)** | Planning Phase | Tool Vendor Validated |
-| **004** | **IT Work Classification Framework** | IT stakeholders struggling with project prioritization and next-steps<br> → **Work type Methodology: from "Phoenix Project"** categorizing all work (**1/ Business Projects**, **2/ Internal Projects**, **3/ Operational Change**, **4/ Unplanned Work**)<br> → Simplified decision-making and faster requirement resolution | **[4 Types of Work In IT Framework](https://github.com/marclandy/enterprise-infra/blob/ml-port/architecture%20practice/images/Phoenix%20Project.png)** | Implemented | DevOps Community Standard |
-| **005** | **Third-Party Risk Management (TPRM) Framework** | Complex infrastructure projects (prisons/justice facilities) with siloed governance between building authorities and end-user departments <br>→ Strategic TPRM framework integrating cross-organizational accountability and technical requirement alignment <br>→ Potential cost avoidance of $X million, improved project delivery timelines, enhanced security posture | **[TPRM Framework](https://github.com/marclandy/enterprise-infra/blob/ml-port/architecture%20practice/images/TPRM.jpg)** | Implementation Phase | NIST/ISO 27001 Aligned |
-| **006** | **Domain Capability Maturity Map** | Recent improvement : Pre-Finance → Domain Capability Assessment-Maturity before (insert Platform Thinking) Global IT Strategy & Requirement | DM - Private Deliverable | Pre-Finance | TBA |
+### Platform & IT/OT Convergence
+
+| Item No. | Initiative/Title | Challenge → Solution → Impact |
+| --- | --- | --- |
+| **001** | **Modern Enterprise Platforms (EUC)** | **Challenge:** Fragmented application access patterns blurring the line between delivery and integration. <br>
+
+<br> **Solution:** Architected a framework separating Application Delivery from the Integration Layer, prioritizing identity-centric access. <br>
+
+<br> **Impact:** Established a repeatable "Platform Pattern" where architects shape access and signal orchestration without owning compute runtime. |
+| **002** | **Unified Zero Trust (IT/OT)** | **Challenge:** Bridging passive OT visibility (e.g., Claroty/Dragos) to active enforcement without disrupting safety-critical systems. <br>
+
+<br> **Solution:** Implemented a ZTNA orchestration framework using **Signals, Schemas, and Decisioning** as primitives. <br>
+
+<br> **Impact:** Enabled real-time security stack interoperability across the IT/OT boundary while respecting operational continuity. |
+| **003** | **Platform-Driven Network (Energy)** | **Challenge:** Enabling grid-scale energy transition (ADMS, DERMS, AMI) on legacy, siloed network infrastructure. <br>
+
+<br> **Solution:** Designed a Platform-Driven Network Architecture that treats the grid as a secure application platform. <br>
+
+<br> **Impact:** Provided a vendor-agnostic blueprint for Victorian Electricity Distribution, integrating cybersecurity at the architectural core. |
+| **004** | **Cross-DNSP Shared Infrastructure** | **Challenge:** Managing multi-carrier MPLS cores across federated operating models with rigid regulatory boundaries. <br>
+
+<br> **Solution:** Architected a Group MPLS Platform for cross-domain service integration and multi-site Disaster Recovery. <br>
+
+<br> **Impact:** Enabled shared service delivery while maintaining regulatory accountability and 5-year investment alignment. |
+| **005** | **Domain Capability Assessment (APL-006)** | **Challenge:** IT strategies moving to funding without assessing domain maturity or cross-domain constraints. <br>
+
+<br> **Solution:** Introduced a "Pre-Finance" Assessment framework to identify platform reuse opportunities and structural gaps early. <br>
+
+<br> **Impact:** Reduced project rework and aligned Global IT Strategy with actual platform-led value uplift. |
+
 ---
+
 **Methodology & Governance** *As an Independent Platform Architect, I utilise a vetted governance framework to ensure infrastructure and integration projects are delivered with consistency and long-term scalability. This framework serves as the blueprint for my practice*:
 - [My Architecture Governance Framework](https://github.com/marclandy/enterprise-infra/blob/ml-port/architecture%20practice/The%20Practice%20of%20Architecture_Governance%20Structures.pdf) | *EA community endorsed*
 
