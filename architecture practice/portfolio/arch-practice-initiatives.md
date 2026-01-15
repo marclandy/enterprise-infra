@@ -6,8 +6,8 @@ Architecture Thought Leadership : *validated by industry*<br>
 | Item No. | Initiative/Title | Challenge → Solution → Impact |
 | --- | --- | --- |
 | **001** | **Modern Enterprise Platforms (EUC)** | **Challenge:** Fragmented application access patterns blurring the line between delivery and integration. <br>
-<br> **Solution:** Architected a framework separating Application Delivery from the Integration Layer, prioritizing identity-centric access.</br>
-<br> **Impact:** Established a repeatable "Platform Pattern" where architects shape access and signal orchestration without owning compute runtime. |
+**Solution:** Architected a framework separating Application Delivery from the Integration Layer, prioritizing identity-centric access.<br>
+**Impact:** Established a repeatable "Platform Pattern" where architects shape access and signal orchestration without owning compute runtime. |
 | **002** | **Unified Zero Trust (IT/OT)** | **Challenge:** Bridging passive OT visibility (e.g., Claroty/Dragos) to active enforcement without disrupting safety-critical systems. <br>
 <br> **Solution:** Implemented a ZTNA orchestration framework using **Signals, Schemas, and Decisioning** as primitives. </br>
 <br> **Impact:** Enabled real-time security stack interoperability across the IT/OT boundary while respecting operational continuity. |
