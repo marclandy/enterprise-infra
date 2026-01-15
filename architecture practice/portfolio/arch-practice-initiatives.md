@@ -5,21 +5,11 @@ Architecture Thought Leadership : *validated by industry*<br>
 
 | Item No. | Initiative/Title | Challenge → Solution → Impact |
 | --- | --- | --- |
-| **001** | **Modern Enterprise Platforms (EUC)** | **Challenge:** Fragmented application access patterns blurring the line between delivery and integration. <br>
-**Solution:** Architected a framework separating Application Delivery from the Integration Layer, prioritizing identity-centric access.<br>
-**Impact:** Established a repeatable "Platform Pattern" where architects shape access and signal orchestration without owning compute runtime. |
-| **002** | **Unified Zero Trust (IT/OT)** | **Challenge:** Bridging passive OT visibility (e.g., Claroty/Dragos) to active enforcement without disrupting safety-critical systems. <br>
-<br> **Solution:** Implemented a ZTNA orchestration framework using **Signals, Schemas, and Decisioning** as primitives. </br>
-<br> **Impact:** Enabled real-time security stack interoperability across the IT/OT boundary while respecting operational continuity. |
-| **003** | **Platform-Driven Network (Energy)** | **Challenge:** Enabling grid-scale energy transition (ADMS, DERMS, AMI) on legacy, siloed network infrastructure. <br>
-<br> **Solution:** Designed a Platform-Driven Network Architecture that treats the grid as a secure application platform. </br>
-<br> **Impact:** Provided a vendor-agnostic blueprint for Victorian Electricity Distribution, integrating cybersecurity at the architectural core. |
-| **004** | **Cross-DNSP Shared Infrastructure** | **Challenge:** Managing multi-carrier MPLS cores across federated operating models with rigid regulatory boundaries. <br>
-<br> **Solution:** Architected a Group MPLS Platform for cross-domain service integration and multi-site Disaster Recovery. </br>
-<br> **Impact:** Enabled shared service delivery while maintaining regulatory accountability and 5-year investment alignment. |
-| **005** | **Domain Capability Assessment (APL-006)** | **Challenge:** IT strategies moving to funding without assessing domain maturity or cross-domain constraints. <br>
-<br> **Solution:** Introduced a "Pre-Finance" Assessment framework to identify platform reuse opportunities and structural gaps early. </br>
-<br> **Impact:** Reduced project rework and aligned Global IT Strategy with actual platform-led value uplift. |
+| **001** | **Modern Enterprise Platforms (EUC)** | **Challenge:** Fragmented application access patterns blurring the line between delivery and integration. **Solution:** Architected a framework separating Application Delivery from the Integration Layer, rioritizing identity-centric access. **Impact:** Established a repeatable "Platform Pattern" where architects shape access and signal orchestration without owning compute runtime. |
+| **002** | **Unified Zero Trust (IT/OT)** | **Challenge:** Bridging passive OT visibility (e.g., Claroty/Dragos) to active enforcement without disrupting safety-critical systems. **Solution:** Implemented a ZTNA orchestration framework using **Signals, Schemas, and Decisioning** as primitives. **Impact:** Enabled real-time security stack interoperability across the IT/OT boundary while respecting operational continuity. |
+| **003** | **Platform-Driven Network (Energy)** | **Challenge:** Enabling grid-scale energy transition (ADMS, DERMS, AMI) on legacy, siloed network infrastructure. **Solution:** Designed a Platform-Driven Network Architecture that treats the grid as a secure application platform. **Impact:** Provided a vendor-agnostic blueprint for Victorian Electricity Distribution, integrating cybersecurity at the architectural core. |
+| **004** | **Cross-DNSP Shared Infrastructure** | **Challenge:** Managing multi-carrier MPLS cores across federated operating models with rigid regulatory boundaries. **Solution:** Architected a Group MPLS Platform for cross-domain service integration and multi-site Disaster Recovery. **Impact:** Enabled shared service delivery while maintaining regulatory accountability and 5-year investment alignment. |
+| **005** | **Domain Capability Assessment (APL-006)** | **Challenge:** IT strategies moving to funding without assessing domain maturity or cross-domain constraints. **Solution:** Introduced a "Pre-Finance" Assessment framework to identify platform reuse opportunities and structural gaps early. **Impact:** Reduced project rework and aligned Global IT Strategy with actual platform-led value uplift. |
 
 ---
 
